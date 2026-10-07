@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Boletín Carlota</title>
+<meta name="description" content="Boletín diario de sanidad animal, sector lácteo, agrario y rentabilidad para País Vasco y Navarra.">
+<meta name="theme-color" content="#F3F5F2" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101513" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="assets/icono.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icono-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Boletín">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&family=Newsreader:opsz,wght@6..72,500;6..72,600&display=swap">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="barra">
+  <div class="barra-inner">
+    <div class="marca">
+      <span class="marca-nombre">Boletín</span>
+      <span class="marca-zona">Euskadi · Navarra</span>
+    </div>
+    <div class="modo" role="group" aria-label="Extensión del boletín">
+      <button type="button" id="modo-corto" class="modo-btn" aria-pressed="true">Corto</button>
+      <button type="button" id="modo-largo" class="modo-btn" aria-pressed="false">Largo</button>
+    </div>
+  </div>
+</header>
+
+<main class="pagina">
+  <nav class="fechas" aria-label="Archivo de boletines">
+    <button type="button" id="anterior" class="flecha" aria-label="Boletín anterior">‹</button>
+    <label class="selector">
+      <span class="sr">Elegir fecha</span>
+      <select id="selector-fecha"></select>
+    </label>
+    <button type="button" id="siguiente" class="flecha" aria-label="Boletín siguiente">›</button>
+  </nav>
+
+  <div id="estado" class="estado">Cargando el boletín…</div>
+  <article id="boletin" hidden></article>
+</main>
+
+<footer class="pie">
+  <p id="instalar-texto">Para tenerlo como app: en Android, menú ⋮ → <em>Instalar aplicación</em>. En iPhone, botón Compartir → <em>Añadir a pantalla de inicio</em>.</p>
+  <button type="button" id="instalar" class="btn-secundario" hidden>Instalar como app</button>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
