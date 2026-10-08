@@ -171,6 +171,28 @@ td.sin-dato { color: var(--muted); font-weight: 400; font-style: italic; }
 .agenda .cuando { font-family: var(--font-mono); font-size: .8rem; color: var(--muted); }
 .vacio { color: var(--muted); font-style: italic; margin: 6px 0 0; }
 
+/* Marcas de lectura */
+.item-cabecera { display: flex; align-items: flex-start; justify-content: space-between; gap: 10px; }
+.marca-leido {
+  flex: none; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  font-family: var(--font-mono); font-size: .72rem; color: var(--muted); user-select: none;
+}
+.marca-leido input { width: 18px; height: 18px; margin: 0; accent-color: var(--ok); cursor: pointer; }
+.item.leido h3, .item.leido .resumen, .item.leido .detalle { color: var(--muted); }
+.item.leido .marca-leido { color: var(--ok); }
+
+/* Revistas */
+.revistas-grupo { margin-top: 12px; }
+.revistas-grupo-titulo { font-family: var(--font-mono); font-weight: 500; font-size: .72rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 4px; }
+.revistas { list-style: none; margin: 0; padding: 0; }
+.revista { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.revista-texto { display: grid; gap: 2px; min-width: 0; }
+.revista-nombre { font-weight: 600; text-decoration: none; }
+.revista-nombre:hover { text-decoration: underline; }
+.revista-desc { font-size: .85rem; color: var(--muted); }
+.revista-ultima { font-family: var(--font-mono); font-size: .7rem; color: var(--muted); }
+.revista.leido .revista-ultima, .revista.leido .marca-leido { color: var(--ok); }
+
 .generado { margin-top: 28px; font-family: var(--font-mono); font-size: .72rem; color: var(--muted); }
 
 /* Pie */

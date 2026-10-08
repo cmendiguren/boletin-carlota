@@ -1,6 +1,8 @@
 # Prompt: boletín diario de Carlota
 
-Genera el boletín de hoy y guárdalo como `boletines/AAAA-MM-DD.json` siguiendo `schema/boletin.schema.json`. Después actualiza `boletines/index.json` y ejecuta `node scripts/validar.mjs`.
+Genera el boletín de hoy y guárdalo como `boletines/AAAA-MM-DD.json` siguiendo `schema/boletin.schema.json`. Antes, `git pull origin main`. Después actualiza `boletines/index.json`, ejecuta `node scripts/validar.mjs`, haz commit `Boletín AAAA-MM-DD` y `git push origin main`.
+
+Mira el boletín del día anterior para no repetir noticias: solo vuelve a incluir una noticia si hay novedades, y dilo ("actualización").
 
 ## Para quién es
 

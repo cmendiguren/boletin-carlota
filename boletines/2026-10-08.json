@@ -1,27 +1,32 @@
 {
   "fecha": "2026-10-08",
-  "titulo": "Boletín de ejemplo – jueves 8 de octubre de 2026",
-  "ejemplo": true,
-  "generado": "2026-10-07T23:40:00+02:00",
+  "titulo": "Boletín Carlota – jueves 8 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-07T23:55:00+02:00",
   "semaforo": {
     "nivel": "amarillo",
-    "motivo": "Ejemplo: dermatosis nodular contagiosa en vigilancia en España; sin focos verificados en País Vasco ni Navarra en esta muestra."
+    "motivo": "Lengua azul serotipo 3 con circulación confirmada en País Vasco y Navarra, incluido un foco en bovino en Bizkaia. Sin focos nuevos en la zona en la actualización del MAPA del 1 de octubre."
   },
   "destacados": [
-    "La leche de vaca en la UE se pagó a 42,22 €/100 kg en agosto, cerca de un 20 % menos que hace un año.",
-    "Trigo y maíz suben en París por la tensión en el mar Negro: presión sobre el coste del pienso.",
-    "Las organizaciones agrarias piden revisar al alza los contratos lácteos para cubrir costes."
+    "Lengua azul S3: circulación confirmada en País Vasco y Navarra y foco en vacuno en Bizkaia. Buen momento para repasar vacunaciones.",
+    "La leche en origen en España se pagó a 46,9 c€/l en agosto: +0,4 céntimos en el mes, 5 céntimos menos que hace un año.",
+    "Euskadi aprueba 36 €/vaca de leche (ayuda «Ormuz») y el Gobierno prorroga hasta el 31 de diciembre los 20 c€/l del gasóleo agrícola."
   ],
   "margen": {
     "tendencia": "empeora",
-    "texto": "Precio de la leche a la baja en la UE y costes al alza (gasóleo, cereales). El margen sobre coste de alimentación se estrecha."
+    "texto": "Leche 5 céntimos por debajo de hace un año, maíz entre 260 y 275 €/t y gasóleo agrícola un 45 % más caro que en febrero. Las ayudas amortiguan, pero no compensan."
   },
   "precios": [
+    { "producto": "Leche de vaca en origen, España", "valor": "0,469 €/l", "variacion": "+0,4 c€ mes · −5 c€ año", "fecha": "agosto 2026", "fuente": "Agrodigital (datos FEGA)", "url": "https://www.agrodigital.com/2026/10/02/entregas-leche-agosto-precio-origen/" },
     { "producto": "Leche de vaca, media UE", "valor": "42,22 €/100 kg", "variacion": "≈ −20 % interanual", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-ue-agosto-2026/" },
-    { "producto": "Leche de vaca, Galicia", "valor": "44,4 c€/l", "variacion": "≈ 2 c€ por debajo de la media española", "fecha": "septiembre 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/leche-galicia-precio-44-4-centimos-costes-granjas/" },
-    { "producto": "Trigo y maíz, Euronext París", "valor": "sin dato en el ejemplo", "variacion": "hasta +5,75 €/t en la sesión", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/trigo-maiz-paris-subidas-euronext-5-octubre-2026" },
-    { "producto": "Harina de soja", "valor": "sin actualización hoy", "fecha": "—", "fuente": "—" },
-    { "producto": "Gasóleo agrícola", "valor": "sin actualización hoy", "fecha": "—", "fuente": "—" }
+    { "producto": "Maíz nacional, Lonja del Ebro", "valor": "260 €/t", "variacion": "sin cambios", "fecha": "28 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-precios-28-septiembre-2026-ovino-porcino-cereales" },
+    { "producto": "Maíz Euronext, noviembre 2026", "valor": "274,75 €/t", "variacion": "+5,75 €/t", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/trigo-maiz-paris-subidas-euronext-5-octubre-2026" },
+    { "producto": "Cebada >64 kg/hl, Lonja del Ebro", "valor": "235 €/t", "variacion": "+5 €/t en dos semanas", "fecha": "28 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-precios-28-septiembre-2026-ovino-porcino-cereales" },
+    { "producto": "Trigo pienso, Lonja del Ebro", "valor": "256 €/t", "variacion": "+5 €/t en dos semanas", "fecha": "28 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-precios-28-septiembre-2026-ovino-porcino-cereales" },
+    { "producto": "Soja 46–46,5 %, Lonja de Barcelona", "valor": "425 €/t", "variacion": "+13/14 €/t", "fecha": "15 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-barcelona-precios-soja-girasol-trigo-maiz-cebada-15-septiembre-2026" },
+    { "producto": "Alfalfa gránulo ≥16 %, Lonja del Ebro", "valor": "220 €/t", "variacion": "+4 €/t", "fecha": "28 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-precios-28-septiembre-2026-ovino-porcino-cereales" },
+    { "producto": "Gasóleo agrícola, media nacional", "valor": "1,405 €/l", "variacion": "+45,6 % desde el 23 de febrero", "fecha": "7 sep 2026", "fuente": "Agrodigital (informe semanal MAPA)", "url": "https://agrodigital.com/2026/09/16/gasoleo-agrario-precio/" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "fecha": "—", "fuente": "—" }
   ],
   "secciones": [
     {
@@ -29,35 +34,46 @@
       "titulo": "Sanidad animal",
       "items": [
         {
-          "titular": "Dermatosis nodular contagiosa: el MAPA amplía el banco de vacunas",
-          "ambito": "España",
-          "resumen": "El Ministerio suma 757.575 dosis al banco nacional; en total ha comprado 2,16 millones de dosis frente a la DNC.",
-          "detalle": "El primer caso en España se notificó el 3 de octubre de 2025 en Girona. Hasta abril se contabilizaban 20 focos: 18 en Girona y 2 en Huesca. La zona de restricción de Girona se levantó el 26 de febrero y los focos de Huesca ampliaron las zonas de vacunación.\n\nEl Ministerio considera esencial la vacunación preventiva de emergencia alrededor de los focos. Deben vacunarse los animales que entren en zonas de vacunación desde zonas libres y los terneros que pierden la inmunidad maternal, y se revacunará a los animales vacunados en 2025.\n\nQué vigilar en la zona: cualquier movimiento hacia o desde zonas de vacunación, ferias y exportaciones.",
+          "titular": "Lengua azul serotipo 3: circulación confirmada en País Vasco y Navarra",
+          "ambito": "local",
+          "resumen": "El MAPA incluye a País Vasco y Navarra entre los territorios con circulación del virus esta temporada. En septiembre se confirmó un foco de S3 en una explotación de vacuno de Bizkaia.",
+          "detalle": "En la actualización del 23 de septiembre el Ministerio sumó dos focos nuevos: uno de serotipo 3 en vacuno en Bizkaia y otro de serotipo 8 en ovino en Albacete. Con ellos, eran 16 las provincias con circulación confirmada en la temporada 2026-2027, entre ellas Álava, Gipuzkoa, Bizkaia y Navarra. Navarra ya había tenido en julio un foco de S3 en ovino.\n\nLa actualización del 1 de octubre no añade focos nuevos en País Vasco ni en Navarra.\n\nEl MAPA insiste en vacunar frente a los serotipos circulantes, sobre todo en ovino, pero también en bovino por las pérdidas productivas que causan algunos serotipos (caída de leche, problemas reproductivos).\n\nQué vigilar en las granjas: fiebre, cojeras, lesiones en morro y pezones, bajada brusca de producción. Ante sospecha, aviso inmediato a los servicios veterinarios oficiales.",
           "soloLargo": false,
-          "afectaMiZona": false,
+          "afectaMiZona": true,
+          "fecha": "2026-09-24",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-espana-albacete-vizcaya-23-septiembre-2026"
+        },
+        {
+          "titular": "La lengua azul S3 sigue avanzando: nuevos focos en Córdoba, Toledo y Ciudad Real",
+          "ambito": "España",
+          "resumen": "Tres focos nuevos de serotipo 3 en ovino en la actualización del MAPA del 1 de octubre.",
+          "detalle": "Los tres focos nuevos son de serotipo 3 y en explotaciones de ovino. La lista de territorios con circulación confirmada incluye ya Galicia, Asturias, País Vasco, La Rioja, Navarra, Huesca, Lleida, Segovia, Extremadura y Castilla-La Mancha, además de Córdoba.\n\nPara vacuno de leche, conviene recordar el foco de agosto en Segovia: una granja de 618 vacas frisonas en la que dio positivo una novilla de 25 meses. Muestra que el S3 también entra en explotaciones lecheras intensivas.\n\nDesde este año, el Reglamento (UE) 2026/501 obliga a notificar de inmediato la primera detección de cada serotipo en cada provincia.",
+          "soloLargo": true,
+          "fecha": "2026-10-04",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-espana-nuevos-focos-cordoba-toledo-ciudad-real"
+        },
+        {
+          "titular": "Dermatosis nodular: País Vasco y Navarra, dentro de la zona de vacunación ampliada",
+          "ambito": "local",
+          "resumen": "Desde enero el Ministerio envía vacunas a Aragón, Navarra y País Vasco; en marzo propuso a Bruselas vacunar toda Navarra.",
+          "detalle": "España acumula 20 focos de dermatosis nodular contagiosa desde octubre de 2025: 18 en Girona y 2 en Huesca (los últimos, a primeros de marzo). En enero el MAPA empezó a enviar vacunas para la zona de vacunación ampliada, que incluye Navarra y País Vasco, y en marzo planteó a la Comisión extender la vacunación a toda Navarra.\n\nEn abril el Ministerio amplió el banco nacional hasta 2,16 millones de dosis. Hay que vacunar a los animales que entran en zonas de vacunación desde zonas libres y a los terneros que pierden la inmunidad maternal, y revacunar a los vacunados en 2025.\n\nNo he encontrado información más reciente de focos nuevos; conviene confirmarlo con la oficina comarcal antes de mover animales.",
+          "soloLargo": true,
+          "afectaMiZona": true,
           "fecha": "2026-04-14",
           "fuente": "Interempresas",
           "url": "https://www.interempresas.net/vacuno-leche/628495-Gobierno-destina-millon-de-euros-mas-a-lucha-contra-dermatosis-nodular-contagiosa.html"
         },
         {
-          "titular": "Restricciones a la exportación por DNC: nota del MAPA revisada",
-          "ambito": "España",
-          "resumen": "El MAPA mantiene una nota informativa con las restricciones de exportación por dermatosis nodular (revisión 27).",
-          "detalle": "La nota de la sección de exportación del Ministerio recoge las restricciones que aplican terceros países a los envíos desde España por la dermatosis nodular contagiosa. La revisión 27 es de 15 de julio de 2026. Conviene consultarla si algún cliente vende novillas o terneros a exportación.",
-          "soloLargo": true,
-          "afectaMiZona": false,
-          "fecha": "2026-07-15",
-          "fuente": "MAPA",
-          "url": "https://www.mapa.gob.es/dam/mapa/contenido/ganaderia/temas/comercio-exterior-ganadero/import-export/seccion-exportacion/rev-27-nota-informativa-restricciones-por-dermatosis-nodular-contagiosa-15-07-26.pdf"
-        },
-        {
-          "titular": "Lengua azul y EHE: sin novedades verificadas en este ejemplo",
-          "ambito": "local",
-          "resumen": "En el boletín real aquí irán los focos, serotipos, zonas restringidas y campañas de vacunación en País Vasco y Navarra.",
-          "detalle": "Este item es un marcador del boletín de ejemplo. El boletín diario real buscará en RASVE, Gobierno Vasco, Gobierno de Navarra y Diputaciones Forales la situación de lengua azul y enfermedad hemorrágica epizoótica.",
+          "titular": "Fiebre aftosa en Grecia: el ejército coordina la lucha contra la enfermedad",
+          "ambito": "UE",
+          "resumen": "Grecia ha puesto a las Fuerzas Armadas al frente de la respuesta, con Lesbos como zona más afectada. Europa vive su peor oleada de aftosa desde 2001.",
+          "detalle": "A primeros de septiembre Grecia aprobó que un oficial militar coordine en cada región afectada los movimientos de animales, los sacrificios, la desinfección y las zonas de protección. En Lesbos hay unos 85.000 animales implicados, cerca de una quinta parte de la cabaña local, y ha habido protestas de ganaderos.\n\nGrecia era libre de aftosa desde 1994 hasta la reaparición de marzo. Chipre sufre desde antes la cepa SAT 1, frente a la que las vacunas europeas habituales no protegen.\n\nPara España el riesgo es de entrada por movimientos o productos: refuerza el mensaje de bioseguridad en las visitas.",
           "soloLargo": false,
-          "afectaMiZona": true,
-          "fecha": "2026-10-07"
+          "fecha": "2026-09-04",
+          "fuente": "RUA (Noticias de Atenas)",
+          "url": "https://es.rua.gr/2026/09/04/el-ejercito-asume-el-control-operativo-de-la-lucha-contra-la-fiebre-aftosa-en-grecia/"
         }
       ]
     },
@@ -66,44 +82,44 @@
       "titulo": "Sector ganadero",
       "items": [
         {
-          "titular": "La leche de vaca cae cerca de un 20 % en la UE",
+          "titular": "La leche en origen sube a 46,9 céntimos en agosto, pero 5 menos que hace un año",
+          "ambito": "España",
+          "resumen": "Precio medio de 0,469 €/l (+0,4 c€ sobre julio). Las entregas crecieron un 3,3 % y en agosto cerraron 63 ganaderías.",
+          "detalle": "Según las declaraciones obligatorias (FEGA), en agosto se entregaron 624.947 t de leche de vaca, un 3,3 % más que hace un año: la mayor subida de 2026. De enero a agosto, 5,095 millones de toneladas (+1,7 %).\n\nEl precio medio en origen fue de 46,9 c€/l: 0,4 céntimos más que en julio, pero 5 céntimos menos que en agosto de 2025 (≈ −10 %). La grasa subió a 3,71 % y la proteína a 3,32 %.\n\nQuedan 8.425 ganaderos con entregas: 63 menos que en julio y 343 menos que a principios de año.\n\nQué puede significar: más leche y precio a la baja frente a 2025. Las granjas que no ganen eficiencia por litro lo van a notar.",
+          "soloLargo": false,
+          "fecha": "2026-10-02",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/02/entregas-leche-agosto-precio-origen/"
+        },
+        {
+          "titular": "En la UE la leche de vaca cae cerca de un 20 % interanual",
           "ambito": "UE",
-          "resumen": "Precio medio de 42,22 €/100 kg en agosto de 2026, con una caída interanual cercana al 20 %.",
-          "detalle": "El precio medio europeo de la leche de vaca se situó en 42,22 €/100 kg en agosto de 2026. La bajada interanual ronda el 20 % y coincide con un aumento de la producción en la UE.\n\nQué puede significar: menos margen para renegociar al alza los contratos en origen y más presión para ganar eficiencia en la ración.",
+          "resumen": "Precio medio europeo de 42,22 €/100 kg en agosto. España (46,9 c€/l) sigue por encima de la media.",
+          "detalle": "El precio medio de la leche de vaca en la UE fue de 42,22 €/100 kg en agosto de 2026, con una caída interanual cercana al 20 %. La producción europea creció un 3 % en junio y la mundial un 2,7 %, con Reino Unido como excepción.\n\nMás oferta en los grandes exportadores mantiene la presión sobre mantequilla y leche en polvo y limita el margen para subir precios en origen.",
           "soloLargo": false,
           "fecha": "2026-09-09",
           "fuente": "Agronews Castilla y León",
           "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-ue-agosto-2026/"
         },
         {
-          "titular": "Unión de Uniones pide forzar una revisión al alza de los contratos",
+          "titular": "Unión de Uniones pide forzar una revisión al alza de los contratos lácteos",
           "ambito": "España",
-          "resumen": "La organización anima a los ganaderos a aprovechar las próximas negociaciones para pedir precios que cubran costes.",
-          "detalle": "Unión de Uniones pide a los productores de vacuno de leche que, en las próximas renovaciones de contratos con la industria, exijan subidas suficientes para cubrir los costes de producción.\n\nQué puede significar: el precio del contrato será tema de conversación en las granjas en las próximas semanas.",
+          "resumen": "La organización anima a los ganaderos a usar las próximas renovaciones para exigir precios que cubran costes.",
+          "detalle": "Unión de Uniones pide a los productores de vacuno de leche que, al renovar contratos con la industria, exijan subidas suficientes para cubrir el aumento de costes (gasóleo, fertilizantes, alimentación).\n\nQué puede significar: el precio del contrato y los costes van a estar en todas las conversaciones de granja este otoño.",
           "soloLargo": false,
           "fecha": "2026-09-25",
           "fuente": "Agronews Castilla y León",
           "url": "https://www.agronewscastillayleon.com/union-de-uniones-vacuno/"
         },
         {
-          "titular": "Galicia cobra la leche a 44,4 céntimos y los costes pueden subir otros 5",
+          "titular": "Galicia: leche a 44,4 céntimos y costes que pueden subir otros 5",
           "ambito": "España",
-          "resumen": "El precio medio gallego queda unos 2 céntimos por debajo de la media española mientras los costes siguen al alza.",
-          "detalle": "La leche se paga en Galicia a 44,4 céntimos por litro de media, unos dos céntimos menos que la media española. Las estimaciones apuntan a que el coste de producción puede encarecerse otros 5 céntimos por litro.\n\nReferencia útil para comparar con lo que cobran los clientes de País Vasco y Navarra.",
+          "resumen": "Galicia cobra unos 2 céntimos por debajo de la media española; los costes de producción siguen al alza.",
+          "detalle": "La media gallega de 44,4 c€/l queda unos dos céntimos por debajo de la española, y las estimaciones apuntan a otros 5 céntimos por litro de subida de costes. Sirve como referencia para comparar con lo que cobran tus clientes en País Vasco y Navarra.",
           "soloLargo": true,
           "fecha": "2026-09-15",
           "fuente": "Agronews Castilla y León",
           "url": "https://www.agronewscastillayleon.com/leche-galicia-precio-44-4-centimos-costes-granjas/"
-        },
-        {
-          "titular": "La producción mundial de leche crece un 2,7 %",
-          "ambito": "mundo",
-          "resumen": "En junio de 2026 la producción mundial subió un 2,7 % interanual; la UE, un 3 %. Reino Unido fue la excepción.",
-          "detalle": "Más oferta en los grandes exportadores mantiene la presión sobre las cotizaciones de mantequilla y leche en polvo y, por tanto, sobre el precio en origen.",
-          "soloLargo": true,
-          "fecha": "2026-09-15",
-          "fuente": "Agronews Castilla y León",
-          "url": "https://www.agronewscastillayleon.com/produccion-mundial-leche-sube-27-ue-crece-3/"
         }
       ]
     },
@@ -112,14 +128,34 @@
       "titulo": "Sector agrario",
       "items": [
         {
-          "titular": "Trigo y maíz se disparan en París por el mar Negro",
+          "titular": "Trigo y maíz suben en París por el mar Negro",
           "ambito": "UE",
-          "resumen": "Subidas de hasta 5,75 €/t en Euronext en la sesión del 5 de octubre por la tensión en el mar Negro.",
-          "detalle": "Los futuros de trigo y maíz en Euronext (París) subieron hasta 5,75 €/t en la sesión del 5 de octubre por la tensión en el mar Negro.\n\nQué puede significar: si se mantiene, encarecerá materias primas para pienso en las próximas semanas.",
+          "resumen": "El 5 de octubre el maíz de noviembre subió 5,75 €/t (274,75 €/t) y el trigo de diciembre 4,25 €/t (245,75 €/t) en Euronext.",
+          "detalle": "La subida se explica por las dificultades del tráfico marítimo en el mar Negro, con noticias del hundimiento de un carguero. Maíz: noviembre 274,75 €/t (+5,75), marzo 269,25 (+5,50), junio 266,25 (+3,00). Trigo: diciembre 245,75 €/t (+4,25), marzo y mayo 247,50.\n\nQué puede significar: si la tensión se mantiene, presión al alza en el coste de las raciones en las próximas semanas.",
           "soloLargo": false,
           "fecha": "2026-10-05",
           "fuente": "Agronews Castilla y León",
           "url": "https://www.agronewscastillayleon.com/trigo-maiz-paris-subidas-euronext-5-octubre-2026"
+        },
+        {
+          "titular": "Lonja del Ebro: maíz estable a 260 €/t y la alfalfa sigue subiendo",
+          "ambito": "España",
+          "resumen": "Cebada a 235 €/t y trigo pienso a 256 €/t, ambos 5 €/t por encima de mediados de septiembre. La alfalfa sube 2–4 €/t.",
+          "detalle": "Sesión del 28 de septiembre en Zaragoza: maíz nacional 260 €/t (repite), cebada >64 kg/hl 235 €/t, cebada 60/64 232 €/t y trigo pienso 256 €/t. En forrajes, alfalfa en rama de primera a 170 €/t (+2), gránulo ≥16 % de proteína a 220 €/t (+4) y pacas extra a 290 €/t (+4).\n\nEn vacuno, las vacas se mantienen entre 4,06 y 5,66 €/kg canal.",
+          "soloLargo": false,
+          "fecha": "2026-09-28",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-ebro-precios-28-septiembre-2026-ovino-porcino-cereales"
+        },
+        {
+          "titular": "PAC post-2027: los ministros buscan una posición parcial en octubre",
+          "ambito": "UE",
+          "resumen": "España pide mantener al menos el presupuesto actual y subir a 5.000 € el límite del régimen simplificado para pequeños agricultores.",
+          "detalle": "En el último Consejo de Agricultura los Estados acordaron seguir trabajando para cerrar en octubre una posición parcial sobre la PAC 2028-2034. También analizaron el coste y la disponibilidad de fertilizantes.\n\nEspaña defiende que la PAC conserve, como mínimo, su dotación y su carácter común; rechaza nuevas cofinanciaciones nacionales en frutas y hortalizas; y propone elevar de 3.000 a 5.000 € el umbral del procedimiento simplificado, que según el Ministerio beneficiaría a cerca del 60 % de los perceptores españoles.",
+          "soloLargo": true,
+          "fecha": "2026-09-30",
+          "fuente": "HortiDaily",
+          "url": "https://www.hortidaily.es/article/9878485/la-negociacion-de-la-pac-posterior-a-2027-avanza-en-bruselas/"
         }
       ]
     },
@@ -128,14 +164,24 @@
       "titulo": "Geopolítica y comercio",
       "items": [
         {
-          "titular": "La FAO rebaja un 3,5 % el comercio mundial de cereales",
+          "titular": "Mar Negro: los ataques cruzados frenan las exportaciones de grano",
           "ambito": "mundo",
-          "resumen": "La FAO recorta su previsión de comercio mundial de cereales por las perturbaciones en el mar Negro.",
-          "detalle": "La FAO reduce un 3,5 % su previsión de comercio mundial de cereales, citando las perturbaciones en el mar Negro. Menos comercio disponible tiende a sostener los precios de trigo y maíz en Europa.",
+          "resumen": "Ucrania exportó en agosto unas 539.000 t, frente a 1,73 millones un año antes. La FAO recorta un 3,5 % su previsión de comercio mundial de cereales.",
+          "detalle": "Rusia ha atacado puertos, silos e infraestructura en la región de Odesa, y Ucrania terminales y barcos ligados a Novorossiysk, el mar de Azov y el estrecho de Kerch. El canal de Sulina se ha convertido en un cuello de botella, con capacidad para dos o tres barcos al día. No hay tregua para los buques de grano.\n\nA finales de agosto el trigo en Chicago marcó máximos de más de tres años. Rusia y Ucrania suman cerca del 28 % de las exportaciones mundiales de trigo.\n\nQué puede significar: cereales caros más tiempo, con impacto directo en el coste del pienso.",
           "soloLargo": false,
-          "fecha": "2026-10",
-          "fuente": "Agronews Castilla y León",
-          "url": "https://www.agronewscastillayleon.com/fao-comercio-mundial-cereales-mar-negro-2026"
+          "fecha": "2026-08-27",
+          "fuente": "XTB",
+          "url": "https://www.xtb.com/cl/analisis-y-noticias/analisis-de-mercado/el-trigo-se-dispara-a-su-nivel-mas-alto-en-mas-de-tres-anos"
+        },
+        {
+          "titular": "UE–Mercosur: el Tribunal de Justicia de la UE no suspende el acuerdo",
+          "ambito": "UE",
+          "resumen": "El TJUE rechaza la suspensión cautelar que pedía Polonia; el acuerdo sigue aplicándose de forma provisional mientras se resuelve el fondo.",
+          "detalle": "El vicepresidente del Tribunal consideró que no había urgencia ni un perjuicio irreparable probado. El fondo del asunto se decidirá más adelante, sin fecha. El acuerdo se aplica provisionalmente desde el 1 de mayo de 2026, con rebajas arancelarias graduales y cuotas.\n\nPara el sector: el vacuno de carne es uno de los productos sensibles y las organizaciones agrarias mantienen sus reservas; los quesos españoles figuran entre los productos que pueden ganar mercado.",
+          "soloLargo": false,
+          "fecha": "2026-09-30",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/09/30/tjue-rechaza-suspender-acuerdo-ue-mercosur-3439973/"
         }
       ]
     },
@@ -144,22 +190,49 @@
       "titulo": "Rentabilidad",
       "items": [
         {
-          "titular": "Ganaderos gallegos: gasóleo un 25 % más caro y un 23 % menos de leche",
-          "ambito": "España",
-          "resumen": "Agromuralla pide a la industria revisar precios ante el encarecimiento del gasóleo y la caída de producción.",
-          "detalle": "Agromuralla denuncia una subida de alrededor del 25 % en el gasóleo y una caída del 23 % en la leche producida en Galicia, y pide a la industria láctea revisar los precios.\n\nQué puede significar: el coste energético es un argumento de peso para hablar de eficiencia (menos pasadas de carro, mejor aprovechamiento del forraje).",
+          "titular": "Euskadi: 36 € por vaca de leche y ayudas por la sequía",
+          "ambito": "local",
+          "resumen": "La ayuda «Ormuz» compensa en parte el gasóleo y los fertilizantes en vacuno de leche. Hay además 4,96 M€ por falta de lluvia.",
+          "detalle": "Anunciado el 3 de octubre por la consejera Amaia Barredo. Para agricultura y ganadería hay hasta 5,52 M€:\n\nAyuda extraordinaria «Ormuz» para vacuno de leche: 565.056 € para compensar parte del encarecimiento del gasóleo y los fertilizantes.\n\nAyuda por falta de lluvia: 4,96 M€ ampliables hasta un 40 %. Importes: 36 €/cabeza en vacuno de leche, 60 € en vacuno de carne de más de 24 meses, 6 € en ovino y caprino, 30 € en equino, y por hectárea en patata, alubia, maíz (60 €), girasol y manzana de sidra.\n\nMáximo 15.000 € por beneficiario y solo se pagan importes de más de 300 €. Se estiman unas 5.268 explotaciones más 335 lecheras. Las Diputaciones Forales añadirán apoyos complementarios. Aún no hay plazos de solicitud publicados.",
           "soloLargo": false,
-          "fecha": "2026-09-03",
-          "fuente": "Agronews Castilla y León",
-          "url": "https://www.agronewscastillayleon.com/ganaderos-gallegos-contra-las-cuerdas/"
+          "afectaMiZona": true,
+          "fecha": "2026-10-03",
+          "fuente": "elDiario.es",
+          "url": "https://www.eldiario.es/euskadi/euskadi-movilizara-seis-millones-ayudas-extraordinarias-sectores-agrario-ganadero-pesquero_1_13559557.html"
+        },
+        {
+          "titular": "Gasóleo agrícola: la ayuda de 20 céntimos se prorroga hasta el 31 de diciembre",
+          "ambito": "España",
+          "resumen": "El Gobierno mantiene la bonificación, que vencía el 30 de septiembre. El gasóleo B estaba a 1,405 €/l a primeros de septiembre, un 45,6 % más que en febrero.",
+          "detalle": "El Consejo de Ministros aprobó el 30 de septiembre un nuevo real decreto-ley dentro del plan de respuesta a la crisis de Oriente Medio. Mantiene los 20 céntimos por litro de gasóleo B, que se cobran como devolución del impuesto especial de hidrocarburos.\n\nEl precio medio nacional era de 1,405 €/l el 7 de septiembre, frente a 0,96 €/l el 23 de febrero, al empezar el conflicto con Irán. Las organizaciones agrarias consideran la ayuda insuficiente.",
+          "soloLargo": false,
+          "fecha": "2026-09-30",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/"
+        },
+        {
+          "titular": "Fertilizantes: segundo pago de la ayuda extraordinaria en octubre",
+          "ambito": "España",
+          "resumen": "El FEGA publicará en la segunda semana de octubre la segunda resolución de beneficiarios de los 665 M€ para fertilizantes.",
+          "detalle": "El primer pago, a primeros de septiembre, fue de 494,5 M€ para 249.376 agricultores. España ha recibido además 50 M€ de la reserva de crisis de la UE, que las comunidades autónomas pueden complementar hasta el 200 % para cubrir más coste de fertilizantes o energía.",
+          "soloLargo": true,
+          "fecha": "2026-09-30",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/"
         }
       ]
     }
   ],
   "anguloComercial": [
-    "Con la leche a la baja y los cereales al alza, buen momento para hablar de coste por litro producido y eficiencia alimentaria.",
-    "Preguntar cómo va la renegociación del contrato con la industria: abre conversación sobre márgenes.",
-    "Repasar con cada cliente el estado de vacunación (DNC, lengua azul) antes de cualquier movimiento de animales."
+    "Lengua azul S3 en vacuno en Bizkaia: pregunta a cada cliente cómo va la vacunación y si ha notado bajadas de producción o problemas reproductivos.",
+    "Con la leche 5 céntimos por debajo de hace un año y el maíz al alza, habla de coste de ración por litro y de margen sobre alimentación: es donde más se puede ganar ahora.",
+    "En Euskadi, recuérdales la ayuda de 36 €/vaca de leche: buena forma de abrir la conversación sobre costes.",
+    "La alfalfa y los forrajes comprados suben: revisa con ellos cuánto forraje propio tienen para el invierno."
   ],
-  "agenda": []
+  "agenda": [
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-10", "evento": "Lea-Artibai Urriko Azoka Nagusia", "lugar": "Markina-Xemein (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" }
+  ]
 }

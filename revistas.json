@@ -1,0 +1,37 @@
+{
+  "grupos": [
+    {
+      "titulo": "Vacuno de leche",
+      "revistas": [
+        { "id": "frisona", "nombre": "Frisona Española", "descripcion": "Revista de CONAFE: genética, concursos y manejo de frisona", "url": "https://www.revistafrisona.com/Inicio/Numero-Actual" },
+        { "id": "vacapinta", "nombre": "Vaca Pinta", "descripcion": "Vacuno lechero: manejo, nutrición, mercados", "url": "https://vacapinta.com/es/" },
+        { "id": "vacunodeelite", "nombre": "Vacuno de Élite", "descripcion": "Actualidad y técnica en vacuno de leche y carne", "url": "https://vacunodeelite.com" },
+        { "id": "interempresas-leche", "nombre": "Interempresas · Vacuno de leche", "descripcion": "Noticias y artículos técnicos del sector lácteo", "url": "https://www.interempresas.net/vacuno-leche/" },
+        { "id": "edairynews", "nombre": "eDairyNews", "descripcion": "Mercado lácteo internacional en español", "url": "https://es.edairynews.com" }
+      ]
+    },
+    {
+      "titulo": "Sanidad y veterinaria",
+      "revistas": [
+        { "id": "animalshealth", "nombre": "Animal's Health", "descripcion": "Sanidad animal, industria veterinaria y rumiantes", "url": "https://www.animalshealth.es" },
+        { "id": "diarioveterinario", "nombre": "Diario Veterinario", "descripcion": "Actualidad veterinaria y sanitaria", "url": "https://www.diarioveterinario.com" }
+      ]
+    },
+    {
+      "titulo": "Actualidad agraria",
+      "revistas": [
+        { "id": "agrodigital", "nombre": "Agrodigital", "descripcion": "Mercados, PAC y política agraria", "url": "https://www.agrodigital.com" },
+        { "id": "agronews-leche", "nombre": "Agronews · Vacuno de leche", "descripcion": "Precios, lonjas y noticias del lácteo", "url": "https://www.agronewscastillayleon.com/ganaderia/vacuno-de-leche/" },
+        { "id": "agropopular", "nombre": "Agropopular", "descripcion": "Actualidad agraria, ayudas y normativa", "url": "https://www.agropopular.com" },
+        { "id": "campogalego", "nombre": "Campo Galego", "descripcion": "Vacuno de leche en Galicia, referencia de precios y manejo", "url": "https://www.campogalego.gal" }
+      ]
+    },
+    {
+      "titulo": "Navarra e internacional",
+      "revistas": [
+        { "id": "navarraagraria", "nombre": "Navarra Agraria (INTIA)", "descripcion": "Revista técnica de INTIA para Navarra", "url": "https://www.intiasa.es" },
+        { "id": "dairyreporter", "nombre": "Dairy Reporter", "descripcion": "Industria láctea internacional (en inglés)", "url": "https://www.dairyreporter.com" }
+      ]
+    }
+  ]
+}

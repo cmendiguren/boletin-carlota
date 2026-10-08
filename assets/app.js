@@ -11,6 +11,7 @@
 
   var estado = {
     modo: leerPreferencia("modo", "corto"),
+    revistas: null,
     indice: [],
     fecha: null,
     boletin: null,
@@ -47,6 +48,17 @@
       el.appendChild(typeof c === "string" ? document.createTextNode(c) : c);
     });
     return el;
+  }
+  // Marcas de lectura (se guardan en este dispositivo)
+  function leerMarcas(clave) {
+    try { return JSON.parse(localStorage.getItem("boletin." + clave) || "{}"); } catch (e) { return {}; }
+  }
+  function guardarMarcas(clave, marcas) {
+    try { localStorage.setItem("boletin." + clave, JSON.stringify(marcas)); } catch (e) { /* sin almacenamiento */ }
+  }
+  function hoyISO() {
+    var d = new Date();
+    return d.getFullYear() + "-" + String(d.getMonth() + 1).padStart(2, "0") + "-" + String(d.getDate()).padStart(2, "0");
   }
   function normalizar(t) {
     return (t || "").toString().toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "");
@@ -156,7 +168,8 @@
     var idsPresentes = (b.secciones || []).map(function (s) { return s.id; });
     var chips = [["todo", "Todo"]].concat(idsPresentes.map(function (id) { return [id, SECCIONES[id] || id]; }));
     chips.push(["precios", "Precios"]);
-    if (idsPresentes.indexOf(estado.filtro) < 0 && estado.filtro !== "precios") estado.filtro = "todo";
+    if (estado.revistas) chips.push(["revistas", "Revistas"]);
+    if (idsPresentes.indexOf(estado.filtro) < 0 && estado.filtro !== "precios" && estado.filtro !== "revistas") estado.filtro = "todo";
 
     var filaChips = h("div", { class: "chips", role: "group", "aria-label": "Filtrar por sección" },
       chips.map(function (c) {
@@ -203,7 +216,7 @@
     var q = normalizar(estado.busqueda.trim());
     var hayAlgo = false;
 
-    if (estado.filtro !== "precios") {
+    if (estado.filtro !== "precios" && estado.filtro !== "revistas") {
       (b.secciones || []).forEach(function (s) {
         if (estado.filtro !== "todo" && estado.filtro !== s.id) return;
         var items = (s.items || []).filter(function (it) {
@@ -217,7 +230,9 @@
             s.titulo,
             h("span", { class: "seccion-cuenta", text: items.length + (items.length === 1 ? " noticia" : " noticias") + (ocultos ? " · +" + ocultos + " en Largo" : "") })
           ]),
-          h("div", { class: "items" }, items.map(function (it) { return pintarItem(it, largo); }))
+          h("div", { class: "items" }, items.map(function (it) {
+            return pintarItem(it, largo, b.fecha + "|" + s.id + "|" + s.items.indexOf(it));
+          }))
         ]));
       });
     }
@@ -266,12 +281,78 @@
       ]));
     }
 
+    if ((estado.filtro === "todo" || estado.filtro === "revistas") && !q && estado.revistas) {
+      hayAlgo = true;
+      cont.appendChild(pintarRevistas());
+    }
+
     if (!hayAlgo) {
       cont.appendChild(h("p", { class: "vacio", text: q ? "No hay resultados para «" + estado.busqueda.trim() + "»." : "No hay noticias en esta sección." }));
     }
   }
 
-  function pintarItem(it, largo) {
+  function pintarRevistas() {
+    var marcas = leerMarcas("revistas");
+    var hoy = hoyISO();
+    var total = 0;
+    estado.revistas.grupos.forEach(function (g) { total += g.revistas.length; });
+    var cuenta = h("span", { class: "seccion-cuenta" });
+    function actualizarCuenta() {
+      var leidas = 0;
+      estado.revistas.grupos.forEach(function (g) {
+        g.revistas.forEach(function (r) { if (marcas[r.id] === hoy) leidas++; });
+      });
+      cuenta.textContent = leidas + " de " + total + " leídas hoy";
+    }
+    actualizarCuenta();
+
+    var bloques = estado.revistas.grupos.map(function (g) {
+      return h("div", { class: "revistas-grupo" }, [
+        h("h3", { class: "revistas-grupo-titulo", text: g.titulo }),
+        h("ul", { class: "revistas" }, g.revistas.map(function (r) {
+          var ultima = h("span", { class: "revista-ultima" });
+          var casilla = h("input", { type: "checkbox", id: "rev-" + r.id });
+          var fila = h("li", { class: "revista" });
+          function pintarEstado() {
+            var f = marcas[r.id];
+            casilla.checked = f === hoy;
+            fila.classList.toggle("leido", f === hoy);
+            ultima.textContent = !f ? "Sin leer" : f === hoy ? "Leída hoy" : "Última lectura: " + fechaCorta(f);
+          }
+          casilla.addEventListener("change", function () {
+            if (casilla.checked) marcas[r.id] = hoy; else delete marcas[r.id];
+            guardarMarcas("revistas", marcas);
+            pintarEstado();
+            actualizarCuenta();
+          });
+          pintarEstado();
+          fila.appendChild(h("div", { class: "revista-texto" }, [
+            h("a", { href: r.url, target: "_blank", rel: "noopener", class: "revista-nombre", text: r.nombre + " ↗" }),
+            h("span", { class: "revista-desc", text: r.descripcion }),
+            ultima
+          ]));
+          fila.appendChild(h("label", { class: "marca-leido", for: "rev-" + r.id }, [casilla, "Leída"]));
+          return fila;
+        }))
+      ]);
+    });
+
+    return h("section", { class: "seccion", "aria-labelledby": "sec-revistas" }, [
+      h("h2", { class: "seccion-titulo", id: "sec-revistas" }, ["Revistas", cuenta])
+    ].concat(bloques));
+  }
+
+  function pintarItem(it, largo, clave) {
+    var marcas = leerMarcas("leidos");
+    var casilla = h("input", { type: "checkbox", id: "leido-" + clave.replace(/[^\w-]/g, "_") });
+    var articulo;
+    casilla.checked = !!marcas[clave];
+    casilla.addEventListener("change", function () {
+      var m = leerMarcas("leidos");
+      if (casilla.checked) m[clave] = 1; else delete m[clave];
+      guardarMarcas("leidos", m);
+      articulo.classList.toggle("leido", casilla.checked);
+    });
     var meta = [];
     if (it.ambito) meta.push(h("span", { class: "etiqueta", text: it.ambito }));
     if (it.afectaMiZona) meta.push(h("span", { class: "etiqueta zona", text: "Tu zona" }));
@@ -280,12 +361,16 @@
     var cuerpo = largo
       ? h("div", { class: "detalle" }, parrafos(it.detalle || it.resumen))
       : h("p", { class: "resumen", text: it.resumen });
-    return h("article", { class: "item" }, [
-      h("div", { class: "meta" }, meta),
+    articulo = h("article", { class: "item" + (casilla.checked ? " leido" : "") }, [
+      h("div", { class: "item-cabecera" }, [
+        h("div", { class: "meta" }, meta),
+        h("label", { class: "marca-leido", for: casilla.id }, [casilla, "Leído"])
+      ]),
       h("h3", { text: it.titular }),
       cuerpo,
       largo && it.fuente ? h("div", { class: "fuente" }, ["Fuente: ", enlaceFuente(it)]) : null
     ]);
+    return articulo;
   }
 
   // ---------- carga ----------
@@ -305,6 +390,9 @@
 
   async function iniciar() {
     pintarModo();
+    try {
+      estado.revistas = await cargarJSON("revistas.json");
+    } catch (e) { estado.revistas = null; }
     try {
       var idx = await cargarJSON("boletines/index.json");
       estado.indice = idx.boletines || [];
