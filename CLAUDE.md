@@ -25,6 +25,12 @@ Carlota **no es programadora**: explícale cada paso en lenguaje sencillo, en es
 - Revistas: `revistas.json` (grupos con `id`, `nombre`, `descripcion`, `url`). Para añadir o quitar una revista basta con editar este archivo; el `id` no debe cambiar o se pierde la marca de leída.
 - Marcas de "Leído" (noticias) y "Leída" (revistas): se guardan en el navegador de cada dispositivo (`localStorage`, claves `boletin.leidos` y `boletin.revistas`). No se sincronizan entre móvil y ordenador. Las revistas cuentan como "leídas hoy" y se reinician cada día, mostrando la fecha de la última lectura.
 
+## Ordenador de Carlota (Windows)
+
+- El proyecto está en `C:\Users\cperez\boletin-carlota`. La copia de `Documentos\boletin-carlota` es antigua y no se usa.
+- Git está instalado; si la terminal no lo encuentra, usa la ruta completa (`C:\Program Files\Git\cmd\git.exe`).
+- Node no está instalado, así que `node scripts/validar.mjs` no funciona aquí. Si vas a crear o modificar boletines desde este ordenador, ofrécele instalar Node (nodejs.org, versión LTS) antes.
+
 ## Probar en local
 
 En VS Code: menú *Terminal → Run Task… → Ver la app en el ordenador* y abrir http://localhost:8000. O en una terminal:
@@ -53,7 +59,7 @@ python3 -m http.server 8000
 - [x] Fase 2: primer boletín real (8 de octubre de 2026).
 - [x] Fase 3: publicada en GitHub Pages e instalada en el móvil.
 - [x] Revistas con marca de leída y noticias con marca de leído.
-- [ ] Fase 4: generación automática de lunes a viernes (tarea programada de Claude, ~6:45 hora de Madrid). Comprobar que funciona los primeros días.
+- [x] Fase 4: generación automática en marcha. Es una tarea programada de Claude en la nube (claude.ai, "Boletín Carlota diario"), de lunes a viernes a las 6:45 hora de Madrid; no depende de este ordenador. Primera ejecución: viernes 9 de octubre de 2026. Comprobar los primeros días que aparece el boletín nuevo en `boletines/`.
 - [ ] Fase 5: mejoras (avisos, resumen semanal, fichas de clientes en un sitio privado…).
 
 ## Decisiones
