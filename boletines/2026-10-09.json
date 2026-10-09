@@ -1,0 +1,203 @@
+{
+  "fecha": "2026-10-09",
+  "titulo": "Boletín Carlota – viernes 9 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-09T07:00:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sigue la circulación de lengua azul S3 en País Vasco y Navarra y el virus Shamonda tipo 2 aparece en vacuno en Cantabria, comunidad limítrofe con Bizkaia. No hay alertas nuevas oficiales en la zona."
+  },
+  "destacados": [
+    "Virus Shamonda tipo 2: primer caso en España, en una granja de vacuno de Cantabria. Causa fiebre, diarrea y caída de leche, y se transmite por Culicoides.",
+    "Global Dairy Trade sube un 1,2 % (6 oct): la leche desnatada en polvo gana un 4,3 %, mientras mantequilla y cheddar bajan.",
+    "Arranca el maíz de nueva cosecha en Castilla y León a 249–250 €/t, por debajo de los 260 €/t del Ebro. Trigo y cebada suben 1–2 €/t."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Sin dato nuevo de precio de leche en origen (46,9 c€/l en agosto). El maíz de nueva cosecha entra algo más barato, pero el gasóleo sigue caro y la ayuda de hasta 20 c€/l depende del precio semanal."
+  },
+  "precios": [
+    { "producto": "Leche de vaca en origen, España", "valor": "0,469 €/l", "variacion": "−9,7 % interanual", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Leche de vaca, media UE", "valor": "42,22 €/100 kg", "variacion": "≈ −20 % interanual", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-ue-agosto-2026/" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "3.928 USD/t", "variacion": "+1,2 %", "fecha": "6 oct 2026 (subasta 413)", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Leche desnatada en polvo, GDT", "valor": "3.847 USD/t", "variacion": "+4,3 %", "fecha": "6 oct 2026", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Mantequilla, GDT", "valor": "4.740 USD/t", "variacion": "−0,3 %", "fecha": "6 oct 2026", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Maíz nacional, Lonja del Ebro", "valor": "260 €/t", "variacion": "sin cambios", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-5-octubre-2026-precios-trigo-cebada-porcino-vacuno" },
+    { "producto": "Maíz nueva cosecha, Lonja de León", "valor": "250 €/t", "variacion": "primera cotización de la campaña", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-7-octubre-2026-maiz-cereales" },
+    { "producto": "Maíz Euronext, noviembre 2026", "valor": "274,75 €/t", "variacion": "+5,75 €/t", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/trigo-maiz-paris-subidas-euronext-5-octubre-2026" },
+    { "producto": "Trigo pienso, Lonja del Ebro", "valor": "257 €/t", "variacion": "+1 €/t", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-5-octubre-2026-precios-trigo-cebada-porcino-vacuno" },
+    { "producto": "Cebada >64 kg/hl, Lonja del Ebro", "valor": "237 €/t", "variacion": "+2 €/t", "fecha": "5 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-ebro-5-octubre-2026-precios-trigo-cebada-porcino-vacuno" },
+    { "producto": "Soja 46–46,5 %, Lonja de Barcelona", "valor": "425 €/t", "variacion": "sin actualización desde el 15 sep", "fecha": "15 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-barcelona-precios-soja-girasol-trigo-maiz-cebada-15-septiembre-2026" },
+    { "producto": "Gasóleo agrícola, media nacional", "valor": "1,405 €/l", "variacion": "+45,6 % desde el 23 de febrero", "fecha": "7 sep 2026", "fuente": "Agrodigital (informe semanal MAPA)", "url": "https://agrodigital.com/2026/09/16/gasoleo-agrario-precio/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Lengua azul: sin focos nuevos publicados en País Vasco y Navarra",
+          "ambito": "local",
+          "resumen": "Actualización: no he encontrado focos nuevos en la zona después de la actualización del MAPA del 1 de octubre. Álava, Gipuzkoa, Bizkaia y Navarra siguen con circulación confirmada de S3.",
+          "detalle": "La última información publicada que he podido abrir es la actualización del MAPA del 1 de octubre (focos de S3 en ovino en Córdoba, Toledo y Ciudad Real). En la zona, el último foco fue el de vacuno en Bizkaia del 23 de septiembre.\n\nCon temperaturas todavía suaves, los Culicoides siguen activos: el mensaje de vacunación frente a los serotipos circulantes sigue vigente. Conviene confirmar con la oficina comarcal si hay novedades antes de mover animales.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-02",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/02/lengua-azul-nuevos-focos-ovino/"
+        },
+        {
+          "titular": "Virus Shamonda tipo 2: primer caso en España, en vacuno de Cantabria",
+          "ambito": "España",
+          "resumen": "El laboratorio de Algete confirma el tipo 2 en una granja de vacuno cántabra. Hasta ahora solo había tipo 1 en Córdoba, Toledo, Ávila y Madrid.",
+          "detalle": "El Ministerio de Agricultura lo comunicó tras la confirmación del Laboratorio Central de Veterinaria de Algete. La granja presentó fiebre, diarrea y bajada de producción de leche, como en otros países europeos.\n\nEl Shamonda es un orthobunyavirus del grupo Simbu (pariente del Schmallenberg y el Akabane). Se transmite sobre todo por picadura de Culicoides y puede pasar al feto: abortos y malformaciones. En agudo, la leche cae un 10–20 % durante 7–10 días; la mayoría de los adultos se recupera y no se ha visto mortalidad atribuible. No hay vacuna.\n\nEl tipo 2 ya estaba en el oeste de Francia, Países Bajos y norte de Alemania; Francia lo tenía el 29 de septiembre en 51 departamentos.\n\nQué puede significar: Cantabria limita con Bizkaia. Hay que estar atentos a diarreas con fiebre y caídas bruscas de leche, y dentro de unos meses a abortos y terneros malformados. Ante sospecha, aviso a los servicios veterinarios oficiales; desinsectación de animales e instalaciones y en el transporte.",
+          "soloLargo": false,
+          "fecha": "2026-10-09",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/09/virus-shamonda-tipo-cantabria-vacuno/"
+        },
+        {
+          "titular": "Brucelosis bovina: nuevo foco en Alburquerque (Badajoz)",
+          "ambito": "España",
+          "resumen": "Tres positivos en una ganadería de 468 vacas de carne, dentro del radio de 10 km de los focos anteriores. Inmovilizada y con vaciado sanitario.",
+          "detalle": "La Junta de Extremadura lo comunicó el 8 de octubre. La explotación había dado negativo en el primer control (27 de julio) y tres animales fueron positivos en el segundo (30 de septiembre). Con este, el Ministerio contabiliza un foco primario y cuatro secundarios en 2026.\n\nEspaña es oficialmente libre de brucelosis bovina desde 2022 y es una enfermedad de categoría B en la UE, con medidas obligatorias.\n\nPara la zona: sin riesgo directo, pero es un buen recordatorio de pedir garantías sanitarias en las compras de animales.",
+          "soloLargo": false,
+          "fecha": "2026-10-08",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/09/foco-brucelosis-bovina-alburquerque-badajoz/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Global Dairy Trade sube un 1,2 % tirado por la leche en polvo",
+          "ambito": "mundo",
+          "resumen": "En la subasta del 6 de octubre el índice sube a 3.928 USD/t. La leche desnatada en polvo gana un 4,3 %; mantequilla (−0,3 %) y cheddar (−3,7 %) bajan.",
+          "detalle": "Resultados de la subasta 413: leche entera en polvo 3.605 USD/t (+1,2 %), leche desnatada en polvo 3.847 USD/t (+4,3 %), mantequilla 4.740 USD/t (−0,3 %) y cheddar 3.925 USD/t (−3,7 %). Se vendieron 41.692 t, algo menos que a mediados de septiembre (42.444 t).\n\nQué puede significar: señal tímida de recuperación en los polvos, pero mantequilla y queso, que pesan más en el precio europeo, siguen flojos. De momento no da pie a subidas en origen a corto plazo.",
+          "soloLargo": false,
+          "fecha": "2026-10-07",
+          "fuente": "Vacuno de Élite",
+          "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/"
+        },
+        {
+          "titular": "Galicia: el Sindicato Labrego denuncia un posible «nuevo cártel de la leche»",
+          "ambito": "España",
+          "resumen": "El SLG sostiene que las industrias bajaron en abril entre 6 y 10 céntimos con contratos idénticos y sin competencia entre compradores.",
+          "detalle": "Según su secretaria general, María Ferreiro, los contratos se presentaron con precios, condiciones y fechas de renovación iguales, y el ganadero que no firmaba se arriesgaba a quedarse sin recogida. Pide un marco de negociación entre productores, industria y distribución y herramientas públicas para calcular costes de producción; no descarta tractoradas.\n\nQué puede significar: la tensión por la renovación de contratos de otoño se extiende. En País Vasco y Navarra es un tema para escuchar en cada granja: qué precio les han ofrecido y a qué plazo.",
+          "soloLargo": false,
+          "fecha": "2026-10-02",
+          "fuente": "Galiciapress",
+          "url": "https://www.galiciapress.es/articulo/economia/2026-10-02/6036442-nuevo-cartel-do-leite-amenaza-futuro-explotaciones-gallegas-cientos-miles-granjas-iran-cerrando"
+        },
+        {
+          "titular": "Vacuno de carne y vida: precios estables en las lonjas",
+          "ambito": "España",
+          "resumen": "Sin cambios en el Ebro (vaca E a 5,66 €/kg canal) ni en Salamanca (vacas a 6,06 €/kg canal; terneros a 5,81 €/kg vivo).",
+          "detalle": "Sesiones del 5 de octubre. En Salamanca, terneras de más de 12 meses y menos de 270 kg a 7,40 €/kg canal, sin cambios; vacuno de vida repite (terneros 5,81 €/kg vivo, terneras 5,36 €/kg vivo).\n\nPara la granja de leche: el valor de las vacas de desvieje y de los terneros sigue alto y ayuda a la caja.",
+          "soloLargo": true,
+          "fecha": "2026-10-05",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-salamanca-maiz-249-cebada-porcino-5-octubre-2026"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Arranca el maíz de nueva cosecha a 249–250 €/t en Castilla y León",
+          "ambito": "España",
+          "resumen": "Primeras cotizaciones de campaña: 250 €/t en León (7 oct) y 249 €/t en Salamanca (5 oct). En el Ebro, el maíz repite a 260 €/t.",
+          "detalle": "En la Lonja de León el maíz con destino secadero empieza a 250 €/t (pueden sumarse portes); trigo pienso 230 €/t (+1), cebada 222 €/t (+2) y triticale 220 €/t (+1). En Salamanca: maíz 249 €/t, trigo 238 €/t (=) y cebada 231 €/t (+1).\n\nEn la Lonja del Ebro (5 oct): maíz 260 €/t (=), trigo pienso 257 €/t (+1), cebada >64 kg/hl 237 €/t (+2) y 60/64 234 €/t (+2). La alfalfa en rama de segunda (125 €/t) y tercera (95 €/t) repite.\n\nQué puede significar: la entrada de la cosecha nacional suele frenar el maíz en otoño, pero Euronext sigue cerca de 270 €/t y el mar Negro mantiene el riesgo al alza.",
+          "soloLargo": false,
+          "fecha": "2026-10-07",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-7-octubre-2026-maiz-cereales"
+        },
+        {
+          "titular": "Mercados mundiales: el trigo sube en París y el maíz cae en Chicago",
+          "ambito": "mundo",
+          "resumen": "Semana al 4 de octubre: trigo Euronext diciembre +2,4 % (242,50 €/t); maíz Chicago diciembre −4,6 % (174 €/t). El maíz de París sigue un 47,8 % por encima de hace un año.",
+          "detalle": "Además: maíz Euronext noviembre −0,7 % (269 €/t), trigo Chicago −2,2 % (223 €/t), soja Chicago −1,8 % (417,15 €/t) y colza Euronext −2,1 % (536,75 €/t).\n\nAl trigo europeo lo sostienen la licitación de Arabia Saudí (535.000 t), los problemas en el mar Negro y un euro más débil. En EE. UU. pesan unas existencias de maíz mayores de lo esperado. Los próximos informes del USDA serán los que muevan el mercado.",
+          "soloLargo": true,
+          "fecha": "2026-10-04",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/precios-mundiales-trigo-maiz-soja-colza-avena-4-octubre-2026"
+        },
+        {
+          "titular": "PAC post-2027: los ministros votarían una posición parcial el 26–27 de octubre",
+          "ambito": "UE",
+          "resumen": "Actualización: el Comité Especial de Agricultura avanzó el 5 de octubre; quedan reuniones el 12 y el 19 antes del Consejo de Luxemburgo.",
+          "detalle": "La orientación general parcial dejaría fuera los aspectos financieros. Siguen abiertos el margen de flexibilidad de cada Estado, el porcentaje de ayudas asociadas a la producción, los porcentajes de control y las nuevas reglas de condicionalidad.\n\nPara vacuno de leche, la cuantía de las ayudas asociadas es lo que más conviene seguir.",
+          "soloLargo": true,
+          "fecha": "2026-10-07",
+          "fuente": "Vinetur",
+          "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Mar Negro: hundido un mercante y atacado otro que llevaba maíz ucraniano",
+          "ambito": "mundo",
+          "resumen": "Actualización: el 5 de octubre ardió frente a Rumanía un barco con maíz de Izmail a Italia (dos muertos) y el 6 dos mercantes fueron alcanzados por drones frente a Bulgaria; uno se hundió.",
+          "detalle": "El Royad Mammadov salió de Izmail con maíz para Italia; Ucrania atribuye el ataque a drones rusos. Al día siguiente, el Alfa Watan se hundió y el Able se incendió a unos 130 km de la costa búlgara. Rusia reconoció haber atacado dos cargueros «ucranianos» alegando que llevaban material militar.\n\nUcrania exporta por un corredor pegado a las costas de Rumanía y Bulgaria, y estos ataques reducen el margen de seguridad.\n\nQué puede significar: más riesgo y seguros más caros en la ruta del maíz ucraniano hacia el Mediterráneo. Presión al alza en el coste del pienso.",
+          "soloLargo": false,
+          "fecha": "2026-10-06",
+          "fuente": "Descifrando la Guerra",
+          "url": "https://www.descifrandolaguerra.es/mercantes-costa-bulgara-guerra-naval-mar-negro/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Gasóleo agrícola: la ayuda es de hasta 20 céntimos y depende del precio semanal",
+          "ambito": "España",
+          "resumen": "Actualización: de octubre a diciembre la ayuda cubre hasta el 70 % de la subida frente al precio anterior al conflicto, con un máximo de 20 c€/l. UPA se concentró el 8 de octubre ante Repsol en Puertollano.",
+          "detalle": "Matiz a lo que dijimos ayer: los 20 céntimos son un máximo, no una cantidad fija. Según la nota del Gobierno recogida por Infobae, la ayuda equivale a hasta el 70 % de la diferencia entre el precio semanal del gasóleo agrario y el de antes del conflicto. Algunos medios hablan de un descuento que bajaría a 13 c€ en noviembre y 6 c€ en diciembre; esa escala corresponde a la rebaja general de carburantes, así que conviene confirmarlo con la gestoría o la cooperativa.\n\nUnos 500 agricultores y ganaderos de UPA protestaron en Puertollano. Hablan de un gasóleo que ha pasado de 0,93 a 1,68 €/l y piden rebaja del IVA y un impuesto a los beneficios extraordinarios de las petroleras.\n\nQué puede significar: el coste de gasóleo seguirá alto en el último trimestre, justo con siembras y ensilados.",
+          "soloLargo": false,
+          "fecha": "2026-10-08",
+          "fuente": "Infobae (Europa Press) y Agrodigital",
+          "url": "https://www.infobae.com/espana/agencias/2026/09/30/la-prorroga-de-la-ayuda-al-gasoleo-agricola-y-pesquero-entra-en-vigor-manana/"
+        },
+        {
+          "titular": "Euskadi: la ayuda por sequía se concedería de oficio con el censo de junio",
+          "ambito": "local",
+          "resumen": "Actualización: según UAGA, los 36 €/vaca de leche se pagarían sin solicitud, con el censo de junio de 2026. Además, anticipo del 75 % de la PAC el 16 de octubre.",
+          "detalle": "Según UAGA (aún pendiente de la norma), la ayuda por falta de lluvia se concederá de oficio a agricultores activos con explotación en Euskadi que tributen y coticen allí, tomando el censo ganadero de junio de 2026. Recordatorio: 36 €/vaca de leche, mínimo 300 € y máximo 15.000 € por beneficiario; la partida puede crecer hasta un 40 % si hace falta.\n\nTodavía no se sabe cuánto añadirán las Diputaciones Forales ni las fechas de pago.\n\nUAGA también informa de un anticipo del 75 % de la PAC el 16 de octubre (salvo cebo de vacuno): es liquidez adelantada, no ayuda nueva.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-04",
+          "fuente": "Gasteiz Berri",
+          "url": "https://gasteizberri.com/2026/10/ayudas-sequia-euskadi-2026-cuantias-complemento-alava/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Shamonda en Cantabria: pregunta si han visto diarreas con fiebre o caídas bruscas de leche, y habla de desinsectación y de vigilar abortos y terneros malformados en los próximos meses.",
+    "Con el maíz de nueva cosecha a 249–260 €/t, buen momento para revisar con cada cliente el coste de ración por litro y si les conviene cerrar compras de cereal ahora.",
+    "En Euskadi, la ayuda de 36 €/vaca se calcularía con el censo de junio y sin solicitud: comprueba que el cliente está como agricultor activo y al día.",
+    "Contratos de leche: pregunta qué precio y plazo les ofrece su industria. La tensión en Galicia indica que la negociación de otoño va a ser dura."
+  ],
+  "agenda": [
+    { "fecha": "9–11 oct", "evento": "Feria Agrícola y Artesana", "lugar": "Barakaldo (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-10", "evento": "Lea-Artibai Urriko Azoka Nagusia", "lugar": "Markina-Xemein (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-10-11", "evento": "Día del Baserritarra y Campeonato de Euskal Herria de Quesos de Pastor", "lugar": "Idiazabal (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "12 y 19 oct", "evento": "Comité Especial de Agricultura de la UE: negociación PAC post-2027", "lugar": "Bruselas", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-16", "evento": "Anticipo del 75 % de las ayudas PAC (según UAGA)", "lugar": "País Vasco", "url": "https://gasteizberri.com/2026/10/ayudas-sequia-euskadi-2026-cuantias-complemento-alava/" },
+    { "fecha": "2026-10-17", "evento": "XXXVI Muestra Agrícola de San Fausto", "lugar": "Basauri (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" }
+  ]
+}
