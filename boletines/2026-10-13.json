@@ -1,0 +1,200 @@
+{
+  "fecha": "2026-10-13",
+  "titulo": "Boletín Carlota – martes 13 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-13T07:05:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "El Shamonda ya está en cinco comunidades (el tipo 2, en Cantabria) y País Vasco y Navarra siguen con circulación de lengua azul. No hay focos nuevos publicados en la zona."
+  },
+  "destacados": [
+    "Shamonda: ya son cinco comunidades (Cantabria, Andalucía, Castilla y León, Madrid y Castilla-La Mancha). Lo que más preocupa son los abortos y las malformaciones. No hay casos publicados en País Vasco ni en Navarra.",
+    "La leche sube en Europa: la media de agosto fue de 40,83 €/100 kg, cuarta subida seguida, y Arla paga 46,03 €/100 kg en octubre (+2,08 €). En España no hay dato nuevo (0,469 €/l en agosto).",
+    "El euro cae por debajo de 1,12 dólares y el Brent llega a 108 $/barril: se encarecen la soja, el maíz importado y el gasóleo. Anticipo de la PAC (hasta el 75 %) a partir del 16 de octubre."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "No hay precio nuevo de la leche en España, aunque en Europa sigue subiendo. Los costes empujan al alza: cereales de pienso firmes (maíz a 256 €/t en Binéfar), euro más débil y petróleo más caro."
+  },
+  "precios": [
+    { "producto": "Leche de vaca en origen, España", "valor": "0,469 €/l", "variacion": "sin dato nuevo (último publicado)", "fecha": "agosto 2026", "fuente": "Vacuno de Élite (datos MAPA)", "url": "https://vacunodeelite.com/el-precio-medio-de-la-leche-cruda-agosto-2026-subio-a-0-469e-litro/" },
+    { "producto": "Precio medio europeo de la leche (comparativa de industrias)", "valor": "40,83 €/100 kg", "variacion": "+0,57 € (+1,4 %); unos 18 % menos que hace un año", "fecha": "agosto 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/02/gemiddelde-europese-melkprijs-stijgt-voor-vierde-maand-op-rij" },
+    { "producto": "Precio anticipado Arla (convencional)", "valor": "46,03 €/100 kg", "variacion": "+2,08 €", "fecha": "octubre 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/09/30/arla-verhoogt-melkprijs-oktober-naar-ruim-46-euro" },
+    { "producto": "Precio garantizado FrieslandCampina (Países Bajos)", "valor": "45,50 €/100 kg", "variacion": "+1,50 €", "fecha": "octubre 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/09/28/melkprijs-frieslandcampina-plust-opnieuw-met-150-euro" },
+    { "producto": "Leche desnatada en polvo (Países Bajos, consumo)", "valor": "340 €/100 kg", "variacion": "+9 €", "fecha": "semana 40 (publicado 2 oct)", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/02/zuivelmarkt-draait-nog-altijd-op-twee-snelheden" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "3.928 USD/t", "variacion": "+1,2 % (sin subasta nueva)", "fecha": "6 oct 2026", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "256 €/t", "variacion": "sin cambios", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero" },
+    { "producto": "Trigo pienso, Lonja de Binéfar", "valor": "260 €/t", "variacion": "+3 €/t", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero" },
+    { "producto": "Cebada 64 kg/hl, Lonja de Binéfar", "valor": "240 €/t", "variacion": "+3 €/t", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero" },
+    { "producto": "Maíz Euronext, noviembre 2026", "valor": "273,25 €/t", "variacion": "sin cierre nuevo publicado", "fecha": "9 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-octubre-2026" },
+    { "producto": "Harina de soja, Lonja de Barcelona", "valor": "sin actualización hoy", "variacion": "último dato publicado: 445 €/t (22 sep)", "fecha": "22 sep 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-barcelona-22-septiembre-2026-precios-cereales-soja" },
+    { "producto": "Alfalfa deshidratada, Lonja del Ebro", "valor": "220 €/t", "variacion": "+4 €/t", "fecha": "semana del 5 al 11 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-agrarios-5-11-octubre-2026-cereales-porcino-ovino" },
+    { "producto": "Gasóleo B (agrícola), media de surtidor en España", "valor": "1,704 €/l", "variacion": "sin comparación homogénea (fuente distinta a la del MAPA)", "fecha": "12 oct 2026", "fuente": "Dieselogasolina.com", "url": "https://www.dieselogasolina.com/precio-del-gasoleo-b-o-agricola.html" },
+    { "producto": "Petróleo Brent", "valor": "108,04 USD/barril", "variacion": "+2,32 USD (+2,2 %)", "fecha": "12 oct 2026", "fuente": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-12-2026/" },
+    { "producto": "Euro/dólar", "valor": "1,1155 USD", "variacion": "−0,40 %", "fecha": "12 oct 2026", "fuente": "FXStreet", "url": "https://fxstreet.es/news/el-euro-se-desploma-por-debajo-de-112-mientras-la-retorica-de-linea-dura-de-la-fed-impulsa-al-dolar-estadounidense-202610122222" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "3,177 %", "variacion": "−0,014 puntos; media provisional de octubre 3,221 %", "fecha": "12 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Navarra destina 204.000 € a compensar daños por tuberculosis en vacuno",
+          "ambito": "local",
+          "resumen": "El Departamento de Desarrollo Rural anunció el 8 de octubre una partida de 204.000 € para los daños causados por la tuberculosis bovina. Aún no hay publicados requisitos ni plazos.",
+          "detalle": "Según el titular difundido por Europa Press y recogido por RFEAGAS el 8 de octubre, el Gobierno de Navarra destinará 204.000 € a sufragar los daños de la tuberculosis en el ganado vacuno. La nota que he podido abrir no detalla importes por animal, beneficiarios ni plazos. En convocatorias anteriores de este tipo, Navarra compensaba por animal sacrificado en las campañas de saneamiento y enviaba carta con el impreso a los posibles beneficiarios.\n\nQué hacer: si algún cliente navarro ha tenido sacrificios por saneamiento, que esté atento al Boletín Oficial de Navarra y a la carta del Departamento.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-08",
+          "fuente": "RFEAGAS (Europa Press)",
+          "url": "https://rfeagas.es/desarrollo-rural-destinara-204-000-euros-para-sufragar-danos-causados-por-tuberculosis-en-el-ganado-vacuno/"
+        },
+        {
+          "titular": "Shamonda: el virus ya está en cinco comunidades y preocupan los abortos",
+          "ambito": "España",
+          "resumen": "Actualización: con el tipo 2 en Cantabria, el Shamonda está ya en Cantabria, Andalucía, Castilla y León, Madrid y Castilla-La Mancha. No hay casos publicados en País Vasco ni Navarra.",
+          "detalle": "Hasta ahora todas las detecciones en España eran de tipo 1 (Córdoba, Toledo, Ávila y Madrid). El tipo 2 se confirmó en el Laboratorio Central de Veterinaria de Algete en una explotación de vacuno de Cantabria, notificada por el MAPA el 7 de octubre. No hay cifras oficiales de explotaciones ni de animales afectados. Los casos llegan por vigilancia pasiva a los servicios veterinarios autonómicos.\n\nEl investigador Christian Gortázar (IREC) explica en La Gaceta de Salamanca que la fase aguda dura unos siete días (fiebre, diarrea, bajada de leche) y se trata con tratamiento sintomático. Lo que le preocupa es el efecto reproductivo: abortos y malformaciones, cuyo alcance aún no se conoce. No hay vacuna, no es de declaración obligatoria y no conlleva sacrificio.\n\nQué puede significar: los efectos reproductivos pueden aparecer meses después de la circulación del vector. Conviene anotar fiebres y caídas de leche de estas semanas y vigilar los partos de invierno.",
+          "soloLargo": false,
+          "fecha": "2026-10-12",
+          "fuente": "Agroinformación",
+          "url": "https://agroinformacion.com/el-nuevo-virus-shamonda-tipo-2-en-el-ganado-bovino-comienza-a-propagarse-por-media-espana-ya-son-5-ccaa-tras-el-caso-detectado-en-cantabria/"
+        },
+        {
+          "titular": "Gripe aviar: España prevé vacunar en un año a profesionales expuestos con mayor riesgo",
+          "ambito": "UE",
+          "resumen": "Según el ECDC, España vacunará frente a la gripe aviar H5 a veterinarios y personal de granjas, pero solo a quienes tengan condiciones de mayor riesgo. Cinco países de la UE ya han empezado.",
+          "detalle": "El Centro Europeo para la Prevención y el Control de las Enfermedades (ECDC) publicó el 7 de octubre la primera evaluación de cómo aplican los países la vacunación humana frente a la gripe zoonótica A(H5). Austria, Finlandia, Lituania, Países Bajos y Portugal ya vacunan; España, Noruega y Croacia lo prevén en el plazo de un año. España es la excepción: limita la recomendación a los expuestos con condiciones previas de riesgo, mientras otros países la ofrecen a todo el colectivo.\n\nEl ECDC considera el riesgo bajo para la población general y bajo-moderado para las personas expuestas. En la UE hay autorizada una vacuna. En la temporada 2025-2026 España tuvo 188 focos animales, sobre todo en aves silvestres, y ningún caso humano.\n\nPara Carlota: como veterinaria que entra en granjas, es parte del colectivo. Sigue sin haber H5N1 confirmado en vacuno de leche en Europa.",
+          "soloLargo": true,
+          "fecha": "2026-10-13",
+          "fuente": "The Objective (informe del ECDC)",
+          "url": "https://theobjective.com/sanidad/2026-10-13/espana-preve-empezar-vacunar-gripe-aviar/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La leche europea sube por cuarto mes seguido y Arla paga 46 € en octubre",
+          "ambito": "UE",
+          "resumen": "El precio medio europeo de agosto fue de 40,83 €/100 kg (+1,4 %), aún un 18 % por debajo de hace un año. Arla sube 2,08 € en octubre, hasta 46,03 €/100 kg.",
+          "detalle": "En la comparativa europea de precios de industrias, agosto sube 0,57 €. La mayor subida es la de Mlekpol (Polonia, +3,37 €); FrieslandCampina +1,18 € y Arla +0,99 €. Lactalis Francia baja 0,30 € y Sodiaal, Hochwald, Valio y Tirlan repiten. La producción de la UE sigue creciendo, pero cada vez menos (+2 % en julio).\n\nPara octubre, Arla anticipa 46,03 €/100 kg en convencional (4,45 % de grasa y 3,58 % de proteína) y 68,27 € en ecológico. FrieslandCampina garantiza 45,50 €.\n\nQué puede significar: el norte de Europa ya está en 45–46 €/100 kg, mientras el último dato español es de 46,9 céntimos en agosto. Es un argumento para pedir revisiones al alza en los contratos que se renueven este otoño.",
+          "soloLargo": false,
+          "fecha": "2026-10-02",
+          "fuente": "Nieuwe Oogst",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/02/gemiddelde-europese-melkprijs-stijgt-voor-vierde-maand-op-rij"
+        },
+        {
+          "titular": "Mercado lácteo a dos velocidades: proteína cara, mantequilla con exceso de stock",
+          "ambito": "UE",
+          "resumen": "La leche desnatada en polvo cotiza en los Países Bajos a unos 340 €/100 kg, un 69 % más que a principios de año. La mantequilla, en cambio, sufre por las existencias abundantes.",
+          "detalle": "Según Nieuwe Oogst (2 de octubre), la demanda de proteína empuja la leche en polvo desnatada (de unos 196 € a principios de año a 332–340 €/100 kg) y el suero en polvo (+64 %). La leche en polvo entera está a 393 € (+6 €). La grasa va peor: el mercado cree que hay mucha mantequilla almacenada. Arla invierte más de 63 M€ para ampliar un 15–20 % su capacidad de skyr y requesón.\n\nPor el lado de la oferta, Nueva Zelanda bate récord en agosto (+2,2 %; +4,3 % en los tres primeros meses de campaña) y Fonterra prevé pagar 9,50 NZD/kg de sólidos lácteos. La producción también crece en Australia, la UE y EE. UU.\n\nQué puede significar: hay base para precios firmes, pero no para una subida generalizada. Una leche con buena proteína se valora mejor.",
+          "soloLargo": true,
+          "fecha": "2026-10-02",
+          "fuente": "Nieuwe Oogst y Diario Lechero",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/02/zuivelmarkt-draait-nog-altijd-op-twee-snelheden"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "UAGN se suma a la tractorada del 28 de octubre en Madrid",
+          "ambito": "local",
+          "resumen": "Actualización: la organización navarra llama a sus socios a participar en la protesta de ASAJA, COAG y Unión de Uniones. Su presidente, Félix Bariáin: «sin rentabilidad no hay futuro para el campo».",
+          "detalle": "UAGN (asociada a ASAJA) apoya las mismas reivindicaciones: plan de choque contra los costes con un gasóleo profesional agrario de fiscalidad reducida aplicada en el surtidor, una PAC con presupuesto suficiente y sus dos pilares, precios justos y cumplimiento de la Ley de la Cadena, rechazo al acuerdo con Mercosur en las condiciones actuales y al de Marruecos, y menos burocracia. La marcha acabará ante el Ministerio de Agricultura. Recorrido, horarios y transporte se anunciarán más adelante.\n\nNo he encontrado todavía si ENBA, EHNE o UAGA se suman.\n\nPara la zona: es un tema de conversación en las visitas en Navarra. Algunos clientes pueden faltar ese día.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-10",
+          "fuente": "Navarra Información",
+          "url": "https://www.navarrainformacion.es/2026/10/10/uagn-se-suma-a-la-tractorada-el-28-de-octubre-en-madrid/"
+        },
+        {
+          "titular": "Lonja de Binéfar: trigo y cebada suben 3 €/t; el maíz repite a 256 €/t",
+          "ambito": "España",
+          "resumen": "Sesión del 7 de octubre: trigo pienso 260 €/t y cebada 240 €/t (+3). El maíz se queda en 256 €/t y el frisón O3 en 5,66 €/kg canal.",
+          "detalle": "En Binéfar (posición destino fábrica) el trigo panificable sube a 269 €/t (+3). En vacuno, todo repite: hembras E3 7,47 €/kg canal, R3 7,11 € y frisones O3 hasta 220 kg 5,66 €.\n\nEn el resto de la semana: la Lonja de León abre el maíz de secadero a 250 €/t y en la Lonja del Ebro la alfalfa deshidratada sube 4 €/t, hasta 220 €/t (la de rama de primera repite a 170 €/t). Con el festivo del lunes no hay sesiones nuevas publicadas.\n\nQué puede significar: los cereales de pienso siguen subiendo poco a poco y el forraje deshidratado también. Para el invierno, las raciones no se abaratan.",
+          "soloLargo": false,
+          "fecha": "2026-10-10",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero"
+        },
+        {
+          "titular": "USDA: las existencias mundiales de cereales suben 9,5 Mt, sobre todo por el maíz",
+          "ambito": "mundo",
+          "resumen": "Actualización del informe del 9 de octubre: existencias mundiales de cereales en 787,84 Mt (+1,2 % en el mes). El maíz explica casi el 88 % del aumento.",
+          "detalle": "Según el resumen de Agronews (12 de octubre), la cosecha mundial de cereales 2026/27 queda en 2.944 Mt, un 2,5 % menos que hace un año. Maíz: 1.293,75 Mt de producción y 280,44 Mt de existencias (+8,34 Mt en el mes, aunque −8,7 % interanual). Trigo: 822,39 Mt y existencias de 276,04 Mt (−0,25). Soja: 442,70 Mt (+3,2 % interanual) y existencias de 124,28 Mt.\n\nQué puede significar: más maíz en el mundo frena las subidas, pero en Europa pesan más el mar Negro y un euro débil. No se esperan bajadas fuertes del pienso a corto plazo.",
+          "soloLargo": true,
+          "fecha": "2026-10-12",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/usda-octubre-2026-cereales-trigo-maiz-soja-stocks"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El euro cae por debajo de 1,12 dólares y el Brent sube a 108 $",
+          "ambito": "mundo",
+          "resumen": "El 12 de octubre el euro cerró a 1,1155 dólares (−0,4 %) y el Brent marcó 108,04 $/barril (+2,2 %). Pesan la guerra entre EE. UU. e Irán (Ormuz) y la de Ucrania.",
+          "detalle": "La caída del euro se debe a que la Fed apunta a subir tipos (Beth Hammack, de la Fed de Cleveland, pidió «tasas más altas» ante la inflación) y a la demanda de dólares como refugio por las tensiones en Ormuz y la invasión rusa de Ucrania. El WTI cerró a 93,17 $ (+1,6 %). Esta semana se publican el IPC de EE. UU. (14 de octubre) y el IPC de Alemania.\n\nQué puede significar: un euro débil y un petróleo caro encarecen en euros la soja y el maíz importados, el gasóleo y los fertilizantes. A cambio, ayudan a exportar lácteos europeos.",
+          "soloLargo": false,
+          "fecha": "2026-10-12",
+          "fuente": "FXStreet y Fortune",
+          "url": "https://fxstreet.es/news/el-euro-se-desploma-por-debajo-de-112-mientras-la-retorica-de-linea-dura-de-la-fed-impulsa-al-dolar-estadounidense-202610122222"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "PAC 2026: anticipos de hasta el 75 % a partir del 16 de octubre",
+          "ambito": "España",
+          "resumen": "Bruselas permite este año adelantar el 75 % de las ayudas (normalmente el 70 %) por el encarecimiento de los fertilizantes. Los anticipos van hasta el 30 de noviembre y desde el 1 de diciembre se puede llegar al 90 %.",
+          "detalle": "El anticipo incluye la ayuda básica a la renta, los ecorregímenes y las ayudas asociadas, también las ganaderas. El 100 % llegará cuando se fijen los importes definitivos. El Gobierno Vasco se marcó como objetivo pagar el primer tramo en octubre y el segundo en diciembre. En la PAC 2025 pagó más de 42 M€ en tres tramos, incluida la ayuda asociada a la vaca de leche.\n\nQué hacer: la llegada del anticipo es un buen momento para que el ganadero cierre compras de forraje y pienso para el invierno.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-09-17",
+          "fuente": "Moncloa.com y Gobierno Vasco",
+          "url": "https://www.moncloa.com/2026/09/17/anticipos-pac-2026-fega-importes-provisionales-3432167"
+        },
+        {
+          "titular": "Gasóleo B: 1,704 €/l de media en surtidor",
+          "ambito": "España",
+          "resumen": "Precio medio del gasóleo agrícola en las gasolineras que lo venden, el 12 de octubre. Con el Brent en 108 $ no se espera alivio a corto plazo.",
+          "detalle": "El dato es la media de las gasolineras que venden gasóleo B en España (Dieselogasolina.com, actualizado el 12 de octubre). No se puede comparar con la serie semanal del MAPA (1,405 €/l el 7 de septiembre), que usa otra metodología. El MAPA no ha publicado un dato semanal más reciente.\n\nQué puede significar: el gasóleo sigue siendo uno de los costes que más pesan en la granja (cosecha de maíz forrajero, unifeed, transporte). Es una de las reivindicaciones de la tractorada del 28 de octubre.",
+          "soloLargo": true,
+          "fecha": "2026-10-12",
+          "fuente": "Dieselogasolina.com",
+          "url": "https://www.dieselogasolina.com/precio-del-gasoleo-b-o-agricola.html"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Shamonda: pregunta por fiebres con diarrea y bajadas bruscas de leche en las últimas semanas, y anótalas. Pueden anticipar abortos o terneros malformados en los partos de invierno. Refuerza el mensaje de desinsectar mientras siga el calor.",
+    "La leche sube en Europa (Arla 46 €/100 kg, cuarta subida seguida de la media europea): dato útil para el ganadero que esté renovando contrato. La proteína se paga bien en el mercado: buen momento para hablar de la calidad de la leche.",
+    "Euro débil y Brent a 108 $: la soja y el maíz importados no van a bajar. Revisa con el cliente el coste de ración por litro y el margen sobre alimentación, y cómo aprovechar mejor el forraje propio.",
+    "Con el anticipo de la PAC desde el 16 de octubre, el ganadero tendrá liquidez para cerrar compras de invierno. En Navarra, recuerda la ayuda por tuberculosis a quien haya tenido sacrificios."
+  ],
+  "agenda": [
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-16", "evento": "Empiezan los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://www.moncloa.com/2026/09/17/anticipos-pac-2026-fega-importes-provisionales-3432167" },
+    { "fecha": "2026-10-17", "evento": "XXXVI Muestra Agrícola de San Fausto", "lugar": "Basauri (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-10-19", "evento": "Comité Especial de Agricultura de la UE: negociación PAC post-2027", "lugar": "Bruselas", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura de la UE: posible posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.navarrainformacion.es/2026/10/10/uagn-se-suma-a-la-tractorada-el-28-de-octubre-en-madrid/" }
+  ]
+}
