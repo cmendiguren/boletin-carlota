@@ -1,0 +1,191 @@
+{
+  "fecha": "2026-10-14",
+  "titulo": "Boletín Carlota – miércoles 14 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-14T07:05:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "El Shamonda sigue extendiéndose (ya hay casos en Portugal, uno en Bragança, junto a Zamora) y en País Vasco y Navarra sigue circulando la lengua azul. No hay focos nuevos publicados en la zona."
+  },
+  "destacados": [
+    "Shamonda: Portugal confirma el virus en cinco explotaciones de vacuno. Un estudio francés calcula unas pérdidas de 33–37 € por vaca y año. Sigue sin haber casos publicados en País Vasco ni en Navarra.",
+    "La leche desnatada en polvo sube en los Países Bajos a 342 €/100 kg (+10 €), su nivel más alto desde 2022. La mantequilla baja por cuarta semana seguida (390 €).",
+    "Sequía en Euskadi: EHNE protestó ante el Gobierno Vasco por unas ayudas que considera «insuficientes y tardías», y Álava añade 1,95 M€ propios. El anticipo de la PAC empieza el viernes 16."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "No hay precio nuevo de la leche en España y el mercado europeo sigue firme en proteína. Los forrajes suben (alfalfa +7 €/t en Salamanca), mientras el petróleo y la harina de soja en Chicago se relajan un poco."
+  },
+  "precios": [
+    { "producto": "Leche de vaca en origen, España", "valor": "0,469 €/l", "variacion": "sin dato nuevo (último publicado)", "fecha": "agosto 2026", "fuente": "Vacuno de Élite (datos MAPA)", "url": "https://vacunodeelite.com/el-precio-medio-de-la-leche-cruda-agosto-2026-subio-a-0-469e-litro/" },
+    { "producto": "Precio medio europeo de la leche (comparativa de industrias)", "valor": "40,83 €/100 kg", "variacion": "sin dato nuevo", "fecha": "agosto 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/02/gemiddelde-europese-melkprijs-stijgt-voor-vierde-maand-op-rij" },
+    { "producto": "Precio anticipado Arla (convencional)", "valor": "46,03 €/100 kg", "variacion": "+2,08 € (sin cambio desde el anuncio)", "fecha": "octubre 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/09/30/arla-verhoogt-melkprijs-oktober-naar-ruim-46-euro" },
+    { "producto": "Precio garantizado FrieslandCampina (Países Bajos)", "valor": "45,50 €/100 kg", "variacion": "+1,50 € (sin cambio desde el anuncio)", "fecha": "octubre 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/09/28/melkprijs-frieslandcampina-plust-opnieuw-met-150-euro" },
+    { "producto": "Leche desnatada en polvo (Países Bajos, consumo humano)", "valor": "342 €/100 kg", "variacion": "+10 €", "fecha": "semana 41 (cotización del 7 oct)", "fuente": "ZuivelNL", "url": "https://zuivel-nl.files.svdcdn.com/production/images/Noteringen-week-41_2026.pdf?dm=1791366285" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "390 €/100 kg", "variacion": "−5 €", "fecha": "semana 41 (cotización del 7 oct)", "fuente": "ZuivelNL", "url": "https://zuivel-nl.files.svdcdn.com/production/images/Noteringen-week-41_2026.pdf?dm=1791366285" },
+    { "producto": "Leche entera en polvo (Países Bajos)", "valor": "393 €/100 kg", "variacion": "+6 €", "fecha": "semana 41 (cotización del 7 oct)", "fuente": "ZuivelNL", "url": "https://zuivel-nl.files.svdcdn.com/production/images/Noteringen-week-41_2026.pdf?dm=1791366285" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "3.928 USD/t", "variacion": "+1,2 % (sin subasta nueva)", "fecha": "6 oct 2026", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Maíz, Lonja de Salamanca", "valor": "248 €/t", "variacion": "−1 €/t", "fecha": "13 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-13-octubre-2026-precios-cereales-vacuno-ovino-porcino" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "256 €/t", "variacion": "sin sesión nueva publicada", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero" },
+    { "producto": "Trigo pienso, Lonja de Binéfar", "valor": "260 €/t", "variacion": "sin sesión nueva publicada", "fecha": "7 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-binefar-precios-7-octubre-2026-trigo-porcino-cordero" },
+    { "producto": "Cebada, Lonja de Salamanca", "valor": "231 €/t", "variacion": "sin cambios", "fecha": "13 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-13-octubre-2026-precios-cereales-vacuno-ovino-porcino" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "444 €/t", "variacion": "+7 €/t", "fecha": "6 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Alfalfa, Lonja de Salamanca", "valor": "257 €/t", "variacion": "+7 €/t", "fecha": "13 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-13-octubre-2026-precios-cereales-vacuno-ovino-porcino" },
+    { "producto": "Gasóleo B (agrícola), media de surtidor en España", "valor": "1,712 €/l", "variacion": "+0,008 €/l", "fecha": "13 oct 2026", "fuente": "Dieselogasolina.com", "url": "https://www.dieselogasolina.com/precio-del-gasoleo-b-o-agricola.html" },
+    { "producto": "Petróleo Brent", "valor": "107,29 USD/barril", "variacion": "−0,75 USD (−0,7 %)", "fecha": "13 oct 2026 (mañana en EE. UU.)", "fuente": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-13-2026/" },
+    { "producto": "Euro/dólar", "valor": "1,121 USD", "variacion": "rebote desde 1,1155 del día 12", "fecha": "14 oct 2026 (sesión asiática)", "fuente": "FXStreet", "url": "https://www.fxstreet.es/news/eur-usd-pronostico-del-precio-gana-terreno-cerca-de-11150-a-la-espera-del-ipc-de-eeuu-202610140336" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "3,191 %", "variacion": "+0,014 puntos; media provisional de octubre 3,217 %", "fecha": "13 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/13/el-euribor-sube-pero-ni-se-nota/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Shamonda: Portugal confirma el virus en cinco explotaciones de vacuno",
+          "ambito": "UE",
+          "resumen": "Hay cuatro positivos por PCR (Odemira, Loures, Crato y Montijo) y uno por serología en Vimioso (Bragança), junto a Zamora. En España siguen siendo cinco comunidades, sin casos publicados en País Vasco ni Navarra.",
+          "detalle": "Según Diario Veterinario (13 de octubre), las autoridades veterinarias portuguesas han detectado el virus en cinco explotaciones de cinco distritos: tres de leche o mixtas (Odemira, Loures y Montijo) y dos de carne (Crato y Vimioso). Portugal había reforzado la vigilancia tras los casos en España. No hay vacuna ni tratamiento específico y no hay pruebas de que sea zoonósico.\n\nSobre el impacto económico, Libre Mercado (13 de octubre) recoge dos datos. Cantabria advierte de una caída de leche del 10 al 20 % durante 7–10 días, con recuperación a veces incompleta. Un estudio de la Escuela Nacional Veterinaria de Toulouse, basado en un modelo de Schmallenberg, estima entre 33 y 37 € por vaca y año en un escenario moderado. En España no hay comunidades nuevas: Cantabria, Andalucía, Castilla y León, Madrid y Castilla-La Mancha.\n\nQué puede significar: el virus circula ya en buena parte de la península. Mientras haya actividad de vectores, conviene desinsectar y anotar los episodios de fiebre con caída de leche.",
+          "soloLargo": false,
+          "fecha": "2026-10-13",
+          "fuente": "Diario Veterinario y Libre Mercado",
+          "url": "https://www.diarioveterinario.com/t/6049180/portugal-confirma-presencia-virus-shamonda-varias-explotaciones-bovinas"
+        },
+        {
+          "titular": "Tuberculosis: la Plataforma Pecuaria Bovina pide cambiar el programa de saneamiento",
+          "ambito": "España",
+          "resumen": "Propone el interferón gamma como prueba única en mayores de seis meses, una sola vuelta anual donde la situación lo permita e indemnizaciones más altas y rápidas.",
+          "detalle": "En una carta a la Junta de Castilla y León (12 de octubre), la Plataforma Pecuaria Bovina pide revisar a fondo el Programa Nacional de Erradicación de la Tuberculosis Bovina, con ganaderos y veterinarios de campo. Sus propuestas: interferón gamma (EURLAB) como prueba única para todos los bovinos mayores de seis meses; avanzar hacia una sola vuelta anual de saneamiento en zonas o explotaciones con buena situación sanitaria; permitir que los terneros de explotaciones positivas o suspendidas salgan a cebaderos de ciclo cerrado sin saneamiento previo; y subir las indemnizaciones por sacrificio, compensar el daño productivo y pagar antes.\n\nEl texto no aporta cifras de incidencia. Es una petición de una organización ganadera, no un cambio normativo.\n\nPara la zona: enlaza con la ayuda de 204.000 € de Navarra por daños de tuberculosis. Es un tema que preocupa a los ganaderos que han tenido sacrificios.",
+          "soloLargo": true,
+          "fecha": "2026-10-12",
+          "fuente": "La Gaceta de Salamanca",
+          "url": "https://www.lagacetadesalamanca.es/campo/plataforma-pecuaria-bovina-pide-junta-revisar-campanas-20261012132519-nt.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La leche en polvo desnatada marca máximos desde 2022; la mantequilla sigue bajando",
+          "ambito": "UE",
+          "resumen": "Actualización: en la cotización oficial neerlandesa del 7 de octubre, la leche desnatada en polvo sube 10 €, hasta 342 €/100 kg, y la mantequilla cae 5 €, hasta 390 €. Es la cuarta bajada semanal seguida de la mantequilla.",
+          "detalle": "Cotizaciones de ZuivelNL de la semana 41 (frente al 30 de septiembre): leche desnatada en polvo para consumo 342 € (+10) y para pienso 340 € (+9); leche entera en polvo 393 € (+6), tras tres semanas sin cambios; mantequilla 390 € (−5); suero en polvo 165 € (−1).\n\nSegún Nieuwe Oogst (7 de octubre), la desnatada está en su nivel más alto desde 2022. Martin Valstar, analista de ZuivelNL, espera que los polvos sigan subiendo a corto plazo («ahora mismo los precios suben cada día»). La mantequilla, que históricamente marcaba el precio de la leche en granja, va por otro camino, y no está claro que la subida de los polvos baste para empujar el precio al ganadero.\n\nQué puede significar: la proteína es lo que más se paga ahora mismo. Las industrias que pagan por sólidos premiarán más la proteína que la grasa.",
+          "soloLargo": false,
+          "fecha": "2026-10-07",
+          "fuente": "ZuivelNL y Nieuwe Oogst",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/07/melkpoedermarkt-haalt-voet-van-de-rem"
+        },
+        {
+          "titular": "Lonja de Salamanca: vacuno de carne y de vida sin cambios",
+          "ambito": "España",
+          "resumen": "El 13 de octubre repiten las terneras (7,40 €/kg canal) y los terneros de vida (5,81 €/kg vivo). En el mercado físico, las vacas bajan 0,01 €, hasta 3,51 €/kg.",
+          "detalle": "Sesión del 13 de octubre en Salamanca: vacuno de carne y de vida repiten (terneras de 12 meses o más y menos de 270 kg a 7,40 €/kg canal; terneros a 5,81 €/kg vivo). En el mercado físico entraron 246 animales y las vacas bajaron 0,01 €, hasta 3,51 €/kg; la fuente avisa de que la base de esa cotización está por confirmar.\n\nQué puede significar: el valor del ternero y de la vaca de desvieje sigue estable. No es un ingreso extra para la granja de leche, pero tampoco empeora.",
+          "soloLargo": true,
+          "fecha": "2026-10-13",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-salamanca-13-octubre-2026-precios-cereales-vacuno-ovino-porcino"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Lonja de Salamanca: la alfalfa sube 7 €/t y el maíz baja 1 €",
+          "ambito": "España",
+          "resumen": "Sesión del 13 de octubre: alfalfa 257 €/t (+7), paja 75 €/t (+2) y maíz 248 €/t (−1). Trigo (238 €) y cebada (231 €) repiten.",
+          "detalle": "En Salamanca los forrajes siguen subiendo: alfalfa a 257 €/t (+7) y paja a 75 €/t (+2). El maíz cede 1 €, hasta 248 €/t, en plena cosecha, y el girasol baja 5 €, hasta 540 €/t. Trigo y cebada repiten. Binéfar y el Ebro no han publicado sesiones nuevas desde el 7 de octubre (maíz a 256 €/t en Binéfar).\n\nQué puede significar: con la cosecha de maíz, el grano se estabiliza, pero el forraje se encarece. En el norte, donde la sequía ha dejado poca hierba para el invierno, el forraje comprado pesará más en el coste de la ración.",
+          "soloLargo": false,
+          "fecha": "2026-10-13",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-salamanca-13-octubre-2026-precios-cereales-vacuno-ovino-porcino"
+        },
+        {
+          "titular": "Chicago: la harina de soja baja casi 7 dólares por tonelada",
+          "ambito": "mundo",
+          "resumen": "El 13 de octubre la harina de soja (diciembre) cayó 6,83 USD/t y la soja (noviembre) 1,01 USD/t. El maíz subió 0,49 USD/t.",
+          "detalle": "Según el informe de mercados de Grassi (13 de octubre), el complejo de la soja abrió débil por la presión de la cosecha en EE. UU. y porque los fondos especulativos recortaron posiciones. En Brasil ya se ha sembrado el 15,6 % de la soja. El maíz subió un poco, aunque los balances mundiales siguen holgados, y el trigo bajó 0,46 USD/t. El USDA confirmó cosechas de trigo de 88 Mt en Ucrania y 26 Mt en Rusia. El informe describe la sesión, no cierres definitivos.\n\nEn Barcelona, el último dato publicado de harina de soja 47 % es de 444 €/t (6 de octubre, +7 €).\n\nQué puede significar: si la bajada en Chicago se mantiene, podría frenar la subida de la soja en España, aunque un euro débil reduce ese efecto.",
+          "soloLargo": true,
+          "fecha": "2026-10-13",
+          "fuente": "Grassi S.A.",
+          "url": "https://grassimarkets.grassisa.com.ar/2026/10/13/actualizacion-de-mercados-13-10-2026-grassi-s-a/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Diésel ruso y ataques hutíes: el petróleo baja un poco, pero sigue caro",
+          "ambito": "mundo",
+          "resumen": "El acuerdo anunciado por Trump para que Rusia venda diésel al mercado mundial bajó el Brent alrededor de un 1 % el 13 de octubre, a unos 105–107 $/barril. Los ataques hutíes contra Arabia Saudí impiden más bajadas.",
+          "detalle": "Trump anunció el 9 de octubre un acuerdo con Putin: Rusia suministraría de inmediato más de 300.000 toneladas de diésel a EE. UU. y al mercado mundial, otras 500.000 en noviembre y 1 millón de toneladas después. El Tesoro de EE. UU. ha dado una licencia temporal. Zelenski lo calificó de «regalo» a Rusia. La UE sigue prohibiendo importar carburantes refinados rusos, así que a España solo le llegaría el efecto a través de los precios internacionales, y con retraso.\n\nPor otro lado, los hutíes atacaron el aeropuerto de Riad y se interrumpió temporalmente un oleoducto saudí; cinco refinerías pararon y ya han vuelto a funcionar. También hay ataques a petroleros cerca de Ormuz. Goldman Sachs subió su previsión del Brent para diciembre de 85 a 90 $.\n\nQué puede significar: el gasóleo agrícola puede dejar de subir en las próximas semanas, pero no se espera una bajada fuerte mientras siga la tensión en Oriente Medio.",
+          "soloLargo": false,
+          "fecha": "2026-10-13",
+          "fuente": "Moncloa.com e Infobae",
+          "url": "https://www.moncloa.com/2026/10/10/trump-diesel-ruso-eeuu-precio-gasoleo-3445629/"
+        },
+        {
+          "titular": "El euro rebota hasta 1,121 dólares antes del IPC de EE. UU.",
+          "ambito": "mundo",
+          "resumen": "Tras caer el lunes a 1,1155, el euro sube cerca de 1,121 dólares esta madrugada. Hoy se publica la inflación de EE. UU.",
+          "detalle": "El dólar pierde algo de fuerza porque la rentabilidad del bono estadounidense a 10 años ha bajado del 5,36 % al 5,20 %. El mercado espera que la Fed mantenga los tipos a finales de octubre y los suba en diciembre. Para el BCE, 70 de 73 economistas consultados por Reuters prevén que mantenga la facilidad de depósito en el 2,50 % el 29 de octubre. Los riesgos fiscales de Francia limitan la subida del euro.\n\nQué puede significar: un euro algo más fuerte abarata un poco la soja y el maíz importados. El dato de inflación de hoy puede mover el cambio en cualquier sentido.",
+          "soloLargo": true,
+          "fecha": "2026-10-14",
+          "fuente": "FXStreet",
+          "url": "https://www.fxstreet.es/news/eur-usd-pronostico-del-precio-gana-terreno-cerca-de-11150-a-la-espera-del-ipc-de-eeuu-202610140336"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Sequía: EHNE protesta ante el Gobierno Vasco y Álava añade 1,95 M€",
+          "ambito": "local",
+          "resumen": "EHNE se concentró el 8 de octubre en Vitoria y llamó «limosna» a las ayudas del Gobierno Vasco. Dice que la cosecha de forraje será la mitad que otros años. La Diputación de Álava pone 1,95 M€ propios (de 300 a 15.000 € por explotación).",
+          "detalle": "Decenas de baserritarras de EHNE protestaron ante la sede del Gobierno Vasco. Según sus cálculos, de los 5,52 M€ anunciados para agricultura y ganadería, unos 4,96 M€ son por la sequía si se descuentan los 565.056 € por la crisis de Ormuz, y de ahí salen 430.650 € para el gasóleo de la pesca. Piden un plan de choque, que se haga cumplir la Ley de la Cadena, ayudas también para el cereal y una reunión con el lehendakari. Calculan que la cosecha de forraje para el invierno será, «en el mejor de los casos», la mitad que otros años.\n\nLa Diputación Foral de Álava complementará con 1,95 M€ para unas 568 explotaciones (de 300 a 15.000 € cada una). Según GasteizBerri (5 de octubre), en vacuno de leche son 36 € por cabeza con un mínimo de 20 animales; la recría de novillas cobra lo mismo con un mínimo de 30. Aún no se sabe cuándo se pagará.\n\nQué hacer: a los clientes alaveses con menos de 20 vacas conviene avisarles de que pueden quedar fuera. A todos, ayudarles a calcular cuánto forraje les falta para el invierno.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-08",
+          "fuente": "Gasteiz Hoy y GasteizBerri",
+          "url": "https://www.gasteizhoy.com/baserritarras-campo-alaves-gobiernovasco-ayudas/"
+        },
+        {
+          "titular": "Gasóleo B a 1,712 €/l y Euríbor al 3,19 %",
+          "ambito": "España",
+          "resumen": "El gasóleo agrícola sube 0,8 céntimos en un día (media de surtidor, 13 de octubre). El Euríbor a 12 meses sube al 3,191 % y la media provisional de octubre está en el 3,217 %.",
+          "detalle": "Gasóleo B: 1,712 €/l de media en las gasolineras que lo venden (Dieselogasolina.com, 13 de octubre), frente a 1,704 €/l el día 12. El abaratamiento del crudo por el diésel ruso todavía no se nota en el surtidor.\n\nEuríbor a 12 meses: 3,191 % el 13 de octubre (+0,014 puntos). La media provisional de octubre es del 3,217 %, unos 1,03 puntos más que en octubre de 2025. Los préstamos de explotación o hipotecas que se revisen este otoño saldrán más caros que hace un año.",
+          "soloLargo": true,
+          "fecha": "2026-10-13",
+          "fuente": "Dieselogasolina.com y Euribor.com.es",
+          "url": "https://www.euribor.com.es/2026/10/13/el-euribor-sube-pero-ni-se-nota/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Shamonda, ahora también en Portugal: cifra el riesgo para el ganadero (10–20 % menos de leche durante 7–10 días y unos 33–37 € por vaca y año, según un estudio francés). Insiste en desinsectar y en apoyar con la nutrición la recuperación tras los episodios de fiebre.",
+    "La proteína láctea se paga más que nunca desde 2022 (leche desnatada en polvo a 342 €/100 kg): buen momento para revisar con el cliente la proteína de su leche y el equilibrio de energía y proteína de la ración, sobre todo si su industria paga por sólidos.",
+    "Forraje escaso y más caro (EHNE calcula la mitad de la cosecha; alfalfa +7 €/t): ofrece hacer un balance de forrajes para el invierno y alternativas de ración antes de que el ganadero compre a la desesperada. El anticipo de la PAC llega el viernes 16.",
+    "En Álava, recuerda que la ayuda por sequía en vacuno de leche exige al menos 20 vacas (30 en recría). En Navarra, sigue la ayuda por tuberculosis para quien haya tenido sacrificios."
+  ],
+  "agenda": [
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-16", "evento": "Empiezan los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://www.moncloa.com/2026/09/17/anticipos-pac-2026-fega-importes-provisionales-3432167" },
+    { "fecha": "2026-10-17", "evento": "XXXVI Muestra Agrícola de San Fausto", "lugar": "Basauri (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-19", "evento": "Comité Especial de Agricultura de la UE: negociación PAC post-2027", "lugar": "Bruselas", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura de la UE: posible posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.navarrainformacion.es/2026/10/10/uagn-se-suma-a-la-tractorada-el-28-de-octubre-en-madrid/" }
+  ]
+}
