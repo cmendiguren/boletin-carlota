@@ -1,0 +1,205 @@
+{
+  "fecha": "2026-10-15",
+  "titulo": "Boletín Carlota – jueves 15 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-15T07:10:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos publicados en País Vasco ni Navarra, pero la lengua azul sigue circulando, el Shamonda está en buena parte de la península y el 1 de noviembre cambian las normas de vacunación y movimientos de lengua azul."
+  },
+  "destacados": [
+    "Leche: la Lonja de León sube a 0,475 €/l la leche de vaca para octubre–diciembre (+1,5 céntimos). En Países Bajos la desnatada en polvo salta a 359 €/100 kg (+17) y la mantequilla cae a 370 € (−20).",
+    "Lengua azul: el BOE publica la nueva orden (en vigor el 1 de noviembre). Vacunación voluntaria salvo que la comunidad la haga obligatoria, prohibidas las vacunas vivas y cada dosis se comunica en 7 días.",
+    "El euro cae a mínimos de 17 meses (1,1135 $) tras una inflación en EE. UU. del 3,7 %: encarece la soja y el maíz importados. El gasóleo agrícola baja a 1,541 €/l (MAPA); en cooperativas de Álava, 1,269 €/l."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "La leche da señales de subida (León +1,5 céntimos para el último trimestre) y el gasóleo agrícola baja un 1,1 % en la semana. En contra, el euro débil encarece las materias primas importadas y los forrajes siguen subiendo (alfalfa +5 €/t en León)."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "0,475 €/l", "variacion": "+0,015 €/l (antes 0,46)", "fecha": "14 oct 2026 (entregas oct–dic)", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "0,469 €/l", "variacion": "sin dato nuevo (último publicado)", "fecha": "agosto 2026", "fuente": "Vacuno de Élite (datos MAPA)", "url": "https://vacunodeelite.com/el-precio-medio-de-la-leche-cruda-agosto-2026-subio-a-0-469e-litro/" },
+    { "producto": "Leche de vaca en origen, Galicia", "valor": "0,448 €/l", "variacion": "dato citado por FeNIL", "fecha": "agosto 2026", "fuente": "Galiciapress (Europa Press)", "url": "https://www.galiciapress.es/articulo/economia/2026-10-13/6050017-industria-lacteas-niegan-pacto-oculto-menor-precio-galicia-recetan-transformar-quesos-yogures" },
+    { "producto": "Leche desnatada en polvo (Países Bajos, consumo humano)", "valor": "359 €/100 kg", "variacion": "+17 €", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "370 €/100 kg", "variacion": "−20 €", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Leche entera en polvo (Países Bajos)", "valor": "381 €/100 kg", "variacion": "−12 €", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "última subasta (6 oct): 3.928 USD/t, +1,2 %", "fecha": "6 oct 2026", "fuente": "Vacuno de Élite", "url": "https://vacunodeelite.com/fonterra-6-octubre-de-2026-subida-del-1-2-en-el-indice-del-precio-de-los-lacteos/" },
+    { "producto": "Maíz (destino secadero), Lonja de León", "valor": "250 €/t", "variacion": "sin cambios", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Trigo pienso, Lonja de León", "valor": "230 €/t", "variacion": "sin cambios", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Cebada, Lonja de León", "valor": "223 €/t", "variacion": "+1 €/t", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Alfalfa deshidratada, Lonja de León", "valor": "255 €/t", "variacion": "+5 €/t", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato conocido: 444 €/t (6 oct)", "fecha": "6 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Soja, Chicago (noviembre)", "valor": "≈475 USD/t (12,92 USD/bushel)", "variacion": "al alza por compras chinas", "fecha": "14 oct 2026", "fuente": "AgroLatam", "url": "https://www.agrolatam.com/mercados-latam/mercados-granos-chicago-soja-maiz-trigo-china-octubre-2026/" },
+    { "producto": "Maíz, Chicago (diciembre)", "valor": "≈190 USD/t", "variacion": "débil por exportaciones flojas", "fecha": "14 oct 2026", "fuente": "AgroLatam", "url": "https://www.agrolatam.com/mercados-latam/mercados-granos-chicago-soja-maiz-trigo-china-octubre-2026/" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "1,541 €/l", "variacion": "−1,13 % en la semana (1,559 el 5 oct)", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Gasóleo B, cooperativas de Álava (provincia más barata)", "valor": "1,269 €/l", "variacion": "sin comparación semanal publicada", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent", "valor": "108,70 USD/barril", "variacion": "+1,41 USD (+1,3 %)", "fecha": "14 oct 2026 (mañana en EE. UU.)", "fuente": "Fortune", "url": "https://fortune.com/article/price-of-oil-10-14-2026/" },
+    { "producto": "Euro/dólar", "valor": "1,1135 USD", "variacion": "−0,55 %, mínimo desde mayo de 2025", "fecha": "14 oct 2026 (tras el IPC de EE. UU.)", "fuente": "FXStreet", "url": "https://www.fxstreet.es/news/el-euro-se-desploma-a-minimos-de-17-meses-mientras-la-inflacion-alta-en-eeuu-alimenta-las-apuestas-sobre-una-subida-de-tasas-de-la-fed-202610141306" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "3,191 %", "variacion": "sin dato nuevo; media provisional de octubre 3,216 %", "fecha": "13 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/14/precio-petroleo-hoy-14-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Lengua azul: nueva orden en el BOE, en vigor el 1 de noviembre",
+          "ambito": "España",
+          "resumen": "La Orden APA/1082/2026 sustituye a la de marzo de 2025. La vacunación sigue siendo voluntaria salvo que la comunidad autónoma la haga obligatoria; se prohíben las vacunas vivas atenuadas y cada dosis debe comunicarse en 7 días.",
+          "detalle": "El BOE del 14 de octubre publica la Orden APA/1082/2026, de 7 de octubre, que entra en vigor el 1 de noviembre y deroga la Orden APA/229/2025.\n\nVacunación: voluntaria con carácter general en toda España, pero las comunidades autónomas pueden hacerla obligatoria. En las zonas con programa de control y erradicación es obligatoria en bovino y ovino frente a los serotipos del programa. Quedan prohibidas las vacunas vivas atenuadas. El titular de la explotación es el responsable, a través de su veterinario, y debe comunicar los datos de vacunación en un plazo de 7 días tras cada dosis.\n\nMovimientos: la península (incluidos País Vasco y Navarra) sigue como «zona sin estatus». Dentro de ella se autorizan los movimientos de animales sensibles para vida o sacrificio si no muestran síntomas clínicos. Canarias es zona libre y Baleares tiene programa de control. Sanidad de la Producción Agroalimentaria puede cambiar las zonas por resolución.\n\nQué hacer: confirmar con los ganaderos y sus veterinarios que las vacunaciones de este otoño se registran en plazo. Estar atentos a si el Gobierno Vasco o Navarra deciden hacer obligatoria la vacunación.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-14",
+          "fuente": "Agronews Castilla y León (BOE)",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026"
+        },
+        {
+          "titular": "Europa pierde veterinarios de animales de producción",
+          "ambito": "UE",
+          "resumen": "La Federación de Veterinarios de Europa (FVE) alerta del descenso de veterinarios rurales y pide que las visitas sanitarias obligatorias sean un plan sanitario anual útil, no papeleo.",
+          "detalle": "En una jornada de AnimalhealthEurope vinculada a la Presidencia irlandesa de la UE (Diario Veterinario, 14 de octubre), la directora ejecutiva de la FVE, Nancy de Briyne, señaló que su encuesta refleja menos veterinarios trabajando con animales de producción (no se dieron cifras). Los ganaderos irlandeses pidieron más peso de la sanidad animal en el presupuesto de la PAC: vacunación, asesoramiento veterinario y apoyo práctico en granja. La Comisión (DG SANTE) habló de mejorar la bioseguridad, la preparación ante brotes y la opción de vacunar.\n\nComo referencia, en Irlanda la tuberculosis bovina afectó a unos 40.000 animales el último año, con un coste estimado de unos 300 M€ anuales.\n\nQué puede significar: el asesoramiento técnico en granja (incluido el nutricional) gana valor donde faltan veterinarios de campo.",
+          "soloLargo": true,
+          "fecha": "2026-10-14",
+          "fuente": "Diario Veterinario",
+          "url": "https://www.diarioveterinario.com/t/6051723/europa-pierde-veterinarios-dedicados-ganaderia-reclaman-medidas-garantizar-atencion-rural"
+        },
+        {
+          "titular": "Gripe aviar: España prevé vacunar en un año a trabajadores de riesgo, incluidos veterinarios",
+          "ambito": "España",
+          "resumen": "Según una evaluación del ECDC, España vacunará frente a la gripe aviar H5 solo a trabajadores expuestos con enfermedades previas que aumenten el riesgo de cuadro grave.",
+          "detalle": "The Objective (13 de octubre), con datos del ECDC del 7 de octubre: los grupos diana son veterinarios, personal de granjas, agentes medioambientales y trabajadores de zoológicos, pero España solo vacunaría a quienes tengan factores de riesgo; otros países lo recomiendan a todos los trabajadores expuestos. Austria, Finlandia, Lituania, Países Bajos y Portugal ya han empezado.\n\nEn la temporada 2025–2026 España notificó 188 focos en animales (16 en aves de corral, 165 en aves silvestres). El último foco fue en mayo, pero las aves migratorias pueden traer casos nuevos este otoño. El artículo no menciona casos en vacuno. El ECDC considera el riesgo bajo para la población general y de bajo a moderado para las personas expuestas.",
+          "soloLargo": true,
+          "fecha": "2026-10-13",
+          "fuente": "The Objective",
+          "url": "https://theobjective.com/sanidad/2026-10-13/espana-preve-empezar-vacunar-gripe-aviar/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La Lonja de León sube la leche de vaca a 0,475 €/l para el último trimestre",
+          "ambito": "España",
+          "resumen": "Sesión del 14 de octubre: la leche entregada de octubre a diciembre cotiza a 0,475 €/l, 1,5 céntimos más que la referencia anterior (0,46 €/l), para leche con 3,7 % de grasa y 3,10 % de proteína.",
+          "detalle": "La Lonja de León publica la cotización de la leche de vaca para las entregas de octubre, noviembre y diciembre: 0,475 €/l frente a 0,46 €/l, una subida del 3,3 %. La referencia es una leche de 3,7 % de grasa y 3,10 % de proteína; no incluye comentarios.\n\nEl último dato oficial para toda España (MAPA) sigue siendo el de agosto: 0,469 €/l.\n\nQué puede significar: es una señal de que las renovaciones de contratos del último trimestre pueden venir al alza. Sirve de argumento para que los ganaderos de la zona pregunten a su industria por la revisión de precio.",
+          "soloLargo": false,
+          "fecha": "2026-10-14",
+          "fuente": "Lonja de León",
+          "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/"
+        },
+        {
+          "titular": "La desnatada en polvo sube 17 € y la mantequilla cae 20 € en Países Bajos",
+          "ambito": "UE",
+          "resumen": "Actualización (semana 42): leche desnatada en polvo 359 €/100 kg (+17), mantequilla 370 € (−20) y leche entera en polvo 381 € (−12). La proteína sigue tirando; la grasa, a la baja.",
+          "detalle": "Cotizaciones del 14 de octubre recogidas por Nieuwe Oogst: mantequilla 370 €/100 kg (−20), quinta bajada seguida; leche entera en polvo 381 € (−12), tras subir la semana pasada; leche desnatada en polvo para consumo humano 359 € (+17) y para pienso 352 € (+12), por la fuerte demanda mundial; suero en polvo 166 € (+1).\n\nLa desnatada ya estaba en máximos desde 2022 la semana pasada (342 €) y sigue subiendo.\n\nQué puede significar: el mercado paga la proteína y castiga la grasa. Para las industrias que pagan por composición, la proteína de la leche vale más que hace unas semanas.",
+          "soloLargo": false,
+          "fecha": "2026-10-14",
+          "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust"
+        },
+        {
+          "titular": "La industria láctea niega en el Parlamento gallego pactos para pagar menos la leche",
+          "ambito": "España",
+          "resumen": "El presidente de FeNIL, Javier Roza, negó un «pacto oculto» y atribuyó el menor precio en Galicia (0,448 €/l en agosto) a que allí se transforma poca leche. Prevé que los precios no vuelvan a bajar.",
+          "detalle": "Comparecencia del 13 de octubre en la comisión del Parlamento de Galicia sobre precios lácteos (Europa Press y Agrodigital). Datos de FeNIL: en Galicia el 63 % de la leche va a leche líquida (28 % en España) y solo el 4 % a yogur (32 % en España). España produce un 30 % menos de lo que consume e importa unas 400.000 t, sobre todo queso. El precio español está unos 3 €/100 kg por encima de la media de la UE. Las granjas han caído un tercio desde 2020 y la mitad de los titulares tiene más de 55 años.\n\nRoza propone contratos indexados a largo plazo (cita el índice A3) y mecanismos que suavicen las bajadas. La oposición (PSdeG) denunció un recorte de 8 céntimos en la última renovación en Galicia. El director de Inleit reconoció importaciones de leche portuguesa, «muy bajas».\n\nQué puede significar: la falta de leche en España sostiene el precio a medio plazo. Los contratos indexados pueden ser un tema de conversación con los ganaderos que renuevan contrato.",
+          "soloLargo": false,
+          "fecha": "2026-10-13",
+          "fuente": "Galiciapress (Europa Press) y Agrodigital",
+          "url": "https://www.galiciapress.es/articulo/economia/2026-10-13/6050017-industria-lacteas-niegan-pacto-oculto-menor-precio-galicia-recetan-transformar-quesos-yogures"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Lonja de León: los forrajes siguen subiendo, el grano se mantiene",
+          "ambito": "España",
+          "resumen": "Sesión del 14 de octubre: alfalfa en rama 225 €/t (+5), deshidratada 255 €/t (+5) y paja de cebada 65 €/t (+2). Maíz (250 €/t) y trigo pienso (230 €/t) repiten; la cebada sube 1 €.",
+          "detalle": "En León el grano está estable en plena cosecha de maíz: maíz destino secadero 250 €/t, trigo pienso 230 €/t, cebada 223 €/t (+1). Los forrajes siguen la tendencia de Salamanca de esta semana: alfalfa en paquete 225 €/t (+5), alfalfa deshidratada 255 €/t (+5), paja de cebada 65 €/t (+2); veza (170 €/t) y forraje (130 €/t) repiten.\n\nQué puede significar: con la cosecha de forraje muy corta en Euskadi por la sequía, comprar fuera saldrá cada semana algo más caro. Conviene cerrar compras y ajustar raciones cuanto antes.",
+          "soloLargo": false,
+          "fecha": "2026-10-14",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche"
+        },
+        {
+          "titular": "Chicago: China compra soja de EE. UU.; maíz y trigo, flojos",
+          "ambito": "mundo",
+          "resumen": "Empresas estatales chinas compraron unas 520.000–650.000 t de soja estadounidense y la soja de noviembre sube a unos 475 USD/t. El maíz (≈190 USD/t) y el trigo pierden fuerza por exportaciones débiles.",
+          "detalle": "Según AgroLatam (14 de octubre), las compras chinas, para embarque desde diciembre, llegan tras la reunión Trump–Xi de septiembre, aunque no garantizan una demanda sostenida. La cosecha de soja en EE. UU. va por el 46 % (media de cinco años: 50 %) y la de maíz por el 33 % (media 39 %); las lluvias pueden retrasarla. Las ventas de maíz para exportación van un 34 % por debajo del año pasado y el trigo cotiza un 16 % por debajo de los máximos de septiembre. El artículo no da datos de la harina de soja.\n\nQué puede significar: la soja tiene apoyo y, con el euro débil, la harina de soja en España difícilmente bajará a corto plazo. El maíz sigue sin presión al alza.",
+          "soloLargo": true,
+          "fecha": "2026-10-14",
+          "fuente": "AgroLatam",
+          "url": "https://www.agrolatam.com/mercados-latam/mercados-granos-chicago-soja-maiz-trigo-china-octubre-2026/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El euro cae a mínimos de 17 meses tras la inflación de EE. UU.",
+          "ambito": "mundo",
+          "resumen": "El IPC de EE. UU. de septiembre subió al 3,7 % (3,4 % en agosto), por encima de lo esperado. El euro bajó a unos 1,1135 dólares, su nivel más bajo desde mayo de 2025.",
+          "detalle": "Según FXStreet (14 de octubre), la inflación subyacente pasó del 2,4 % al 2,6 %. Tras el dato, el mercado da un 47 % de probabilidad a una subida de tipos de la Fed en octubre (22 % el día antes) y un 44 % a otra en diciembre. El euro perdió un 0,55 % en el día y rompió el nivel de 1,1150.\n\nQué puede significar: la soja, el maíz y el gasóleo se pagan en dólares. Con un euro más débil, se encarecen para España aunque no suban en Chicago o en el mercado del crudo.",
+          "soloLargo": false,
+          "fecha": "2026-10-14",
+          "fuente": "FXStreet",
+          "url": "https://www.fxstreet.es/news/el-euro-se-desploma-a-minimos-de-17-meses-mientras-la-inflacion-alta-en-eeuu-alimenta-las-apuestas-sobre-una-subida-de-tasas-de-la-fed-202610141306"
+        },
+        {
+          "titular": "El Brent vuelve a subir, hasta 108,70 dólares",
+          "ambito": "mundo",
+          "resumen": "Actualización: el 14 de octubre el Brent subió un 1,3 %, hasta 108,70 $/barril. Pesan los ataques hutíes contra Arabia Saudí y unas reservas de diésel en EE. UU. muy bajas.",
+          "detalle": "Fortune sitúa el Brent en 108,70 $ a las 7:15 de la mañana en Nueva York (+1,41 $), unos 46 $ más que hace un año. Euribor.com.es da cifras algo más bajas (en torno a 106 $), según la fuente de cotización. Los motivos que se citan: la prima de riesgo por los ataques hutíes del fin de semana, unas reservas de diésel y fuelóleo en EE. UU. por debajo de 100 millones de barriles (un 14 % bajo su mínimo de cinco años) y que la OPEP+ mantiene sus objetivos de producción para noviembre.\n\nQué puede significar: el efecto del acuerdo del diésel ruso se ha diluido en un día. No hay que esperar una bajada fuerte del gasóleo a corto plazo.",
+          "soloLargo": true,
+          "fecha": "2026-10-14",
+          "fuente": "Fortune y Euribor.com.es",
+          "url": "https://fortune.com/article/price-of-oil-10-14-2026/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El gasóleo agrícola baja a 1,541 €/l; Álava, la provincia más barata",
+          "ambito": "España",
+          "resumen": "Según el informe semanal del MAPA, el gasóleo B baja un 1,13 % (1,541 €/l de media ponderada). El más barato de España está en las cooperativas de Álava, a 1,269 €/l.",
+          "detalle": "Semana del 12 de octubre (EFE, con datos del MAPA): media ponderada de 1,541 €/l, frente a 1,559 €/l el 5 de octubre. En gasolineras convencionales la media es de 1,675 €/l y en surtidores de cooperativas agrarias, 1,507 €/l. Sigue un 59,7 % por encima de antes de la guerra de Irán (0,965 €/l el 23 de febrero). Ojo: es una serie distinta a la media de surtidor que dábamos otros días (1,712 €/l), que solo recoge gasolineras.\n\nEl Euríbor a 12 meses no tiene dato nuevo: 3,191 % el 13 de octubre, con media provisional de octubre del 3,216 %.\n\nQué hacer: a los clientes alaveses, recordarles que repostar en la cooperativa sale bastante más barato que en gasolinera.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-14",
+          "fuente": "Infobae (EFE, informe semanal del MAPA)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Lengua azul: la nueva orden obliga a comunicar cada dosis en 7 días desde el 1 de noviembre. Pregunta si ya han vacunado este otoño y ofrece apoyo nutricional (minerales, vitaminas, antioxidantes) en vacas recién paridas y novillas.",
+    "La proteína láctea sigue subiendo (desnatada en polvo +17 €) y León ya sube la leche para el último trimestre: buen momento para revisar con el cliente la proteína de su leche y el aprovechamiento de la proteína de la ración, y para animarle a preguntar a su industria por la revisión de precio.",
+    "Forraje cada vez más caro (alfalfa +5 €/t en León) y euro débil que encarece la soja: propone un balance de forrajes para el invierno y raciones que saquen el máximo partido al forraje propio. Mañana viernes 16 empiezan los anticipos de la PAC.",
+    "En Álava, el gasóleo B de cooperativa está a 1,269 €/l, el más barato de España: un dato útil para la conversación con ganaderos preocupados por costes."
+  ],
+  "agenda": [
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-16", "evento": "Empiezan los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://www.moncloa.com/2026/09/17/anticipos-pac-2026-fega-importes-provisionales-3432167" },
+    { "fecha": "16–18 oct", "evento": "Ferias de Altsasu, con feria de ganado de razas autóctonas (vacuno, caballar y latxa) el sábado y el domingo", "lugar": "Altsasu (Navarra)", "url": "https://www.festivalesdeespana.com/festival/ferias-de-altsasu-altsasu-alsasua" },
+    { "fecha": "2026-10-17", "evento": "XXXVI Muestra Agrícola de San Fausto", "lugar": "Basauri (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-19", "evento": "Comité Especial de Agricultura de la UE: negociación PAC post-2027", "lugar": "Bruselas", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura de la UE: posible posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.navarrainformacion.es/2026/10/10/uagn-se-suma-a-la-tractorada-el-28-de-octubre-en-madrid/" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la nueva orden de lengua azul (Orden APA/1082/2026)", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" }
+  ]
+}
