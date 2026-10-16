@@ -1,0 +1,184 @@
+{
+  "fecha": "2026-10-16",
+  "titulo": "Boletín Carlota – viernes 16 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-16T07:15:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Lengua azul: tres focos nuevos en España, ninguno en País Vasco ni Navarra, aunque el virus circula en las dos esta temporada. El Shamonda ya está en seis provincias y el 1 de noviembre cambian las normas de lengua azul."
+  },
+  "destacados": [
+    "Lengua azul: tres focos nuevos, en vacuno de Cádiz y Ourense (serotipo 8) y en ovino de Badajoz (serotipo 4). Ninguno en País Vasco ni Navarra, pero el virus circula en las dos esta temporada.",
+    "COAG pide a Mercadona que frene la bajada de la leche Hacendado: la semidesnatada está a 0,83 €/l, 5 céntimos menos que en enero. Quiere que la rebaja no llegue al precio que cobra el ganadero.",
+    "Hoy empieza el pago del anticipo de la PAC: 26,7 M€ en Euskadi (75 % de la ayuda), de ellos 1,9 M€ para la ayuda a la leche de vaca sostenible."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El anticipo de la PAC da liquidez a partir de hoy y el euro se recupera algo (≈1,12 $), lo que abarata un poco la soja y el maíz importados. En contra: el Brent sigue cerca de 106 $ y la guerra de precios de la leche en los supermercados presiona las próximas renovaciones de contrato."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Leche semidesnatada Hacendado (lineal, Mercadona)", "valor": "0,83 €/l", "variacion": "−0,05 €/l desde enero (0,88)", "fecha": "octubre 2026", "fuente": "El Confidencial Digital", "url": "https://www.elconfidencialdigital.com/articulo/mercadona/mercadona-vuelve-bajar-precio-leche-litro-hacendado-cae-81-centimos/202610071211321491395.html" },
+    { "producto": "Leche desnatada en polvo (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 359 €/100 kg (+17)", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 370 €/100 kg (−20)", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Leche desnatada en polvo, CME Chicago (grado A)", "valor": "2,15 USD/libra", "variacion": "−0,06 USD", "fecha": "15 oct 2026", "fuente": "IndexBox (USDA Dairy Market News)", "url": "https://www.indexbox.io/blog/usda-dairy-market-report-nonfat-dry-milk-closes-at-21500-per-pound-on-october-15-2026/" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "última subasta: 3.928 USD/t, +1,2 %", "fecha": "6 oct 2026", "fuente": "Farmers Weekly NZ", "url": "https://www.farmersweekly.co.nz/markets/dairy-markets/skim-milk-powder-leads-gdt-market/" },
+    { "producto": "Maíz (destino secadero), Lonja de León", "valor": "sin actualización hoy", "variacion": "último dato: 250 €/t (sin cambios)", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Trigo pienso, Lonja de León", "valor": "sin actualización hoy", "variacion": "último dato: 230 €/t (sin cambios)", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Cebada, Lonja de León", "valor": "sin actualización hoy", "variacion": "último dato: 223 €/t (+1)", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Alfalfa deshidratada, Lonja de León", "valor": "sin actualización hoy", "variacion": "último dato: 255 €/t (+5)", "fecha": "14 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-14-octubre-2026-precios-maiz-cereales-ovino-leche" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato conocido: 444 €/t", "fecha": "6 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %); Álava, cooperativas: 1,269 €/l", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (cierre)", "valor": "105,92 USD/barril", "variacion": "−0,14 USD (cierre anterior 106,06)", "fecha": "15 oct 2026", "fuente": "Noticias SIN (EFE)", "url": "https://noticiassin.com/economia/mundial/2026/10/15/brent-cae-bajo-106-dolares-y-cierra-en-10592-2144794" },
+    { "producto": "Euro/dólar", "valor": "≈1,12 USD", "variacion": "rebota desde el mínimo del 14 oct (1,1135); llegó a rozar 1,125", "fecha": "15 oct 2026", "fuente": "FXStreet", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato: 3,191 %; media provisional de octubre ≈3,216 %", "fecha": "13–14 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/15/analisis-de-mercados-15-de-octubre-de-2026-15-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Tuberculosis: el MAPA ve estancada la erradicación; País Vasco y Navarra, casi a cero",
+          "ambito": "España",
+          "resumen": "Un informe del Ministerio da para 2024 una prevalencia del 0,04 % de rebaños positivos en País Vasco y del 0,07 % en Navarra, que podría ser declarada libre pronto. En España sube al 1,54 % y el MAPA quiere revisar las flexibilizaciones del saneamiento.",
+          "detalle": "El «Informe de situación del programa de tuberculosis. Evaluación intermedia» (MAPA, marzo de 2026), difundido el 15 y 16 de octubre por Diario Veterinario y Agrodigital, concluye que España no va camino de erradicar la tuberculosis bovina en 2030: la prevalencia de rebaños bajó al 1,40 % en 2022, pero subió al 1,54 % en 2024 (UE: 0,72 %).\n\nZona: País Vasco pasó del 0,16 % (2015) al 0,00 % (2022) y 0,04 % (2024); es zona oficialmente libre y el informe prevé que lo mantenga. Navarra bajó del 0,50 % al 0,07 % y podría pasar pronto a libre. Ojo: desde 2019 ha habido 89 focos en zonas libres (33 en 2025, 22 de ellos en Asturias).\n\nQué propone el MAPA: limitar las flexibilizaciones de 2024 (pasar de dos pruebas anuales a una triplica la transmisión en el rebaño, según el informe), hacer obligatorio el gamma-interferón en rebaños infectados al menos en la primera repetición, recuperar las pruebas de movimiento, fijar objetivos por región y estudiar ayudas a la bioseguridad.\n\nQué puede significar: en Navarra, cuidar la compra de animales y la bioseguridad (contacto con fauna silvestre, pastos compartidos) ayuda a llegar al estatus de libre.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-16",
+          "fuente": "Agrodigital y Diario Veterinario (informe MAPA)",
+          "url": "https://agrodigital.com/2026/10/16/tuberculosis-bovina-estancamiento-programa/"
+        },
+        {
+          "titular": "Lengua azul: tres focos nuevos en Cádiz, Ourense y Badajoz",
+          "ambito": "España",
+          "resumen": "Actualización del MAPA: serotipo 8 en vacuno de Cádiz y de Ourense, y serotipo 4 en ovino de Badajoz. Ninguno en País Vasco ni Navarra, aunque las dos figuran entre las zonas con circulación del virus esta temporada.",
+          "detalle": "Desde la comunicación del 8 de octubre, el Ministerio de Agricultura ha confirmado tres focos más (Diario Veterinario, 15 de octubre; Agrodigital, 16 de octubre): Cádiz (serotipo 8, bovino), Ourense (serotipo 8, bovino) y Badajoz (serotipo 4, ovino). No se dan municipios ni un total de la temporada, que empezó el 1 de abril.\n\nLa circulación está confirmada en Galicia, Asturias, País Vasco, La Rioja, Navarra y Extremadura, y en las provincias de Huesca, Lleida, Segovia, Albacete, Toledo, Cádiz, Córdoba y Ciudad Real.\n\nEl MAPA insiste en vacunar frente a los serotipos circulantes, sobre todo en ovino, pero también en bovino por las pérdidas productivas. Recordatorio: desde el 1 de noviembre (Orden APA/1082/2026) cada dosis debe comunicarse en 7 días.\n\nQué puede significar: el serotipo 8 sigue apareciendo en vacuno; en la zona conviene no relajar la vacunación ni el control de vectores mientras haya temperaturas suaves.",
+          "soloLargo": false,
+          "fecha": "2026-10-15",
+          "fuente": "Diario Veterinario y Agrodigital (MAPA)",
+          "url": "https://www.diarioveterinario.com/t/6053097/lengua-azul-suma-tres-nuevos-focos-cadiz-badajoz-ourense"
+        },
+        {
+          "titular": "Shamonda: confirmado en vacuno de Cádiz, sexta provincia",
+          "ambito": "España",
+          "resumen": "Actualización: el Laboratorio Central de Veterinaria de Algete confirma el virus en una explotación de vacuno de Cádiz. Con ella son seis provincias; País Vasco y Navarra no aparecen.",
+          "detalle": "Diario Veterinario (15 de octubre) informa de la confirmación en Cádiz, segunda provincia andaluza tras Córdoba. El informe oficial del 8 de octubre recogía Córdoba, Toledo, Ávila y Madrid (genotipo SHAV-EU1) y Cantabria (SHAV-EU2); no se indica el genotipo de Cádiz y aún no hay actualización oficial nueva.\n\nSignos descritos en las granjas: fiebre, diarrea y bajada de producción de leche. Preocupan los posibles efectos reproductivos (abortos y malformaciones), aún en estudio. No hay vacuna; lo transmiten sobre todo los culicoides, como la lengua azul.\n\nEn Europa circula por casi toda Francia y Suiza, gran parte de Alemania, y Portugal ha confirmado varias granjas.\n\nQué puede significar: con Cantabria afectada, la vigilancia de abortos y terneros con malformaciones en los próximos meses es importante también en la zona.",
+          "soloLargo": true,
+          "fecha": "2026-10-15",
+          "fuente": "Diario Veterinario",
+          "url": "https://www.diarioveterinario.com/t/6052500/confirman-presencia-virus-shamonda-cadiz"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "COAG pide a Mercadona que no se sume a la guerra de precios de la leche",
+          "ambito": "España",
+          "resumen": "Mercadona ha bajado en octubre la leche Hacendado: semidesnatada a 0,83 €/l (0,88 en enero) y desnatada a 0,81 €/l. COAG le pide que recule y que ninguna rebaja en la tienda se traslade al precio en origen.",
+          "detalle": "COAG (15–16 de octubre, recogido por Agrodigital y Moncloa.com) denuncia una guerra de precios entre cadenas de distribución. Precios Hacendado: semidesnatada 0,88 €/l a comienzos de año, 0,84 € en abril y 0,83 € ahora; desnatada 0,81 €; entera 0,96 €. Mercadona no había respondido.\n\nCOAG pide cumplir la Ley de la Cadena Alimentaria (prohíbe pagar por debajo del coste de producción), más transparencia en los márgenes y contratos que reflejen la evolución real de costes. Recuerda que las ganaderías con entregas han pasado de unas 17.000 en 2015 a 8.425 en agosto de 2026. Cita País Vasco y Navarra entre las zonas afectadas.\n\nQué puede significar: la leche barata en el lineal es un argumento de la industria para no subir precios en las renovaciones del último trimestre, justo cuando lonjas como León suben. Conocer el coste de producción propio es la mejor defensa del ganadero al negociar.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-16",
+          "fuente": "Agrodigital (COAG)",
+          "url": "https://agrodigital.com/2026/10/16/precio-leche-rebajas-mercadona/"
+        },
+        {
+          "titular": "Estados Unidos: la leche desnatada en polvo baja en Chicago",
+          "ambito": "mundo",
+          "resumen": "En la bolsa de Chicago (CME) la leche desnatada en polvo de grado A cerró el 15 de octubre a 2,15 $/libra, 6 centavos menos. Contrasta con la subida de la semana en Europa.",
+          "detalle": "Según el informe diario del USDA (Dairy Market News) recogido por IndexBox, la leche desnatada en polvo cerró a 2,1500 $/libra el jueves 15 de octubre (−0,06 $); el 9 de octubre estaba en 2,2675 $. No hay comentario de mercado.\n\nEn Europa, en cambio, la desnatada en polvo subió 17 € en Países Bajos esta semana (359 €/100 kg). La próxima referencia mundial será la siguiente subasta de Global Dairy Trade; la última (6 de octubre) subió un 1,2 %.\n\nQué puede significar: una señal de que la subida de la proteína láctea puede perder fuerza; habrá que ver si se confirma en Europa la próxima semana.",
+          "soloLargo": true,
+          "fecha": "2026-10-15",
+          "fuente": "IndexBox (USDA Dairy Market News)",
+          "url": "https://www.indexbox.io/blog/usda-dairy-market-report-nonfat-dry-milk-closes-at-21500-per-pound-on-october-15-2026/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "«Declaración de Estocolmo»: el campo europeo pide no recortar la PAC; UAGN, con el comisario",
+          "ambito": "UE",
+          "resumen": "Las organizaciones agrarias europeas (Copa-Cogeca) piden mantener la PAC al menos al nivel actual más inflación. La propuesta sobre la mesa deja la PAC 2028–2034 en algo más de 290.000 M€, más de un 20 % menos. UAGN trasladó al comisario Hansen el rechazo al recorte.",
+          "detalle": "En el Congreso de Agricultores Europeos de Estocolmo (14–16 de octubre, unos 400 delegados), Copa y Cogeca aprobaron una declaración dirigida a los jefes de Estado y de Gobierno: advierten de que la agricultura europea está «al borde del colapso» y piden un presupuesto de la PAC blindado y actualizado con la inflación (Agriland, 15 de octubre). La propuesta de compromiso de la Presidencia irlandesa (10 de octubre) mantiene la cifra de la Comisión: algo más de 290.000 M€ para 2028–2034.\n\nEl presidente de UAGN, Félix Bariáin, planteó al comisario Christophe Hansen el recorte del 22 %, la subida del gasóleo y los fertilizantes, los bajos precios en origen, las importaciones sin las mismas exigencias y la burocracia (Navarra Información, 15 de octubre). UAGN participará en la tractorada del 28 de octubre en Madrid.\n\nPróximas citas: Comité Especial de Agricultura el 19 de octubre y Consejo de Agricultura el 26–27 de octubre.",
+          "soloLargo": false,
+          "fecha": "2026-10-15",
+          "fuente": "Agriland y Navarra Información",
+          "url": "https://www.agriland.ie/farming-news/eu-farm-orgs-sound-the-alarm-in-declaration-to-defend-cap-amid-budget-talks/"
+        },
+        {
+          "titular": "Chicago: baja la soja por la cosecha; suben la harina de soja y el trigo",
+          "ambito": "mundo",
+          "resumen": "Sesión del 14 de octubre: la soja cae por el avance de la cosecha en EE. UU. (46 %) pese a las compras chinas; la harina de soja sube y el trigo también, por el ataque con drones a dos cargueros en el mar Negro.",
+          "detalle": "Según Ruralnet (14 de octubre), el maíz cerró a la baja por el avance de la cosecha estadounidense (33 %), con compras de la industria que frenaron la caída y lluvias que interrumpieron la recolección. El trigo subió por la incertidumbre en el mar Negro tras el ataque con drones a dos buques de carga frente a Bulgaria. La harina de soja subió, sin motivo explicado. No damos cifras porque la tabla de la fuente no es clara.\n\nEn España no hay dato nuevo de harina de soja (último conocido: 444 €/t en Barcelona, el 6 de octubre).\n\nQué puede significar: el maíz sigue sin presión al alza, pero la harina de soja no da señales de bajar.",
+          "soloLargo": true,
+          "fecha": "2026-10-14",
+          "fuente": "Ruralnet",
+          "url": "https://ruralnet.com.ar/rosario-granos-estables-chicago-baja/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El euro se recupera hasta 1,12 dólares; el Brent se queda en 106",
+          "ambito": "mundo",
+          "resumen": "Actualización: el euro rebotó el 15 de octubre desde su mínimo de 17 meses y llegó a rozar 1,125 $. El Brent cerró a 105,92 $/barril (−0,14 $), con nuevos ataques a barcos en el estrecho de Ormuz.",
+          "detalle": "Según FXStreet, el rebote del euro vino por la debilidad del dólar (bajada de la rentabilidad del bono de EE. UU.), no por buenas noticias europeas: la producción industrial de la eurozona cayó un 0,5 % en agosto. El mercado espera que el BCE mantenga los tipos (depósito 2,50 %) el 29 de octubre y los suba en diciembre.\n\nPetróleo (EFE vía Noticias SIN): el Brent superó brevemente los 106 $ y cerró a 105,92 $. Pesan los ataques hutíes contra instalaciones de Aramco, el hundimiento de un portacontenedores en Ormuz y la previsión de la Agencia Internacional de la Energía de una caída de la demanda mundial de 2,5 millones de barriles diarios en el cuarto trimestre.\n\nQué puede significar: un euro algo más fuerte abarata un poco la soja y el maíz importados, pero el gasóleo seguirá caro mientras dure la tensión en Oriente Medio.",
+          "soloLargo": false,
+          "fecha": "2026-10-15",
+          "fuente": "FXStreet y Noticias SIN (EFE)",
+          "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Anticipo de la PAC en Euskadi: 26,7 M€ desde hoy",
+          "ambito": "local",
+          "resumen": "El 16 de octubre se paga el 75 % de las ayudas de los expedientes ya controlados. Incluye 1,9 M€ de la ayuda a la producción sostenible de leche de vaca, 2,5 M€ de vacuno extensivo y 2,4 M€ de pastoreo extensivo.",
+          "detalle": "Según el Gobierno Vasco (recogido por Espacio Diario, 16 de octubre), el anticipo suma 26.695.093 €: ayuda básica a la renta 12,6 M€, redistributiva 2,7 M€, jóvenes 766.480 €, vacuno extensivo 2,5 M€, leche de vaca sostenible 1,9 M€ y pastoreo extensivo 2,4 M€, además de ayudas asociadas (vacuno de carne, ovino, caprino, proteaginosas, remolacha) y ecorregímenes (siega sostenible, biodiversidad en praderas, siembra directa, rotación, cubiertas).\n\nCalendario: primera quincena de diciembre, hasta el 90 % (un 15 % más para quien cobra ahora); el 10 % restante en junio de 2027, cuando el MAPA publique los importes definitivos.\n\nQué puede significar: los ganaderos de leche vascos tendrán liquidez estos días, un buen momento para planificar compras de forraje y correctores para el invierno.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-16",
+          "fuente": "Espacio Diario (Gobierno Vasco)",
+          "url": "https://espaciodiario.com/el-anticipo-de-la-pac-2026-sera-de-267-millones-de-euros/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Anticipo de la PAC desde hoy (en Euskadi, 1,9 M€ para la leche de vaca sostenible): buen momento para cerrar con el cliente el plan de alimentación del invierno, el balance de forrajes y los correctores.",
+    "Lengua azul (serotipo 8 en vacuno) y Shamonda (fiebre, diarrea, bajada de leche y posibles abortos): pregunta por la vacunación de lengua azul y por abortos o repeticiones recientes, y ofrece apoyo nutricional en vacas secas y recién paridas (minerales, vitaminas, antioxidantes).",
+    "Guerra de precios de la leche en el lineal (Hacendado semidesnatada a 0,83 €/l): ayuda al ganadero a calcular su coste de alimentación por litro; es su mejor argumento cuando renueve contrato con la industria.",
+    "Tuberculosis: Navarra (0,07 %) está cerca de ser zona libre. Conversación útil sobre bioseguridad, compra de animales y contacto con fauna en pastos."
+  ],
+  "agenda": [
+    { "fecha": "12–16 oct", "evento": "FEGA: segunda resolución de beneficiarios de la ayuda a fertilizantes", "lugar": "España", "url": "https://www.agrodigital.com/2026/09/30/ayuda-gasoleo-agricola-real-decreto-ley/" },
+    { "fecha": "2026-10-16", "evento": "Pago del anticipo de la PAC 2026 (75 %); en Euskadi, 26,7 M€", "lugar": "España / Euskadi", "url": "https://espaciodiario.com/el-anticipo-de-la-pac-2026-sera-de-267-millones-de-euros/" },
+    { "fecha": "16–18 oct", "evento": "Ferias de Altsasu, con feria de ganado de razas autóctonas (vacuno, caballar y latxa) el sábado y el domingo", "lugar": "Altsasu (Navarra)", "url": "https://www.festivalesdeespana.com/festival/ferias-de-altsasu-altsasu-alsasua" },
+    { "fecha": "2026-10-17", "evento": "XXXVI Muestra Agrícola de San Fausto", "lugar": "Basauri (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-18", "evento": "Feria de ganado", "lugar": "Mungia (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-19", "evento": "Comité Especial de Agricultura de la UE: negociación PAC post-2027", "lugar": "Bruselas", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura de la UE: posible posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.vinetur.com/20261007108505/eu-governments-near-partial-farm-deal-with-wine-rules-still-unsettled.html" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.navarrainformacion.es/2026/10/15/uagn-lleva-a-europa-los-problemas-del-sector/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la nueva orden de lengua azul (Orden APA/1082/2026)", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" }
+  ]
+}
