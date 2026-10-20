@@ -1,0 +1,168 @@
+{
+  "fecha": "2026-10-20",
+  "titulo": "Boletín Carlota – martes 20 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-20T07:05:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "No se han publicado focos nuevos de lengua azul desde el 16 de octubre y no hay ninguno en País Vasco ni Navarra, pero el virus circula en las dos y el 1 de noviembre entran en vigor las nuevas normas."
+  },
+  "destacados": [
+    "Navarra ya paga 63,3 M€ de anticipo de la PAC a 8.420 profesionales (el 75 % de la ayuda). Incluye 1,66 M€ de la ayuda a la leche de vaca sostenible.",
+    "Bruselas autoriza los 52 M€ de ayuda del Gobierno al gasóleo agrícola. Todavía no se sabe cuánto toca por litro ni cómo pedirla.",
+    "Gripe aviar en EE. UU.: Washington confirma un caso humano leve en una persona que estuvo en contacto con vacas lecheras infectadas."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El lunes fue más tranquilo: el maíz de París se queda en 292,75 €/t y el Brent baja un poco, a 109,55 $. Los costes siguen altos, pero los anticipos de la PAC y la ayuda al gasóleo darán algo de liquidez."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Leche desnatada en polvo (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 359 €/100 kg (+17); nueva cotización mañana", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 370 €/100 kg (−20); nueva cotización mañana", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "última subasta: +1,2 % (6 oct); la subasta 414 es hoy a las 14:00 (hora de Madrid)", "fecha": "6 oct 2026", "fuente": "Global Dairy Trade", "url": "https://www.globaldairytrade.info/" },
+    { "producto": "Maíz, Euronext-París (noviembre)", "valor": "292,75 €/t", "variacion": "+0,25 €/t frente al viernes (292,50)", "fecha": "19 oct 2026", "fuente": "GrainDecision", "url": "https://www.graindecision.com/en/analyses/corn-euronext" },
+    { "producto": "Trigo, Euronext-París (diciembre)", "valor": "sin actualización hoy", "variacion": "último dato: 243,75 €/t (+0,7 % en la semana)", "fecha": "16 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-maiz-trigo-colza-soja-octubre-2026" },
+    { "producto": "Cebada, Lonja de Salamanca", "valor": "232 €/t", "variacion": "+1 €/t", "fecha": "19 oct 2026", "fuente": "Salamanca RTV al Día", "url": "https://salamancartvaldia.es/noticia/2026-10-19-vacuno-y-cereal-mantienen-la-tendencia-alcista-y-lechazos-y-corderos-se-ponen-por-las-nubes-399363" },
+    { "producto": "Alfalfa, Lonja de Salamanca", "valor": "260 €/t", "variacion": "+3 €/t", "fecha": "19 oct 2026", "fuente": "Salamanca RTV al Día", "url": "https://salamancartvaldia.es/noticia/2026-10-19-vacuno-y-cereal-mantienen-la-tendencia-alcista-y-lechazos-y-corderos-se-ponen-por-las-nubes-399363" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 256 €/t, sin cambios; nueva sesión mañana", "fecha": "14 oct 2026 (semana 42)", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/noticias/semana-42-lonja-binefar-14-octubre-2026-en-un-mercado-con-poca-actividad-continua-la-tendencia-alcista-en-cebada-y-trigos/" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 462 €/t (+18 €/t)", "fecha": "13 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %); Álava, cooperativas: 1,269 €/l", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "109,55 USD/barril", "variacion": "−0,31 USD (−0,28 %)", "fecha": "19 oct 2026", "fuente": "Infobae (EFE)", "url": "https://www.infobae.com/america/mundo/2026/10/19/el-petroleo-cierra-con-el-brent-a-la-baja-y-el-wti-al-alza-por-la-tension-en-medio-oriente/" },
+    { "producto": "Euro/dólar", "valor": "≈1,12 USD", "variacion": "1 USD = 0,8904 € (≈1,123 USD por euro)", "fecha": "19 oct 2026 (primera hora)", "fuente": "Infobae", "url": "https://www.infobae.com/espana/2026/10/19/cuantos-euros-me-dan-por-un-dolar-este-19-de-octubre/" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato: 3,215 %; media provisional de octubre ≈3,217 %", "fecha": "16 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/19/el-brent-se-desploma-un-23-tras-la-exencion-de-sanciones-de/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Gripe aviar H5N1: caso humano en Washington ligado a vacas de leche",
+          "ambito": "mundo",
+          "resumen": "Washington (EE. UU.) confirma un caso humano leve de gripe aviar en una persona que estuvo en contacto con ganado infectado, después de detectar el virus en dos granjas de vacuno de leche del condado de Yakima.",
+          "detalle": "Según Qué! (19 de octubre), el Distrito de Salud de Yakima y el Departamento de Salud de Washington informan del caso humano. La persona no tiene enfermedad grave, no ha sido hospitalizada y está aislada en casa. Se está rastreando a sus contactos, se reparten equipos de protección a los trabajadores de las granjas afectadas y se hacen pruebas a quienes tengan síntomas.\n\nEl USDA confirmó el 9 de octubre la influenza aviar de alta patogenicidad H5 (clado 2.3.4.4b) en dos rebaños de leche de Washington. Son los primeros casos en ganado de ese estado; los dos rebaños habían dado negativo en la vigilancia rutinaria (Feedstuffs, nota de USDA-APHIS). Las autoridades consideran bajo el riesgo para la población general.\n\nQué puede significar: en Europa no hay casos en vacuno de leche, pero el virus sigue saltando a vacas en EE. UU. Conviene mantener la bioseguridad frente a aves silvestres y el uso de guantes y protección en el ordeño.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "Qué! y Feedstuffs (USDA-APHIS)",
+          "url": "https://www.que.es/2026/10/19/gripe-aviar-h5n1-vacas-eeuu/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Vacuno vivo: Marruecos sigue cerrado por la dermatosis nodular; UPA pide reabrirlo",
+          "ambito": "España",
+          "resumen": "España no ha exportado ni un bovino vivo a Marruecos en 2026, cuando en 2025 fueron casi 52.000 cabezas. UPA pide que Marruecos acepte la regionalización por la dermatosis nodular; el MAPA se reunirá con Marruecos a finales de noviembre.",
+          "detalle": "Según Agrodigital (19 de octubre), Marruecos cerró la entrada de vacuno vivo hace más de diez meses como precaución por la dermatosis nodular contagiosa (DNC) detectada a finales de 2025 en el noreste de España. En 2024 se exportaron 61.715 cabezas de más de 300 kg (el 52 % de la exportación en vivo) y en 2025, 51.986 (el 64 %). En 2026, ninguna.\n\nUPA pide al Ministerio una gestión diplomática urgente para que Marruecos acepte la regionalización: la DNC solo se detectó en Cataluña y Aragón, así que el resto de España podría exportar. También pide que España lidere el debate de la estrategia ganadera europea y la PAC futura a favor de las explotaciones familiares. El Ministerio le ha dicho que se reunirá con las autoridades marroquíes a finales de noviembre.\n\nQué puede significar: sin el mercado marroquí hay más terneros y animales de cebo para el mercado interior, lo que presiona el precio de los machos y las vacas de desvieje que venden las granjas de leche.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/19/exportaciones-vacuno-marruecos/"
+        },
+        {
+          "titular": "Lonja de Salamanca: siguen subiendo el vacuno de cebo y los machos para vida",
+          "ambito": "España",
+          "resumen": "El lunes subieron otra vez las terneras de más de 270 kg (+0,21 €/kg) y los añojos de más de 350 kg (+0,17 €/kg). Los machos para vida subieron unos 2 € por animal (precio medio, 982 €).",
+          "detalle": "Según Salamanca RTV al Día (19 de octubre), la Lonja de Salamanca mantiene la tendencia al alza en vacuno: subidas en cebo y sacrificio y, en vida, los machos suben unos 2 € por cabeza, con una media de 982 €. En cereal, la cebada sube 1 € (232 €/t) y la alfalfa 3 € (260 €/t); el centeno está en 222 €/t.\n\nQué puede significar: el precio del vacuno de carne sigue firme pese al cierre de Marruecos, una buena noticia para lo que ingresa la granja de leche por terneros y vacas de desvieje.",
+          "soloLargo": true,
+          "fecha": "2026-10-19",
+          "fuente": "Salamanca RTV al Día",
+          "url": "https://salamancartvaldia.es/noticia/2026-10-19-vacuno-y-cereal-mantienen-la-tendencia-alcista-y-lechazos-y-corderos-se-ponen-por-las-nubes-399363"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "El maíz de París se frena tras subir un 7 %; Chicago encadena cinco bajadas",
+          "ambito": "UE",
+          "resumen": "El lunes, el maíz de Euronext (noviembre) cerró a 292,75 €/t, casi igual que el viernes. En Chicago, el maíz bajó un 1,6 %, su quinta caída seguida, cerca de mínimos de diez semanas.",
+          "detalle": "Según GrainDecision, el maíz de Euronext con vencimiento en noviembre cerró el 19 de octubre a 292,75 €/t (+0,09 %), tras la subida de 19,25 €/t de la semana pasada. En Chicago, según Ruralnet (19 de octubre), el maíz cayó en torno a un 1,6 % por la buena cosecha en EE. UU., y la soja tocó mínimos de varias semanas por el buen tiempo para la cosecha y las ventas de los fondos; las compras de China frenaron algo la caída. El trigo también bajó, presionado por los precios de exportación de Rusia.\n\nEn España, la cebada subió 1 € en Salamanca (232 €/t) y la alfalfa, 3 € (260 €/t). La Lonja de Binéfar publica mañana.\n\nQué puede significar: el maíz europeo se mantiene caro mientras el americano baja. Si Chicago sigue cayendo, la soja podría aflojar en las próximas semanas.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "GrainDecision, Ruralnet y Salamanca RTV al Día",
+          "url": "https://www.graindecision.com/en/analyses/corn-euronext"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Petróleo: Trump suspende sanciones a Rusia y el Brent baja algo, pero Ormuz sigue cerrado",
+          "ambito": "mundo",
+          "resumen": "El Brent cerró el lunes a 109,55 $ (−0,28 %) después de llegar a caer más de 3 $. Bajó porque Trump ha aplazado las sanciones a la energía rusa, pero se recuperó por las minas en el estrecho de Ormuz.",
+          "detalle": "Trump firmó el viernes 16 una orden que suspende muchas sanciones a Rusia previstas por la Ley Graham y exime de aranceles a los países que compran petróleo ruso. La orden no tiene fecha de fin (Euribor.com.es, 19 de octubre). El Brent llegó a caer un 2,3 % por la mañana, hasta 107,37 $.\n\nPor la tarde se recuperó. Según EFE (vía Infobae), la Guardia Revolucionaria de Irán informó de otra explosión en un petrolero que chocó con una mina en el sur del estrecho. Irán insiste en que el estrecho está cerrado, y EE. UU. intenta abrir una ruta cerca de Omán. Según Kpler, las exportaciones de crudo del Golfo bajaron la semana pasada a unos 8,5 millones de barriles al día, frente a más de 20 millones la semana anterior. El WTI subió un 2,2 %, hasta 103,66 $.\n\nQué puede significar: el gasóleo agrícola difícilmente bajará mucho mientras Ormuz siga cerrado. El informe semanal del MAPA sale esta semana.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "Infobae (EFE) y Euribor.com.es",
+          "url": "https://www.infobae.com/america/mundo/2026/10/19/el-petroleo-cierra-con-el-brent-a-la-baja-y-el-wti-al-alza-por-la-tension-en-medio-oriente/"
+        },
+        {
+          "titular": "Los ministros de Agricultura del G7 buscan en París soluciones para los fertilizantes",
+          "ambito": "mundo",
+          "resumen": "Los ministros de Agricultura del G7, con el comisario europeo Christophe Hansen, se reunieron ayer en París. Buscan soluciones a largo plazo para la subida y la falta de fertilizantes.",
+          "detalle": "Según Agrodigital (19 de octubre), la reunión, con la presidencia francesa del G7, se centra en la resiliencia agrícola: suelo, fertilizantes y gestión de nutrientes. Sigue a la reunión virtual del 8 de junio, que buscó respuestas urgentes a la subida de precios y a los cortes de suministro de fertilizantes. Por la tarde estaba prevista una visita al salón SIAL.\n\nLa nota es previa a la reunión y no recoge acuerdos.\n\nQué puede significar: el abono seguirá siendo caro para la siembra de primavera; aprovechar bien el purín y el estiércol de la granja tiene más valor.",
+          "soloLargo": true,
+          "fecha": "2026-10-19",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/19/ministros-agricultura-paris-resiliencia/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Navarra ya paga 63,3 M€ de anticipo de la PAC; 1,66 M€ para la leche",
+          "ambito": "local",
+          "resumen": "Actualización: el Gobierno de Navarra paga desde el viernes 63,3 M€ a 8.420 agricultores y ganaderos, el 75 % de la ayuda. Por primera vez incluye las ayudas asociadas a la ganadería, con 1,66 M€ para la producción sostenible de leche de vaca.",
+          "detalle": "Según Pamplona Actual (19 de octubre), el Departamento de Desarrollo Rural y Medio Ambiente paga el anticipo desde el 16 de octubre a más del 85 % de los posibles beneficiarios. Son 9,3 M€ más que el año pasado. El anticipo sube al 75 % por un cambio del reglamento europeo, ligado a la subida de los fertilizantes y otros insumos por la crisis de Oriente Medio.\n\nReparto: ayuda básica a la renta 32,47 M€; pago redistributivo 6,99 M€; ecorregímenes 14,77 M€; ayudas asociadas a superficie 1,18 M€; jóvenes agricultores 1,44 M€ (204 titulares), y ayudas asociadas a la ganadería, por primera vez en el anticipo, 6,4 M€. De ellas, 1,66 M€ son para la leche de vaca sostenible. El resto se pagará desde el 1 de diciembre.\n\nQué puede significar: en Navarra, los ganaderos de leche cobran ahora una parte de la ayuda asociada que antes llegaba en diciembre.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-19",
+          "fuente": "Pamplona Actual",
+          "url": "https://pamplonaactual.com/pamplona-actual/desarrollo-rural-y-medio-ambiente-anticipa-63-millones-de-la-pac-a-8420-profesionales-de-agricultura-y-ganaderia-de/"
+        },
+        {
+          "titular": "Bruselas autoriza 52 M€ de ayuda al gasóleo agrícola",
+          "ambito": "España",
+          "resumen": "La Comisión Europea autoriza la ayuda de 52 M€ del Gobierno para compensar la subida del gasóleo agrícola. Falta saber cuánto toca por explotación, cómo se pide y cuándo se cobra.",
+          "detalle": "Según Moncloa.com (19 de octubre), la Comisión considera la ayuda «necesaria, adecuada y proporcionada» según las normas europeas de ayudas de Estado. Lo que aprueba es el régimen de ayuda, no los pagos concretos. Se dirige a explotaciones agrícolas y ganaderas.\n\nEl MAPA tiene que decidir el reparto, el importe medio, qué hay que justificar, si se paga por transferencia o con rebaja de impuestos, el calendario y el plazo para pedirla.\n\nQué puede significar: los ganaderos tendrán que guardar las facturas del gasóleo; conviene estar atentos a la convocatoria del MAPA.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/10/19/ayudas-gasoleo-agricola-52-millones-bruselas-3451538/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Anticipo de la PAC en Navarra (incluida la ayuda a la leche de vaca): buen momento para cerrar con el cliente el plan de alimentación y las compras del invierno.",
+    "Ayuda al gasóleo autorizada por Bruselas: recuérdale al ganadero que guarde las facturas de gasóleo y aprovecha para repasar sus costes por litro (alimentación, energía y combustible).",
+    "Maíz europeo caro (≈293 €/t) mientras Chicago baja: propón revisar la ración con análisis del ensilado y de la hierba para sacar más del forraje propio.",
+    "Caso humano de gripe aviar ligado a vacas en EE. UU.: buena excusa para hablar de bioseguridad (aves silvestres, comederos tapados, higiene del ordeño)."
+  ],
+  "agenda": [
+    { "fecha": "2026-10-20", "evento": "Subasta de Global Dairy Trade (evento 414), 14:00 hora de Madrid", "lugar": "En línea", "url": "https://www.globaldairytrade.info/" },
+    { "fecha": "22–23 oct", "evento": "Reunión informal de ministros de Comercio de la UE", "lugar": "UE", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura y Pesca de la UE: posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/13/tractorada-madrid-ministerio-agricultura/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://agrodigital.com/2026/10/19/anticipo-pac/" }
+  ]
+}
