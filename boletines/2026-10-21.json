@@ -1,0 +1,190 @@
+{
+  "fecha": "2026-10-21",
+  "titulo": "Boletín Carlota – miércoles 21 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-21T07:10:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sigue sin haber focos nuevos de lengua azul comunicados desde el 16 de octubre y ninguno en País Vasco ni Navarra, pero el virus circula en las dos y el 1 de noviembre cambian las normas (lengua azul en España y dermatosis nodular en Cantabria)."
+  },
+  "destacados": [
+    "La subasta GDT sube un 2,5 %: la leche en polvo entera gana un 4,4 % y la desnatada un 3,4 %; la mantequilla baja un 0,4 % y el cheddar un 7,4 %.",
+    "Cantabria volverá a permitir bovino en ferias desde el 1 de noviembre, pero mantiene 28 días de cuarentena para los animales que lleguen de fuera, también del País Vasco y Navarra.",
+    "Unión de Uniones avisa de que la leche se usa como producto reclamo en el súper: el ganadero cobra un 14 % menos que en enero y producir ya cuesta más de 0,50 €/l."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "La GDT sube y el Brent baja un poco (108,79 $), pero el maíz de París sigue caro (≈293 €/t) y el precio en origen va a la baja con costes por encima de 0,50 €/l. Por ahora, sin cambios claros en el margen."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año); según Unión de Uniones, el precio medio está un 14 % por debajo del de enero", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Global Dairy Trade (índice, evento 414)", "valor": "+2,5 % (precio medio 4.021 USD/t)", "variacion": "leche entera en polvo 3.760 USD/t (+4,4 %); desnatada en polvo 3.975 (+3,4 %); mantequilla 4.721 (−0,4 %); cheddar 3.645 (−7,4 %); grasa láctea anhidra 5.488 (−3,4 %)", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 359 €/100 kg (+17); nueva cotización hoy", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 370 €/100 kg (−20); nueva cotización hoy", "fecha": "semana 42 (14 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/14/prijzen-boter-en-vollemelkpoeder-in-de-min-mageremelkpoeder-plust" },
+    { "producto": "Maíz, Euronext-París (noviembre)", "valor": "sin actualización hoy", "variacion": "último dato: 292,75 €/t (+0,25)", "fecha": "19 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/colza-cae-trigo-maiz-euronext-paris-19-octubre-2026" },
+    { "producto": "Trigo, Euronext-París (diciembre)", "valor": "243,50 €/t", "variacion": "−0,25 €/t (−0,10 %)", "fecha": "19 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/colza-cae-trigo-maiz-euronext-paris-19-octubre-2026" },
+    { "producto": "Cebada, Lonja de Salamanca", "valor": "sin actualización hoy", "variacion": "último dato: 232 €/t (+1)", "fecha": "19 oct 2026", "fuente": "Salamanca RTV al Día", "url": "https://salamancartvaldia.es/noticia/2026-10-19-vacuno-y-cereal-mantienen-la-tendencia-alcista-y-lechazos-y-corderos-se-ponen-por-las-nubes-399363" },
+    { "producto": "Alfalfa, Lonja de Salamanca", "valor": "sin actualización hoy", "variacion": "último dato: 260 €/t (+3)", "fecha": "19 oct 2026", "fuente": "Salamanca RTV al Día", "url": "https://salamancartvaldia.es/noticia/2026-10-19-vacuno-y-cereal-mantienen-la-tendencia-alcista-y-lechazos-y-corderos-se-ponen-por-las-nubes-399363" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 256 €/t, sin cambios; nueva sesión hoy", "fecha": "14 oct 2026 (semana 42)", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/noticias/semana-42-lonja-binefar-14-octubre-2026-en-un-mercado-con-poca-actividad-continua-la-tendencia-alcista-en-cebada-y-trigos/" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 462 €/t (+18 €/t)", "fecha": "13 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %); Álava, cooperativas: 1,269 €/l", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "108,79 USD/barril", "variacion": "−0,76 USD (−0,69 %); llegó a 111,99 $, máximo desde mayo", "fecha": "20 oct 2026", "fuente": "Infobae", "url": "https://www.infobae.com/america/mundo/2026/10/20/el-petroleo-cierra-a-la-baja-tras-las-senales-de-dialogo-entre-estados-unidos-e-iran/" },
+    { "producto": "Euro/dólar", "valor": "≈1,12 USD", "variacion": "1 USD = 0,8902 € (≈1,123 USD por euro)", "fecha": "20 oct 2026 (primera hora)", "fuente": "Infobae", "url": "https://www.infobae.com/espana/2026/10/20/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-20-de-octubre/" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato confirmado: 3,215 %; media provisional de octubre ≈3,217 %", "fecha": "16 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/20/analisis-de-mercados-20-de-octubre-de-2026-20-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Dermatosis nodular: Cantabria permitirá bovino en ferias desde el 1 de noviembre, pero mantiene la cuarentena",
+          "ambito": "España",
+          "resumen": "Cantabria vuelve a autorizar ferias, concursos y exposiciones con ganado bovino desde el 1 de noviembre. Los animales que lleguen de otras comunidades, también del País Vasco y Navarra, siguen con 28 días de cuarentena bajo vigilancia oficial.",
+          "detalle": "Según Diario Veterinario (19 de octubre), la Dirección General de Ganadería de Cantabria ha publicado una nueva resolución frente a la dermatosis nodular contagiosa (DNC) que sustituye a la de julio y entra en vigor el 1 de noviembre. Se podrán celebrar de nuevo ferias y otros eventos con bovino.\n\nSe mantiene lo demás: los animales de especies sensibles que lleguen de fuera de Cantabria deben pasar una cuarentena mínima de 28 días naturales en la explotación de destino, con la unidad epidemiológica inmovilizada (no pueden entrar más animales hasta que termine). Hay excepciones, como los envíos a matadero o al Mercado Nacional de Ganados de Torrelavega. La desinsectación de los camiones que entren o salgan de Cantabria sigue siendo obligatoria, incluso si vuelven vacíos. Las medidas duran hasta el 31 de diciembre y se pueden prorrogar.\n\nContexto: en España hay 20 focos notificados (18 en Girona y 2 en Huesca) y no ha habido ninguno nuevo durante la temporada de vectores.\n\nQué puede significar: si un cliente vende novillas o vacas a Cantabria, el comprador tendrá que inmovilizar su explotación 28 días; conviene avisarle antes de cerrar la venta.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-19",
+          "fuente": "Diario Veterinario",
+          "url": "https://www.diarioveterinario.com/t/6056865/cantabria-flexibiliza-restricciones-dermatosis-nodular-permitira-ferias-ganado-bovino-noviembre"
+        },
+        {
+          "titular": "Tuberculosis bovina: ganaderos de extensivo piden no endurecer el programa",
+          "ambito": "España",
+          "resumen": "Actualización: la Asociación de Ganaderos 19 de Abril rechaza que el MAPA dé marcha atrás en las flexibilizaciones de 2024 del programa de erradicación de la tuberculosis, como propone su evaluación intermedia.",
+          "detalle": "Según Agrodigital (21 de octubre), la asociación responde al «Informe de situación del programa de tuberculosis. Evaluación intermedia 2026» del MAPA, que propone revisar las flexibilizaciones de 2024 porque España no avanza al ritmo previsto para erradicar la enfermedad en 2030. El atasco está en zonas de extensivo con mucha cabaña: Salamanca, Ávila, Zamora, Extremadura y el oeste de Andalucía.\n\nLa asociación considera irreal un objetivo igual para todo el territorio, señala la fauna silvestre, las sequías y las dificultades de bioseguridad, y pide adaptar el programa a la ganadería extensiva. Reconoce que es una zoonosis y que hay que mantener la vigilancia.\n\nQué puede significar: País Vasco y Navarra tienen una prevalencia casi nula (ver boletín del 16 de octubre), pero si el MAPA endurece el programa podría haber más pruebas o restricciones al comprar animales de zonas con más tuberculosis.",
+          "soloLargo": true,
+          "fecha": "2026-10-21",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/21/tuberculosis-bovina-ganaderia-extensiva/"
+        },
+        {
+          "titular": "Cataluña aprueba 5,5 M€ en ayudas al vacuno por la dermatosis nodular",
+          "ambito": "España",
+          "resumen": "La Generalitat destina 5,5 M€ a las explotaciones de bovino afectadas por vaciados, restricciones o medidas de control de la dermatosis nodular. Se suman a 6,5 M€ ya pagados por los vaciados.",
+          "detalle": "Según Agrodigital (20 de octubre), las ayudas tienen tres líneas, ya abiertas, para titulares afectados por vaciados sanitarios obligatorios, restricciones a los animales destinados a matadero u otras medidas oficiales. Cataluña gestionó 18 focos desde el 3 de octubre de 2025; las últimas restricciones se levantaron el 27 de febrero de 2026, y 1.124 explotaciones y pastos de 165 municipios volvieron a la normalidad. La vacunación de todo el vacuno sigue siendo obligatoria allí.\n\nQué puede significar: da una idea del coste de un brote de DNC; en el norte, la prevención (desinsectación y control de movimientos) sale mucho más barata.",
+          "soloLargo": true,
+          "fecha": "2026-10-20",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/20/ayudas-dermatosis-nodular-contagiosa-vacuno/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La subasta GDT sube un 2,5 %, empujada por la leche en polvo",
+          "ambito": "mundo",
+          "resumen": "El índice de Global Dairy Trade subió ayer un 2,5 % (precio medio, 4.021 USD/t). La leche en polvo entera gana un 4,4 % y la desnatada un 3,4 %, pero la mantequilla baja un 0,4 % y el cheddar un 7,4 %.",
+          "detalle": "Según Noticias Agropecuarias (20 de octubre), en el evento 414 se vendieron 42.088 t, con 145 compradores (105 se llevaron producto). Precios medios: leche entera en polvo 3.760 USD/t (+4,4 %), desnatada en polvo 3.975 (+3,4 %), mozzarella 3.880 (+1,3 %), cheddar 3.645 (−7,4 %), mantequilla 4.721 (−0,4 %), grasa láctea anhidra 5.488 (−3,4 %), suero de mantequilla en polvo 4.694 (+8,4 %) y lactosa 1.665 (+0,6 %). Es la segunda subida seguida, tras el +1,2 % del 6 de octubre.\n\nQué puede significar: el mercado mundial de proteína láctea (polvos) se recupera, mientras la grasa afloja. Es una señal algo mejor para el precio de la leche, pero en España aún no se nota en origen.",
+          "soloLargo": false,
+          "fecha": "2026-10-20",
+          "fuente": "Noticias Agropecuarias",
+          "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/"
+        },
+        {
+          "titular": "Unión de Uniones también alerta de la leche como producto reclamo en el súper",
+          "ambito": "España",
+          "resumen": "Actualización: después de COAG, Unión de Uniones denuncia las rebajas de la leche en los lineales, sobre todo en Mercadona. Dice que el ganadero cobra un 14 % menos que en enero y que producir ya cuesta más de 0,50 €/l.",
+          "detalle": "Según AgroCLM y Campo Galego (20 de octubre), Unión de Uniones teme que se repita lo de 2021, cuando la leche barata en el súper acabó bajando el precio al ganadero. Precios Hacendado: semidesnatada 0,83 €/l (0,88 en enero), desnatada 0,81 €/l y entera 0,96 €/l. Mercadona tiene cerca del 29,5 % de las ventas de alimentación.\n\nSubidas de costes que cita la organización: pienso +6 %, alfalfa +10 %, paja +52 %, veza +16 %, gasóleo +22 % y electricidad +20 %. Pide que las rebajas salgan del margen de la distribución, que se cumpla la Ley de la Cadena y que el consumidor elija leche local. Convoca a la tractorada del 28 de octubre en Madrid. La nota no incluye respuesta de Mercadona ni del Ministerio.\n\nQué puede significar: la presión sobre el precio en origen sigue; al renovar contratos, conviene que el ganadero conozca bien su coste de producción por litro.",
+          "soloLargo": false,
+          "fecha": "2026-10-20",
+          "fuente": "AgroCLM y Campo Galego",
+          "url": "https://www.agroclm.com/2026/10/20/union-de-uniones-alerta-de-bajadas-de-precio-de-la-leche-en-los-lineales-de-supermercados-a-costa-de-los-ganaderos/"
+        },
+        {
+          "titular": "Bizkaia rechaza estudiar un matadero comarcal en Lea-Artibai y Busturialdea",
+          "ambito": "local",
+          "resumen": "Las Juntas Generales de Bizkaia rechazaron ayer la propuesta de EH Bildu de un matadero con sala de despiece en el caserío foral de Otei. El PNV dice que la Diputación ya estudia otra ubicación en Bizkaia.",
+          "detalle": "Según Radio Nervión (20 de octubre), la proposición no de ley planteaba un pequeño matadero comarcal y otros usos para Otei (viviendas para jóvenes ganaderos, escuela de pastoreo, granja-escuela). Votaron en contra PNV y PSE, a favor EH Bildu y Elkarrekin Bizkaia, y el PP se abstuvo. El PNV argumenta que Otei no reúne condiciones y que la Diputación analiza otra ubicación; el PSE pide antes un estudio técnico y económico.\n\nQué puede significar: el matadero en Bizkaia sigue sin fecha ni ubicación; habrá que ver qué propone la Diputación.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-20",
+          "fuente": "Radio Nervión",
+          "url": "https://www.radionervion.com/2026/10/20/bizkaia-tumba-la-propuesta-para-construir-un-matadero-en-lea-artibai-y-busturialdea/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "OCM post-2027: los ministros crean un sector de proteaginosas y oleaginosas que sustituye al de forrajes desecados",
+          "ambito": "UE",
+          "resumen": "El Consejo de la UE aprobó el 19 de octubre su posición sobre la organización común de mercados después de 2027. Crea un sector de cultivos proteicos y oleaginosas, que sustituye al actual de forrajes desecados, para producir más proteína en Europa.",
+          "detalle": "Según Agrodigital (20 de octubre), la posición del Consejo incluye: el nuevo sector de proteaginosas y oleaginosas (para reducir la dependencia de las importaciones, como la soja), posibles normas de comercialización para proteaginosas y carne de vacuno, porcino, ovino y caprino (más información de origen al consumidor), y el paso del programa escolar de fruta, verdura y leche a año natural, limitando alimentos con mucho azúcar o grasa. No hay cambios para los contratos lácteos en esta parte.\n\nAhora toca negociar con el Parlamento Europeo; el dinero depende del marco financiero 2028–2034. La posición sobre el reglamento de la PAC se busca en el Consejo de Agricultura del 26–27 de octubre.\n\nQué puede significar: a medio plazo, más apoyo europeo a la alfalfa, las leguminosas y las oleaginosas, que puede abaratar la proteína para piensos. El cambio afecta directamente a la alfalfa deshidratada.",
+          "soloLargo": false,
+          "fecha": "2026-10-19",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/20/ocm-posicion-consejo/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Petróleo: el Brent toca 112 $ por un dron derribado en Ormuz y cierra a la baja por la mediación de Catar y Pakistán",
+          "ambito": "mundo",
+          "resumen": "El Brent cerró ayer a 108,79 $ (−0,69 %) tras llegar a 111,99 $, máximo desde mayo. Subió cuando Irán anunció el derribo de un dron de EE. UU. sobre Ormuz y bajó con las noticias de una posible reanudación del diálogo.",
+          "detalle": "Según Infobae (EFE, 20 de octubre), la Guardia Revolucionaria iraní anunció el derribo de un dron estadounidense MQ-9 sobre el estrecho de Ormuz, lo que disparó el precio por la mañana. Después, el medio The New Arab informó de que Catar y Pakistán han presentado una propuesta de mediación que habrían aceptado ambos gobiernos; un portavoz catarí habló de «negociaciones en curso». El WTI de noviembre cerró a 101,79 $ (−1,8 %).\n\nSegún Euribor.com.es (20 de octubre), Irán mantiene bloqueado el estrecho y Trump rechazó la propuesta iraní «en su forma actual». El Brent sube un 80,7 % en lo que va de año.\n\nQué puede significar: mientras Ormuz siga cerrado, el gasóleo agrícola y los fertilizantes seguirán caros; un acuerdo podría bajar el petróleo rápido.",
+          "soloLargo": false,
+          "fecha": "2026-10-20",
+          "fuente": "Infobae (EFE) y Euribor.com.es",
+          "url": "https://www.infobae.com/america/mundo/2026/10/20/el-petroleo-cierra-a-la-baja-tras-las-senales-de-dialogo-entre-estados-unidos-e-iran/"
+        },
+        {
+          "titular": "G7 de Agricultura: sin compromisos concretos sobre fertilizantes",
+          "ambito": "mundo",
+          "resumen": "Actualización: la reunión del G7 en París se centró en el uso eficiente de los fertilizantes y la salud del suelo, pero no fijó medidas ni dinero. Habrá un diálogo científico el 3 y 4 de diciembre.",
+          "detalle": "Según Agrodigital (20 de octubre), los ministros hablaron de soluciones a medio y largo plazo: uso eficiente de fertilizantes, ciclo de nutrientes y prácticas que cuiden el suelo. El INRAE organizará el 3 y 4 de diciembre un encuentro de científicos del G7 para fijar prioridades de investigación. La ministra francesa, Annie Genevard, dijo que el G7 apoyará a los agricultores en las crisis, sin cifras ni plazos.\n\nQué puede significar: no hay alivio a la vista para el precio del abono; el purín y el estiércol bien aplicados siguen siendo la forma más barata de fertilizar praderas y maíz.",
+          "soloLargo": true,
+          "fecha": "2026-10-20",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/20/ministros-agricultura-g7-nutrientes-suelo/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Bizkaia confirma los 2 M€ por la sequía, que se tramitan de oficio",
+          "ambito": "local",
+          "resumen": "Actualización: la diputada Arantza Atutxa confirmó ayer en las Juntas Generales los 2 M€ de ayuda por la sequía: 1,5 M€ directos a explotaciones y 0,5 M€ para infraestructuras de agua y transporte de forraje en los montes. No hay que pedirla.",
+          "detalle": "Según Radio Nervión (20 de octubre), la Diputación de Bizkaia ha movilizado 2 M€: 1,5 M€ en ayudas directas a explotaciones ganaderas y agrícolas y 500.000 € para infraestructuras hidráulicas y transporte de forraje en los montes. Las ayudas se tramitan de oficio, sin que los profesionales tengan que presentar solicitud (lo adelantamos el 12 de octubre).\n\nQué puede significar: el ganadero no tiene que hacer nada, pero sí comprobar que sus datos (REGA, cuenta bancaria) están al día en la Diputación para cobrar sin retrasos.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-20",
+          "fuente": "Radio Nervión",
+          "url": "https://www.radionervion.com/2026/10/20/bizkaia-tumba-la-propuesta-para-construir-un-matadero-en-lea-artibai-y-busturialdea/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "GDT al alza (+2,5 %) mientras el súper baja la leche: buen momento para hablar con el ganadero de su coste por litro y de qué parte puede mejorar con la ración (pienso, forraje propio, sólidos de la leche).",
+    "Cantabria mantiene 28 días de cuarentena a animales de fuera: si un cliente vende recría o vacas allí, recuérdale avisar al comprador y planificar la venta.",
+    "Con la alfalfa y la paja mucho más caras (+10 % y +52 % según Unión de Uniones), propón análisis del ensilado y de la hierba para ajustar la compra de forraje del invierno.",
+    "En Bizkaia, la ayuda por sequía llega de oficio: aprovecha la visita para comprobar con el ganadero que tiene sus datos al día en la Diputación."
+  ],
+  "agenda": [
+    { "fecha": "22–23 oct", "evento": "Reunión informal de ministros de Comercio de la UE", "lugar": "UE", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura y Pesca de la UE: posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/13/tractorada-madrid-ministerio-agricultura/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Cantabria vuelve a permitir bovino en ferias (sigue la cuarentena de 28 días para animales de fuera)", "lugar": "Cantabria", "url": "https://www.diarioveterinario.com/t/6056865/cantabria-flexibiliza-restricciones-dermatosis-nodular-permitira-ferias-ganado-bovino-noviembre" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://agrodigital.com/2026/10/19/anticipo-pac/" }
+  ]
+}
