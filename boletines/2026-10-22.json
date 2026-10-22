@@ -1,0 +1,202 @@
+{
+  "fecha": "2026-10-22",
+  "titulo": "Boletín Carlota – jueves 22 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-22T07:20:00+02:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "No se han comunicado focos nuevos de lengua azul desde la actualización del 15 de octubre (el MAPA publica la siguiente hoy) y ninguno en País Vasco ni Navarra, pero el virus circula en las dos y el 1 de noviembre cambian las normas."
+  },
+  "destacados": [
+    "Navarra aprueba 5 M€ de ayuda por la sequía para 1.949 granjas, con entre 8 y 50 € por cabeza según la especie; va por ley foral y UAGN pide que se pague cuanto antes.",
+    "Planas anuncia 50,1 M€ más para fertilizantes, que salen de la reserva de crisis de la UE. Mientras, el maíz de París sube a 294,75 €/t porque Francia espera solo unos 7 Mt de cosecha.",
+    "Países Bajos: la leche desnatada en polvo sube por tercera semana (+10 €, a 369 €/100 kg) y la mantequilla repunta un poco (+2 €, a 372 €)."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "La proteína láctea sigue subiendo en Europa y el Brent se queda plano (108,74 $), pero el maíz de París sigue caro (294,75 €/t) y el precio en origen no mejora. El margen, sin cambios claros."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "último evento (414): +2,5 %, precio medio 4.021 USD/t", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo, consumo humano (Países Bajos)", "valor": "369 €/100 kg", "variacion": "+10 €; la de piensos, 360 € (+8)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "372 €/100 kg", "variacion": "+2 €", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Leche entera en polvo (Países Bajos)", "valor": "381 €/100 kg", "variacion": "sin cambios; suero en polvo, 166 € (sin cambios)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Maíz, Euronext-París (noviembre)", "valor": "294,75 €/t", "variacion": "+2,00 €/t", "fecha": "20 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-20-octobre-2026-le-mais-europeen-fait-cavalier-seul-la-hausse" },
+    { "producto": "Trigo, Euronext-París (diciembre)", "valor": "241,50 €/t", "variacion": "−2,00 €/t", "fecha": "20 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-20-octobre-2026-le-mais-europeen-fait-cavalier-seul-la-hausse" },
+    { "producto": "Maíz, Lonja de León (destino secadero)", "valor": "250 €/t", "variacion": "sin cambios", "fecha": "21 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-21-octubre-2026-patata-cereales-alubias" },
+    { "producto": "Cebada, Lonja de León (peso específico > 60)", "valor": "224 €/t", "variacion": "+1 €/t; trigo pienso, 230 €/t (sin cambios)", "fecha": "21 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-21-octubre-2026-patata-cereales-alubias" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 256 €/t, sin cambios", "fecha": "14 oct 2026 (semana 42)", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/lonja-binefar/" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 462 €/t (+18 €/t)", "fecha": "13 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %)", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Diésel de automoción (gasóleo A), media España", "valor": "1,886 €/l", "variacion": "sin cambios apreciables en una semana; −2 % desde finales de septiembre", "fecha": "21 oct 2026 (datos del Miteco)", "fuente": "Infobae (EFE)", "url": "https://www.infobae.com/espana/agencias/2026/10/21/el-precio-de-la-gasolina-cae-un-86-tras-la-entrada-en-vigor-de-la-rebaja-de-20-centimos/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "108,74 USD/barril", "variacion": "−0,04 %; WTI, 97,15 $ (−0,68 %)", "fecha": "21 oct 2026", "fuente": "Diario de Yucatán (EFE)", "url": "https://www.yucatan.com.mx/economia-2/2026/10/21/leve-caida-de-los-precios-del-petroleo-por-negociaciones-entre-ee-uu-e-iran.html" },
+    { "producto": "Euro/dólar", "valor": "sin actualización hoy", "variacion": "último dato: ≈1,12 USD por euro", "fecha": "20 oct 2026", "fuente": "Infobae", "url": "https://www.infobae.com/espana/2026/10/20/tipo-de-cambio-dolar-euro-y-proyecciones-de-este-20-de-octubre/" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "3,245 %", "variacion": "+0,012 puntos; media provisional de octubre, 3,222 %", "fecha": "20 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/21/precio-petroleo-hoy-21-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Lengua azul: sin focos nuevos comunicados en una semana; hoy, nueva actualización del MAPA",
+          "ambito": "España",
+          "resumen": "Actualización: desde el informe del 15 de octubre (Cádiz, Badajoz y Ourense) no se han comunicado focos nuevos. País Vasco y Navarra siguen en la lista de zonas con circulación del virus. El MAPA publica hoy, jueves, la siguiente actualización.",
+          "detalle": "Según el resumen de ASAJA Castilla y León de la actualización del MAPA del 15 de octubre, los últimos focos declarados fueron: serotipo 8 en un bovino de Cádiz, serotipo 4 en un ovino de Badajoz y serotipo 8 en un bovino de Ourense. Zonas con circulación confirmada en la campaña 2026–2027: Galicia, Asturias, País Vasco, La Rioja, Navarra, Extremadura, Huesca, Lleida, Segovia, Albacete, Toledo, Cádiz, Córdoba y Ciudad Real.\n\nEl Ministerio considera la vacunación frente a los serotipos que circulan la principal herramienta de prevención; algunos serotipos (el 8 y el 3) también causan pérdidas en bovino. Recordatorio: desde el 1 de noviembre entra en vigor la Orden APA/1082/2026, con vacunación voluntaria en toda la península.\n\nQué puede significar: mientras haya vectores activos, conviene seguir con la desinsectación y vigilar fiebre, cojeras y caída de leche.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-16",
+          "fuente": "ASAJA Castilla y León (datos del MAPA)",
+          "url": "https://www.asajacyl.com/servicios-socio/lengua-azul-actualizacion-15-10-2026"
+        },
+        {
+          "titular": "El Gobierno reparte 19,1 M€ para tuberculosis, gripe aviar, dermatosis nodular y lengua azul",
+          "ambito": "España",
+          "resumen": "El Consejo de Ministros autorizó el 20 de octubre repartir 19,13 M€ entre 15 comunidades para programas de sanidad animal. País Vasco y Navarra no aparecen en el reparto.",
+          "detalle": "Según Agronews Castilla y León, el dinero se destina a cuatro enfermedades: tuberculosis bovina, influenza aviar altamente patógena, dermatosis nodular contagiosa y lengua azul. Total: 19.131.932,33 €. Las mayores partidas son para Castilla y León (8,04 M€, el 42 %), Extremadura (3,19 M€) y Cataluña (2,01 M€). La Conferencia Sectorial de Agricultura debía aprobar el reparto definitivo ayer, 21 de octubre.\n\nEl artículo no explica por qué no figuran País Vasco ni Navarra.\n\nQué puede significar: el grueso va a las zonas con más tuberculosis y a las que tuvieron dermatosis nodular; no cambia nada en las granjas de la zona.",
+          "soloLargo": true,
+          "fecha": "2026-10-21",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/19-millones-sanidad-animal-reparto-comunidades-2026"
+        },
+        {
+          "titular": "Dermatosis nodular en Francia: ningún foco nuevo desde el 2 de enero",
+          "ambito": "UE",
+          "resumen": "El Ministerio de Agricultura francés confirma, en su actualización del 19 de octubre, que no hay focos nuevos desde el 2 de enero de 2026. Ya no quedan zonas de protección ni de vigilancia: todas son zonas de vacunación.",
+          "detalle": "Según agriculture.gouv.fr, Francia tuvo 117 focos entre el 29 de junio de 2025 y el 2 de enero de 2026, sobre todo en Saboya, Alta Saboya y Pirineos Orientales, y uno en Altos Pirineos. Las zonas reguladas se han convertido en zonas de vacunación; la del suroeste (ZV I y ZV II) no detalla qué departamentos incluye. España es uno de los tres países europeos que aceptan bovino de las zonas ZV II, con condiciones.\n\nQué puede significar: el riesgo de entrada desde el otro lado del Pirineo es bajo ahora; si un cliente compra animales en Francia, hay que comprobar los requisitos sanitarios con los servicios veterinarios antes de traerlos.",
+          "soloLargo": true,
+          "fecha": "2026-10-19",
+          "fuente": "Ministerio de Agricultura de Francia",
+          "url": "https://agriculture.gouv.fr/dermatose-nodulaire-contagieuse-des-bovins-dnc-point-de-situation"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Países Bajos: la leche desnatada en polvo sigue subiendo; la mantequilla repunta",
+          "ambito": "UE",
+          "resumen": "En las cotizaciones holandesas de ayer, la desnatada en polvo para consumo humano sube 10 € (369 €/100 kg) y la mantequilla 2 € (372 €). La leche entera en polvo y el suero en polvo no cambian.",
+          "detalle": "Según Nieuwe Oogst (cotizaciones de ZuivelNL de la semana 43, 21 de octubre): mantequilla 372 €/100 kg (+2), desnatada en polvo para consumo humano 369 € (+10), desnatada para piensos 360 € (+8), leche entera en polvo 381 € (sin cambios) y suero en polvo 166 € (sin cambios). Es la tercera semana seguida de subida de la desnatada (+17 € la semana pasada), en línea con la GDT del martes, donde los polvos también subieron.\n\nQué puede significar: el mercado paga ahora más por la proteína que por la grasa. Si se mantiene, debería ayudar a frenar la bajada del precio en origen, aunque en España suele notarse con meses de retraso.",
+          "soloLargo": false,
+          "fecha": "2026-10-21",
+          "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "El maíz de París sigue subiendo (294,75 €/t) por la mala cosecha francesa",
+          "ambito": "UE",
+          "resumen": "El maíz de noviembre cerró el martes en Euronext a 294,75 €/t (+2 €), el único cereal que subió. Los productores franceses (AGPM) esperan unos 7 Mt de cosecha, frente a 13,7 Mt en 2025.",
+          "detalle": "Según Réussir (20 de octubre), el maíz europeo «fue por libre» al alza: noviembre 294,75 €/t (+2,00), marzo 271,75 (+1,75) y junio 268,00 (+2,25). La AGPM prevé una cosecha francesa de unos 7 Mt, casi la mitad que en 2025, y algunos operadores la ven aún más baja. El trigo de diciembre, en cambio, bajó 2 € (241,50 €/t) siguiendo a Chicago y con lluvias favorables para la siembra en la UE.\n\nEn España el maíz va más tranquilo: en la Lonja de León, ayer, 250 €/t sin cambios; la cebada, 224 €/t (+1) y el trigo pienso, 230 €/t.\n\nQué puede significar: el maíz importado para piensos seguirá caro este invierno; la diferencia con la cebada (unos 26 €/t en León) puede hacer interesante cambiar parte del cereal de la ración.",
+          "soloLargo": false,
+          "fecha": "2026-10-20",
+          "fuente": "Réussir y Agronews Castilla y León",
+          "url": "https://www.reussir.fr/articles/marche-des-cereales-du-20-octobre-2026-le-mais-europeen-fait-cavalier-seul-la-hausse"
+        },
+        {
+          "titular": "Chicago: el trigo cae a mínimos de 14 semanas y la soja a mínimos desde agosto",
+          "ambito": "mundo",
+          "resumen": "El trigo de Chicago cerró ayer en mínimos de 14 semanas (230,82 $/t) y la soja encadena ocho bajadas. Pesan la cosecha de EE. UU. y las esperanzas de un acuerdo entre Rusia y Ucrania.",
+          "detalle": "Según La Nación (21 de octubre), la soja de noviembre cerró a 457,55 $/t, el precio más bajo desde el 25 de agosto, tras ocho sesiones a la baja, por el avance de la cosecha en EE. UU. y las buenas previsiones en Sudamérica. El trigo de diciembre cayó a 230,82 $/t (−4,88 % desde el viernes) por la expectativa de un acuerdo Rusia–Ucrania que facilite las exportaciones del mar Negro y por el inicio de la cosecha en el hemisferio sur. El maíz subió ligeramente (182,37 $/t) y cortó seis sesiones de caídas. El artículo no da precio de la harina de soja.\n\nQué puede significar: si la soja sigue bajando en Chicago, la harina de soja en Barcelona (462 €/t el 13 de octubre) podría aflojar en las próximas semanas.",
+          "soloLargo": true,
+          "fecha": "2026-10-21",
+          "fuente": "La Nación",
+          "url": "https://www.lanacion.com.ar/economia/campo/la-soja-cayo-a-su-menor-precio-desde-agosto-y-el-trigo-toco-un-minimo-de-14-semanas-nid21102026/"
+        },
+        {
+          "titular": "Tractorada del 28 de octubre: también piden normas de bienestar animal «viables»",
+          "ambito": "España",
+          "resumen": "Actualización: ASAJA, COAG y Unión de Uniones añaden a sus reivindicaciones que las normas ambientales, sanitarias y de bienestar animal sean «proporcionadas y viables en las condiciones reales de producción».",
+          "detalle": "Según Qué! (21 de octubre), el lema de la protesta en Madrid es «Dar de comer tiene que dar para vivir». Además de las normas de bienestar animal, piden reducir costes de producción, una PAC con presupuesto suficiente, precios justos y cumplimiento de la Ley de la Cadena, reciprocidad en los acuerdos comerciales, menos burocracia y un plan frente al encarecimiento de insumos. El artículo no da recorrido ni hora. UAGN se suma desde Navarra, como ya informamos.\n\nQué puede significar: el bienestar animal entra en la agenda de la protesta; conviene seguir qué normas concretas se discuten (alojamiento de terneros, transporte).",
+          "soloLargo": true,
+          "fecha": "2026-10-21",
+          "fuente": "Qué!",
+          "url": "https://www.que.es/2026/10/21/tractorada-madrid-bienestar-animal/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Petróleo: el Brent se queda plano (108,74 $) entre la mediación con Irán y las minas en Ormuz",
+          "ambito": "mundo",
+          "resumen": "El Brent cerró ayer a 108,74 $ (−0,04 %) tras bajar más de un 1 % durante el día. Irán dice que las negociaciones con EE. UU. siguen, con Pakistán de intermediario, pero en Ormuz hubo otro petrolero alcanzado y un incendio tras una mina.",
+          "detalle": "Según EFE (Diario de Yucatán, 21 de octubre), el ministro iraní de Exteriores aseguró que las negociaciones para acabar con la guerra continúan «sin interrupción». Marco Rubio reconoció la mediación de Catar y Pakistán, pero descartó un acuerdo que permita a Irán desarrollar armas nucleares. El WTI bajó un 0,68 %, a 97,15 $.\n\nSegún AFP (Ensegundos), las exportaciones de crudo de Oriente Medio, incluidas las rutas que evitan Ormuz, superaron los 24 millones de barriles diarios en la semana del 18 de octubre, por encima de antes de la guerra; pero los fletes y los seguros siguen muy caros, y los hutíes atacan casi a diario instalaciones de Arabia Saudí.\n\nQué puede significar: el petróleo se estabiliza en niveles altos; sin acuerdo, el gasóleo agrícola y los abonos no bajarán de forma clara.",
+          "soloLargo": false,
+          "fecha": "2026-10-21",
+          "fuente": "Diario de Yucatán (EFE) y Ensegundos (AFP)",
+          "url": "https://www.yucatan.com.mx/economia-2/2026/10/21/leve-caida-de-los-precios-del-petroleo-por-negociaciones-entre-ee-uu-e-iran.html"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Navarra aprueba 5 M€ de ayuda por la sequía para 1.949 granjas",
+          "ambito": "local",
+          "resumen": "El Gobierno de Navarra aprobó el proyecto de ley foral con 5 M€ para granjas de ovino, caprino, vacuno y equino afectadas por la sequía: entre 8 y 50 € por cabeza según el tipo de ganado. UAGN pide que el Parlamento la tramite rápido.",
+          "detalle": "Según Agrodigital (22 de octubre), la ayuda llegará a 1.949 explotaciones. El artículo no detalla cuánto corresponde al vacuno de leche ni los requisitos, ni cómo se solicita o cuándo se paga. Al ser una ley foral, debe aprobarla el Parlamento de Navarra antes de pagarse. El vicepresidente de UAGN, Gonzalo Palacios, la valoró como «un paso importante, pero ahora lo fundamental es que las ayudas se hagan efectivas cuanto antes».\n\nComo referencia, en Euskadi la ayuda por sequía es de 36 € por vaca de leche (Gobierno Vasco), y Bizkaia y Álava añaden sus propias ayudas.\n\nQué puede significar: ingreso extra para las granjas navarras, pero no antes de que se apruebe la ley; conviene que el ganadero tenga el censo y el REGA al día.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-22",
+          "fuente": "Agrodigital",
+          "url": "https://agrodigital.com/2026/10/22/ayudas-sequia-ganaderia-navarra/"
+        },
+        {
+          "titular": "Fertilizantes: Planas anuncia 50,1 M€ más de la reserva de crisis de la UE",
+          "ambito": "España",
+          "resumen": "El ministro de Agricultura anunció ayer 50,1 M€ adicionales para compensar el encarecimiento de los fertilizantes. Se repartirán entre las comunidades autónomas en la conferencia sectorial.",
+          "detalle": "Según Agrodigital (21 de octubre), con esta partida las ayudas a fertilizantes suman 665 M€, de los que ya se han ejecutado 505 M€ para unos 255.000 agricultores y ganaderos. El paquete total frente a la crisis es de 1.174 M€, con 159 M€ para gasóleo agrícola y 300 M€ en créditos ICO-MAPA-SAECA. Son ayudas de Estado que necesitan la autorización de Bruselas. Aún no se conocen el importe por hectárea, los cultivos que cubre ni los plazos.\n\nQué puede significar: puede haber algo de ayuda para el abonado de praderas y maíz; habrá que ver cómo la reparten el Gobierno Vasco y Navarra.",
+          "soloLargo": false,
+          "fecha": "2026-10-21",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/21/ayuda-suplementaria-fertilizantes/"
+        },
+        {
+          "titular": "Carburantes: la rebaja fiscal de 20 céntimos seguirá en noviembre",
+          "ambito": "España",
+          "resumen": "El diésel de automoción está a 1,886 €/l, sin cambios en una semana. La rebaja de 20 céntimos en el impuesto de hidrocarburos se prolonga en noviembre porque los carburantes subieron más del 15 % en el IPC de septiembre.",
+          "detalle": "Según EFE (Infobae, 21 de octubre, datos del Miteco), la gasolina baja a 1,763 €/l (−8,6 % desde el 30 de septiembre) tras ampliarse la rebaja de 5 a 20 céntimos el 1 de octubre; el diésel ya tenía esa rebaja y apenas se mueve (1,886 €/l). El diésel español es el cuarto más barato de la UE. El artículo no menciona el gasóleo agrícola (gasóleo B); su último dato es de 1,541 €/l (semana del 12 de octubre).\n\nQué puede significar: el coste de la furgoneta y del transporte se mantiene; para el gasóleo agrícola, habrá que esperar al informe semanal del MAPA.",
+          "soloLargo": true,
+          "fecha": "2026-10-21",
+          "fuente": "Infobae (EFE)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/21/el-precio-de-la-gasolina-cae-un-86-tras-la-entrada-en-vigor-de-la-rebaja-de-20-centimos/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "En Navarra, la ayuda por sequía (8–50 €/cabeza) aún tiene que pasar por el Parlamento: buen tema para abrir la visita y recordar que el censo y el REGA estén al día.",
+    "Con el maíz de París cerca de 295 €/t y la cebada en León a 224 €/t, propón revisar la parte de cereal de la ración y calcular cuánto ahorra cambiar parte del maíz por cebada sin perder producción.",
+    "La proteína láctea sube en Europa (desnatada en polvo +10 €): repasa con el ganadero cómo le paga la industria la proteína y si la ración permite subirla (energía fermentable, aminoácidos).",
+    "Antes del cambio de normas de lengua azul del 1 de noviembre, pregunta si sigue desinsectando y si ha visto casos de fiebre o cojeras en el último mes."
+  ],
+  "agenda": [
+    { "fecha": "22–23 oct", "evento": "Reunión informal de ministros de Comercio de la UE", "lugar": "UE", "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/" },
+    { "fecha": "2026-10-25", "evento": "XVI Feria de Urkabustaiz y XII Lautada Eguna", "lugar": "Izarra y Zalduondo (Álava)", "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf" },
+    { "fecha": "2026-10-25", "evento": "Feria de Belauntza", "lugar": "Belauntza (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-25", "evento": "Ardiki Eguna (día de la oveja)", "lugar": "Zaldibia (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura y Pesca de la UE: posición parcial sobre la PAC post-2027", "lugar": "Luxemburgo", "url": "https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN)", "lugar": "Madrid", "url": "https://www.que.es/2026/10/21/tractorada-madrid-bienestar-animal/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Cantabria vuelve a permitir bovino en ferias (sigue la cuarentena de 28 días para animales de fuera)", "lugar": "Cantabria", "url": "https://www.diarioveterinario.com/t/6056865/cantabria-flexibiliza-restricciones-dermatosis-nodular-permitira-ferias-ganado-bovino-noviembre" },
+    { "fecha": "2026-11-01", "evento": "Feria Agrícola, Ganadera y Artesana de La Arboleda", "lugar": "Trapagaran (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (hasta el 75 %)", "lugar": "España", "url": "https://agrodigital.com/2026/10/19/anticipo-pac/" }
+  ]
+}
