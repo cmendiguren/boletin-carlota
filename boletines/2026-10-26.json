@@ -1,0 +1,178 @@
+{
+  "fecha": "2026-10-26",
+  "titulo": "Boletín Carlota – lunes 26 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-26T07:30:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "La lengua azul sigue circulando en País Vasco y Navarra y el virus Shamonda está en Cantabria; no se han comunicado focos nuevos desde el jueves ni hay focos declarados en la zona."
+  },
+  "destacados": [
+    "Hoy y mañana, Consejo de Agricultura de la UE en Luxemburgo: se busca una posición común parcial sobre la PAC post-2027; la consejera vasca Amaia Barredo representa a las comunidades autónomas.",
+    "El Brent cerró el viernes a 116,72 $ (+3,14 %), quinta subida seguida y máximo desde abril; ASAJA pide a Planas un mecanismo permanente de la PAC contra el encarecimiento del gasóleo.",
+    "El miércoles 28, tractorada en Madrid, ahora también con el apoyo de Cooperativas Agro-alimentarias; ASAJA acampará en Madrid del 29 de octubre al 12 de noviembre."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Los cereales bajaron con fuerza en la semana (maíz de París, 283,75 €/t; −8,75) y la harina de soja cede algo (458 €/t), pero el petróleo sigue subiendo (116,72 $) y el precio en origen de la leche no se mueve."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "último evento (414): +2,5 %, precio medio 4.021 USD/t", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo, consumo humano (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 369 €/100 kg (+10 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 372 €/100 kg (+2 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Maíz, Euronext-París (noviembre)", "valor": "283,75 €/t", "variacion": "−8,75 €/t en la semana (−3,0 %)", "fecha": "semana del 19 al 25 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-25-octubre-2026" },
+    { "producto": "Trigo, Euronext-París (diciembre)", "valor": "234,00 €/t", "variacion": "−9,75 €/t en la semana (−4,0 %)", "fecha": "semana del 19 al 25 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-25-octubre-2026" },
+    { "producto": "Soja, Chicago (noviembre, convertida a €/t)", "valor": "411,78 €/t", "variacion": "−4,22 €/t en la semana (−1,0 %)", "fecha": "semana del 19 al 25 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-25-octubre-2026" },
+    { "producto": "Maíz, Lonja de León (destino secadero)", "valor": "sin actualización hoy", "variacion": "último dato: 250 €/t, sin cambios", "fecha": "21 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-21-octubre-2026-patata-cereales-alubias" },
+    { "producto": "Cebada, Lonja de León (peso específico > 60)", "valor": "sin actualización hoy", "variacion": "último dato: 224 €/t (+1); trigo pienso, 230 €/t", "fecha": "21 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/lonja-leon-precios-21-octubre-2026-patata-cereales-alubias" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "458 €/t", "variacion": "−4 €/t (−0,9 %) frente al 13 de octubre", "fecha": "20 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %)", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "116,72 USD/barril", "variacion": "+3,14 % (desde 113,17 $); WTI, 103,27 $ (+3,82 %)", "fecha": "23 oct 2026", "fuente": "Infobae", "url": "https://www.infobae.com/america/mundo/2026/10/23/el-petroleo-cerro-su-quinta-jornada-consecutiva-de-alzas-y-toco-maximos-de-varios-meses/" },
+    { "producto": "Euro/dólar", "valor": "sin actualización hoy", "variacion": "último dato: 1,1234 USD por euro", "fecha": "21 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-21-octobre-2026-labondance-de-loffre-mondiale-pese-sur-les-cereales" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "3,267 %", "variacion": "+0,005; media provisional de octubre, 3,227 %", "fecha": "23 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/23/precio-petroleo-hoy-23-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Shamonda y lengua azul: sin nuevas provincias ni focos comunicados desde el jueves",
+          "ambito": "España",
+          "resumen": "Actualización: el Shamonda sigue confirmado en seis provincias (Córdoba, Toledo, Ávila, Madrid, Girona y Cantabria), sin novedades en País Vasco ni Navarra. La OMS ve poco probable que el caso humano de Francia se extienda.",
+          "detalle": "Según KCH FM (23 de octubre), con datos del MAPA, el Shamonda tipo 1 está en Ávila, Madrid y Girona (además de las primeras siete granjas de Córdoba y Toledo) y el tipo 2 en Cantabria; la nota no cita detecciones en País Vasco ni en Navarra. No hay vacuna: la prevención se basa en repelentes y desinsectantes frente a los Culicoides.\n\nSegún La Gaceta de Salamanca (24 de octubre), el portavoz de la OMS, Christian Lindmeier, considera poco probable que el primer caso humano (un hombre muy inmunodeprimido que murió en Lyon) dé lugar a una propagación más amplia. El catedrático de Microbiología Raúl Rivas recomienda a los ganaderos repelentes, mallas en los establos, eliminar zonas de cría de insectos y transportar el ganado fuera de las horas de más actividad de los mosquitos.\n\nLengua azul: el último informe del MAPA (22 de octubre) solo añadió un foco de serotipo 4 en Córdoba; País Vasco y Navarra siguen en la lista de zonas con circulación del virus.\n\nQué puede significar: la situación está estable, pero mientras haya Culicoides activos conviene mantener la desinsectación y avisar al veterinario ante fiebre con caída de leche sin causa clara.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-24",
+          "fuente": "KCH FM y La Gaceta de Salamanca",
+          "url": "https://www.lagacetadesalamanca.es/campo/shamonda-humanos-principio-preocupar-20261024130511-nt.html"
+        },
+        {
+          "titular": "Gripe aviar H5N1 en vacas de leche de EE. UU.: Washington ya suma 9 rebaños",
+          "ambito": "mundo",
+          "resumen": "Actualización: los rebaños de vacuno de leche infectados en Washington han pasado de 3 a 9 desde la primera detección del 8 de octubre; Texas suma 4 en los últimos 30 días y Kansas, 1.",
+          "detalle": "Según Avian Flu Diary (24 de octubre), que recoge datos del USDA/APHIS, Washington llegó a 9 rebaños infectados el 23 de octubre. El CDC confirmó el caso humano leve en un trabajador de una granja lechera del estado (irritación ocular y síntomas respiratorios), el primero de 2026 en EE. UU., sin transmisión entre personas. El virus es del genotipo B3.13, el de las vacas lecheras, emparentado con muestras recientes de Idaho y Utah. Los focos en aves también aumentan en octubre.\n\nQué puede significar: en Europa no se ha detectado en vacuno, pero con la gripe aviar en aves en otoño, la bioseguridad en la sala de ordeño y alejar a las aves silvestres de comederos y silos siguen siendo buenas prácticas.",
+          "soloLargo": true,
+          "fecha": "2026-10-24",
+          "fuente": "Avian Flu Diary (datos USDA/APHIS y CDC)",
+          "url": "https://afludiary.blogspot.com/2026/10/texas-washington-report-more-h5n1-in.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Ornua: la producción mundial de leche crecerá un 2,2 % en 2026, pero solo un 1 % en 2027",
+          "ambito": "mundo",
+          "resumen": "Según el informe de octubre de la cooperativa irlandesa Ornua, el crecimiento de la oferta mundial de leche se frenará el año que viene. Señala la sequía en Europa como un riesgo para pastos, forrajes y coste de alimentación.",
+          "detalle": "Según El Litoral (24 de octubre), Ornua prevé que la producción mundial crezca en torno al 2,2 % en 2026 y alrededor del 1 % en 2027. El artículo no da cifras para Europa ni previsiones de precios; cita el petróleo, la inflación, los tipos de interés y la energía como factores del mercado, y la sequía europea como riesgo porque limita pastos y forrajes y obliga a suplementar más.\n\nNo hay datos nuevos de precio de la leche en origen en España hoy.\n\nQué puede significar: menos leche en el mundo en 2027 sería, en principio, un apoyo a las cotizaciones lácteas, que ya repuntan en leche en polvo; pero tarda meses en llegar al precio en origen.",
+          "soloLargo": false,
+          "fecha": "2026-10-24",
+          "fuente": "El Litoral (informe de Ornua)",
+          "url": "https://ellitoral.com/campolitoral/ornua-sequia-europa-produccionmundial-leche-elnino-mercadolacteo-recoleccion-ofertaglobal_0_qTl3FIbDFm.html"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "PAC post-2027: los ministros buscan hoy en Luxemburgo una posición parcial; Euskadi habla por las comunidades",
+          "ambito": "UE",
+          "resumen": "El Consejo de Agricultura de la UE (26–27 de octubre) intenta cerrar una posición negociadora parcial sobre el reglamento de la PAC, sin el presupuesto. La consejera vasca Amaia Barredo asiste en representación de las comunidades autónomas.",
+          "detalle": "Según Europa Press (recogido por Última Hora, 24 de octubre), Euskadi tiene este semestre el turno de representación autonómica en agricultura y desarrollo rural. Barredo defenderá una PAC «fuerte, estable, suficientemente financiada, genuinamente europea» que respete la diversidad territorial. La posición que se busca excluye las cuestiones financieras, que van en la negociación del marco financiero 2028–2034; el Consejo Europeo intentará un acuerdo sobre ese presupuesto el 17–18 de diciembre (Plataforma Tierra). También se debatirá comercio agrícola. Agrodigital publica hoy un artículo sobre un acuerdo parcial que no se ha podido leer.\n\nQué puede significar: la posición del Consejo marcará cómo quedan la ayuda asociada (clave para el vacuno de leche) y la flexibilidad regional; el detalle se conocerá al terminar el Consejo.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-24",
+          "fuente": "Última Hora (Europa Press) y Plataforma Tierra",
+          "url": "https://www.ultimahora.es/noticias/comunidades/2026/10/24/2735611/euskadi-participa-agrifish-luxemburgo-para-lograr-acuerdo-parcial-respecto-pac-para-2027.html"
+        },
+        {
+          "titular": "Los cereales cierran una semana de fuertes bajadas: el maíz de París pierde 8,75 €",
+          "ambito": "UE",
+          "resumen": "Seis de los siete contratos de cereales y oleaginosas bajaron entre el 19 y el 25 de octubre. El maíz de París (noviembre) queda en 283,75 €/t y el trigo (diciembre) en 234,00 €/t; solo sube la colza.",
+          "detalle": "Según Agronews Castilla y León (25 de octubre), el trigo bajó por la abundante oferta mundial, las ventas de los fondos y una posible relajación de las tensiones en el mar Negro; Argentina elevó su previsión a 23,8 Mt. El maíz de Chicago cayó por el avance de la cosecha estadounidense. La soja de Chicago perdió un 1 % (411,78 €/t) pese a ventas de exportación de 2,8 Mt con fuerte interés chino. Todos los productos siguen más caros que hace un año: el maíz de París, un 57,6 % más.\n\nQué puede significar: la tendencia de corto plazo es bajista para el maíz y el trigo de pienso, pero el maíz europeo sigue muy por encima de 2025.",
+          "soloLargo": false,
+          "fecha": "2026-10-25",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-25-octubre-2026"
+        },
+        {
+          "titular": "Tractorada del 28: Cooperativas Agro-alimentarias se suma; ASAJA acampará en Madrid dos semanas",
+          "ambito": "España",
+          "resumen": "Cooperativas Agro-alimentarias apoya la movilización del miércoles 28 en Madrid de ASAJA, COAG y Unión de Uniones (con UAGN). Después, ASAJA mantendrá una acampada del 29 de octubre al 12 de noviembre.",
+          "detalle": "Según Agrodigital (26 de octubre), Cooperativas Agro-alimentarias pide medidas urgentes frente al coste de la energía (sobre todo el gasóleo B), frenar importaciones que no cumplen los estándares de la UE, menos burocracia, un Plan Nacional del Agua y no recortar el presupuesto de la PAC. La acampada de ASAJA se hará por turnos de provincias y reclama un plan de choque contra los costes, gasóleo profesional agrícola, precios justos con una Ley de la Cadena eficaz y rechazo a la competencia desleal de terceros países. Según Moncloa.com (24 de octubre), el Gobierno ve un perfil «claramente político» en la protesta por su cercanía a las elecciones del 29 de noviembre. No se han publicado hora ni recorrido.\n\nQué puede significar: el debate sobre costes y precios va a estar muy presente en las próximas semanas; los ganaderos de la zona pueden estar fuera ese día.",
+          "soloLargo": true,
+          "fecha": "2026-10-26",
+          "fuente": "Agrodigital y Moncloa.com",
+          "url": "https://www.agrodigital.com/2026/10/26/cooperativas-agro-alimentarias-apoya-movilizacion/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent sube por quinto día seguido y cierra a 116,72 $, máximo desde abril",
+          "ambito": "mundo",
+          "resumen": "El Brent ganó el viernes un 3,14 % (116,72 $) y el WTI un 3,82 % (103,27 $), por el temor a un ataque de EE. UU. contra Irán y los ataques hutíes a instalaciones saudíes.",
+          "detalle": "Según Infobae (23 de octubre), el Brent llegó a tocar 117,45 $ durante la sesión. Los analistas atribuyen la subida sobre todo a la prima de riesgo geopolítico, no a una pérdida real de suministro: según Kpler, las exportaciones de petróleo del Golfo volvieron a superar los niveles previos a la crisis en la semana hasta el 18 de octubre. Siguen los ataques iraníes a barcos cerca de Ormuz y Aramco evacuó su sede de Dhahran. La diferencia entre Brent y WTI está cerca de máximos de 11 años.\n\nQué puede significar: el gasóleo agrícola, que bajó en el último dato semanal (1,541 €/l), puede volver a subir; los abonos nitrogenados también dependen de la energía.",
+          "soloLargo": false,
+          "fecha": "2026-10-23",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/10/23/el-petroleo-cerro-su-quinta-jornada-consecutiva-de-alzas-y-toco-maximos-de-varios-meses/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "ASAJA pide usar la PAC contra el gasóleo caro y un mecanismo permanente",
+          "ambito": "UE",
+          "resumen": "ASAJA pide a Planas que apoye hoy en el Consejo de la UE la iniciativa italiana para movilizar fondos de la PAC frente a los costes, sobre todo del gasóleo, y que se prorrogue más allá del 31 de diciembre el marco temporal de ayudas de Estado.",
+          "detalle": "Según Agrodigital (26 de octubre), ASAJA propone extender al gasóleo el sistema que la UE aplica a los fertilizantes: dinero del FEADER gestionado por las comunidades autónomas mediante intervenciones de desarrollo rural. Quiere que sea un mecanismo permanente, que pueda activarse rápido en situaciones excepcionales sin cambiar cada vez el reglamento. También pide prorrogar el Marco Temporal de Ayudas de Estado ligado a la crisis de Oriente Medio, que vence el 31 de diciembre de 2026. El artículo no da cifras de precio ni importes.\n\nQué puede significar: si prospera, las ayudas por el gasóleo llegarían a través de los gobiernos vasco y navarro, como ahora las de fertilizantes y energía de la reserva agrícola.",
+          "soloLargo": false,
+          "fecha": "2026-10-26",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/26/gasoleo-agricola-pac-asaja/"
+        },
+        {
+          "titular": "Turrado (ASAJA CyL): la crisis de rentabilidad obliga a «echar cuentas» antes de sembrar",
+          "ambito": "España",
+          "resumen": "En un artículo de opinión, el secretario general de ASAJA Castilla y León prevé que se abone menos, se elijan cultivos menos exigentes en insumos y se dejen en barbecho las tierras menos productivas.",
+          "detalle": "Según Agrodigital (26 de octubre), José Antonio Turrado sostiene que se ha acabado la idea de que «algo quedará». Considera insuficientes las ayudas públicas y advierte de que la PAC por sí sola no permite vivir a un profesional; propone reducir costes, mejorar precios y actuar con unidad. El texto se centra en el cereal y no da cifras.\n\nQué puede significar: si se abona y siembra menos cereal, la oferta de grano y forraje para la próxima campaña podría ser más ajustada; para el ganadero con maíz forrajero propio, ajustar el abonado con análisis de suelo es una forma de ahorrar.",
+          "soloLargo": true,
+          "fecha": "2026-10-26",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/26/crisis-rentabilidad-agraria/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Con el maíz y el trigo de pienso bajando con fuerza esta semana, es buen momento para revisar con el ganadero el coste de la ración y valorar cerrar precio de pienso para los próximos meses.",
+    "El petróleo sigue subiendo (116 $): recuerda llenar el depósito de gasóleo antes de que suba y guardar las facturas de 2026 (deducción del 35 % en módulos).",
+    "Shamonda y lengua azul siguen sin focos en la zona: pregunta por fiebre o bajadas bruscas de leche y abortos recientes, y aprovecha para hablar de inmunidad, periparto y desinsectación.",
+    "El miércoles muchos ganaderos pueden estar en la tractorada de Madrid: conviene confirmar las visitas del 28 por teléfono."
+  ],
+  "agenda": [
+    { "fecha": "2026-10-26", "evento": "Urriko Azken Astelehena (feria del último lunes de octubre)", "lugar": "Gernika-Lumo (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "26–27 oct", "evento": "Consejo de Agricultura y Pesca de la UE: posición parcial sobre la PAC post-2027 (Euskadi representa a las comunidades)", "lugar": "Luxemburgo", "url": "https://www.consilium.europa.eu/en/meetings/agrifish/2026/10/26-27/" },
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN y apoyo de Cooperativas Agro-alimentarias)", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/26/cooperativas-agro-alimentarias-apoya-movilizacion/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "29 oct – 12 nov", "evento": "Acampada de ASAJA por turnos de provincias", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Asturias y Cantabria vuelven a permitir ferias de bovino (con restricciones de origen y cuarentenas)", "lugar": "Asturias y Cantabria", "url": "https://www.agrodigital.com/2026/10/22/ferias-ganado-bovino-asturias/" },
+    { "fecha": "2026-11-01", "evento": "Feria Agrícola, Ganadera y Artesana de La Arboleda", "lugar": "Trapagaran (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-11-03", "evento": "Fin del plazo de alegaciones a la orden de módulos (deducciones de gasóleo y fertilizantes)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/23/modulos-agrarios-gasoleo-fertilizantes/" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/" }
+  ]
+}
