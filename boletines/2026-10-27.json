@@ -1,0 +1,166 @@
+{
+  "fecha": "2026-10-27",
+  "titulo": "Boletín Carlota – martes 27 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-27T07:15:00+01:00",
+  "semaforo": {
+    "nivel": "rojo",
+    "motivo": "Primer caso de virus Shamonda (tipo 2) confirmado en una granja de vacuno de leche de Donostialdea (Gipuzkoa); no hay sacrificios ni restricciones de movimiento, pero el virus ya está en la zona y la lengua azul sigue circulando."
+  },
+  "destacados": [
+    "El virus Shamonda llega a Gipuzkoa: confirmado en una granja de vacuno de leche de Donostialdea, sin sacrificios ni restricciones de movimiento; se pide vigilancia diaria y control de Culicoides.",
+    "Acuerdo parcial de los 27 sobre la PAC post-2027 tras más de 12 horas en Luxemburgo: un solo fondo con planes nacionales y regionales, más flexibilidad y apoyo a jóvenes; sin cifras todavía.",
+    "Mañana, tractorada en Madrid (11:00, plaza de Colón, unos 500 tractores, con UAGN); en Galicia las industrias ofrecen mantener el precio de la leche 12 meses y los ganaderos esperan subidas en noviembre."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El maíz sigue cediendo en las lonjas (Salamanca, 246 €/t; −2) y el Brent se relaja un poco (115,81 $), pero el gasóleo sigue caro y la leche en origen no se mueve: el margen no cambia."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "último evento (414): +2,5 %, precio medio 4.021 USD/t", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo, consumo humano (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 369 €/100 kg (+10 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 372 €/100 kg (+2 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Maíz, Lonja de Salamanca", "valor": "246 €/t", "variacion": "−2 €/t; trigo blando 238 €/t y cebada (P.E. +64) 232 €/t, sin cambios", "fecha": "26 oct 2026", "fuente": "Agronews Castilla y León (Lonja de Salamanca)", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-26-octubre-2026-maiz-anojos-porcino" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 254 €/t (−2); cebada 248 €/t (+4); trigo pienso 261 €/t (=)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/noticias/semana-43-lonja-binefar-21-octubre-2026-la-volatilidad-y-la-falta-de-rumbo-claro-marcan-el-paso-de-octubre/" },
+    { "producto": "Maíz, Euronext-París (noviembre)", "valor": "sin actualización hoy", "variacion": "último cierre semanal: 283,75 €/t (−8,75)", "fecha": "semana del 19 al 25 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-25-octubre-2026" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 458 €/t (−4 €)", "fecha": "20 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,541 €/l (−1,13 %)", "fecha": "semana del 12 oct 2026", "fuente": "Infobae (EFE, informe semanal del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "115,81 USD/barril", "variacion": "−0,78 % (desde 116,72 $); WTI, cerca de 102 $", "fecha": "26 oct 2026", "fuente": "El Periódico de la Energía", "url": "https://elperiodicodelaenergia.com/el-brent-baja-un-0-78-hasta-los-115-81-dolares-entre-las-tensiones-en-oriente-medio" },
+    { "producto": "Euro/dólar", "valor": "sin actualización hoy", "variacion": "último dato: 1,1234 USD por euro", "fecha": "21 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-21-octobre-2026-labondance-de-loffre-mondiale-pese-sur-les-cereales" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato: 3,267 %", "fecha": "23 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/26/precio-petroleo-hoy-26-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Primer caso de virus Shamonda en Gipuzkoa, en una granja de vacuno de leche de Donostialdea",
+          "ambito": "local",
+          "resumen": "La Diputación Foral de Gipuzkoa detectó el virus (tipo 2) en una explotación de vacuno lechero y el Laboratorio Central de Veterinaria de Algete lo confirmó. No hay sacrificios ni restricciones generales de movimiento; los animales están estabilizados.",
+          "detalle": "Según elDiario.es y Libertad Digital (26 de octubre), el caso salió de la vigilancia epidemiológica de la Diputación y lo comunicó el Departamento de Agricultura del Gobierno Vasco; no se ha dado el municipio ni el número de animales afectados. Diario Veterinario precisa que es Shamonda tipo 2 (como el de Cantabria) y que es el único caso en el territorio. La consejera Amaia Barredo aclaró que no conlleva sacrificio de animales ni restricciones generales de movimiento; la granja sigue bajo seguimiento veterinario.\n\nEn adultos el cuadro suele ser leve y pasajero: fiebre, diarrea y bajada temporal de la producción de leche. Hay que vigilar a las hembras gestantes por posibles abortos o malformaciones fetales. Recomendaciones oficiales: revisar los animales a diario, comunicar cualquier sospecha al veterinario, limpiar y desinfectar instalaciones y vehículos, controlar insectos (Culicoides) sobre todo en sus horas de actividad, reducir charcos y materia orgánica y aislar a los animales con síntomas. El Gobierno Vasco considera el riesgo para la población «muy bajo» y no hay evidencia de transmisión por carne, leche o derivados. No hay vacuna.\n\nQué puede significar: el virus ya está en la zona de Carlota; en las próximas semanas pueden aparecer más casos mientras haya Culicoides activos, y los abortos o malformaciones en partos de los próximos meses deberían investigarse.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-26",
+          "fuente": "elDiario.es (Euskadi), Libertad Digital y Diario Veterinario",
+          "url": "https://www.eldiario.es/euskadi/detectado-caso-virus-shamonda-explotacion-ganadera-vacuno-ubicada-gipuzkoa_1_13614712.html"
+        },
+        {
+          "titular": "Lengua azul: sin informe nuevo del MAPA desde el 22 de octubre",
+          "ambito": "España",
+          "resumen": "No se ha publicado ninguna actualización de focos desde el último informe; País Vasco y Navarra siguen en la lista de zonas con circulación del virus. El 1 de noviembre entra en vigor la nueva orden con vacunación voluntaria.",
+          "detalle": "No se han encontrado hoy comunicaciones nuevas de focos de lengua azul en la zona. El último dato recogido en el boletín (informe del MAPA del 22 de octubre) añadía solo un foco de serotipo 4 en Córdoba. La Orden APA/1082/2026, que hace voluntaria la vacunación en la península, se aplica desde el 1 de noviembre.\n\nQué puede significar: con lengua azul y Shamonda transmitidos por los mismos Culicoides, la desinsectación sirve para las dos enfermedades.",
+          "soloLargo": true,
+          "afectaMiZona": true,
+          "fecha": "2026-10-27",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Galicia: las industrias ofrecen congelar el precio de la leche 12 meses; los ganaderos esperan subidas en noviembre",
+          "ambito": "España",
+          "resumen": "Según Unións Agrarias, las primeras ofertas de renovación de contratos mantienen el precio actual durante un año. Los ganaderos esperan propuestas nuevas a principios de noviembre, con subidas y contratos más cortos, de tres meses.",
+          "detalle": "Según Diario de Santiago (EFE, 26 de octubre), Óscar Pose, responsable del sector lácteo de Unións Agrarias, considera la subida «inevitable» para compensar el encarecimiento de los costes, que atribuye sobre todo al conflicto de Oriente Medio, aunque no hay cifra. El artículo no nombra las industrias ni da precios actuales.\n\nNo hay datos nuevos de precio en origen en España hoy.\n\nQué puede significar: Galicia suele marcar la referencia para el resto de la cornisa; si allí se consiguen subidas o contratos trimestrales en noviembre, los ganaderos de País Vasco y Navarra pedirán lo mismo en sus renovaciones.",
+          "soloLargo": false,
+          "fecha": "2026-10-26",
+          "fuente": "Diario de Santiago (EFE)",
+          "url": "https://www.diariodesantiago.es/galicia/las-granjas-esperan-ofertas-reales-con-subidas-del-precio-de-la-leche-para-renovar-sus-contratos/"
+        },
+        {
+          "titular": "Lonja de Salamanca: el maíz baja 2 € y las vacas de desvieje ceden ligeramente",
+          "ambito": "España",
+          "resumen": "El maíz queda en 246 €/t (−2); trigo y cebada, sin cambios. En vacuno, los añojos suben 0,01 €/kg y las vacas de primera y segunda bajan 0,02 €/kg canal.",
+          "detalle": "Según Agronews Castilla y León (26 de octubre), con datos de la Lonja de Salamanca: vacas Extra, 6,06 €/kg canal (=); Primera, 5,51 (−0,02); Segunda, 4,86 (−0,02). Añojos E Especial hasta 350 kg, 6,41 €/kg (+0,01). Trigo blando, 238 €/t, y cebada P.E. +64, 232 €/t, repiten.\n\nQué puede significar: el precio de la vaca de desvieje se mantiene alto, lo que ayuda a la hora de renovar el rebaño o eliminar vacas improductivas.",
+          "soloLargo": true,
+          "fecha": "2026-10-26",
+          "fuente": "Agronews Castilla y León (Lonja de Salamanca)",
+          "url": "https://www.agronewscastillayleon.com/lonja-salamanca-26-octubre-2026-maiz-anojos-porcino"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Actualización: los 27 cierran un acuerdo parcial sobre la PAC post-2027",
+          "ambito": "UE",
+          "resumen": "Tras más de 12 horas de negociación en Luxemburgo, el Consejo acordó su posición sobre la estructura de la futura PAC: un solo fondo con planes nacionales y regionales, más flexibilidad y apoyo a jóvenes. No incluye el presupuesto.",
+          "detalle": "Según Infobae (Europa Press, 27 de octubre), el acuerdo fusiona los dos pilares actuales (FEAGA y FEADER) en un Plan de Asociación Nacional y Regional (NRPP). Prevé un nuevo sistema de ayudas por superficie (DABIS) orientado a agricultores activos, con atención a jóvenes y pequeños; la definición de agricultor activo será obligatoria, pero adaptable por cada país. Incluye un «paquete de inicio» para jóvenes, requisitos ambientales comunes y más herramientas de gestión de crisis por clima extremo o enfermedades. Las cifras dependen del marco financiero 2028–2034, que negociarán los jefes de Gobierno antes de fin de año; la presidencia irlandesa negociará luego con el Parlamento Europeo. El artículo no detalla la ayuda asociada a la ganadería.\n\nEl ministro Planas dijo que el texto recoge «las principales líneas defendidas por España». Las organizaciones convocantes de la tractorada piden, en cambio, mantener los dos pilares separados.\n\nQué puede significar: todavía no se sabe cuánto dinero llegará ni cómo quedará la ayuda al vacuno de leche; la flexibilidad regional dará más peso a los gobiernos vasco y navarro en el diseño de las ayudas.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (Europa Press)",
+          "url": "https://www.infobae.com/america/agencias/2026/10/27/el-consejo-de-la-ue-logra-un-acuerdo-parcial-sobre-la-estructura-de-la-futura-politica-agraria-comun-pac/"
+        },
+        {
+          "titular": "Tractorada de mañana en Madrid: salida a las 11:00 desde Colón hacia el Ministerio",
+          "ambito": "España",
+          "resumen": "Actualización: ASAJA, COAG y Unión de Uniones (con UAGN de Navarra) prevén unos 500 tractores. Recorrido por Recoletos y el Prado hasta el Ministerio de Agricultura; UPA no se suma.",
+          "detalle": "Según Tráfico Hoy, el lema es «Producimos tu comida, merecemos vivir de nuestro trabajo». Piden un plan de choque contra los costes con un gasóleo profesional de fiscalidad reducida y permanente, una PAC sin recortes y con los dos pilares separados, precios justos con la Ley de la Cadena, rechazo al acuerdo UE-Mercosur «en su formato actual» y al de Marruecos, y menos burocracia. La Delegación del Gobierno aún no había confirmado el itinerario ni los cortes.\n\nQué puede significar: algunos ganaderos de la zona pueden estar fuera el miércoles; conviene confirmar las visitas.",
+          "soloLargo": true,
+          "afectaMiZona": true,
+          "fecha": "2026-10-27",
+          "fuente": "Tráfico Hoy",
+          "url": "https://traficohoy.com/el-campo-convoca-una-gran-tractorada-en-madrid-el-28-de-octubre-por-la-crisis-de-precios-las-soluciones-no-llegan/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent corta cinco días de subidas y cierra a 115,81 $",
+          "ambito": "mundo",
+          "resumen": "Actualización: el Brent bajó un 0,78 % el lunes, tras tocar más de 117 $ durante la sesión. Pesaron las expectativas de diálogo diplomático, aunque siguen los ataques en Ormuz y la tensión entre Irán, EE. UU. e Israel.",
+          "detalle": "Según El Periódico de la Energía (26 de octubre), el WTI cotizaba cerca de 102 $ (−1 %). Irán afirmó haber derribado un dron estadounidense, Netanyahu advirtió de represalias y los hutíes lanzaron un misil contra Riad. Euribor.com.es atribuye la bajada sobre todo a la toma de beneficios de los fondos y a las dudas de que el conflicto corte el suministro físico.\n\nQué puede significar: el petróleo sigue muy por encima de los niveles de antes de la crisis; no cabe esperar un abaratamiento rápido del gasóleo agrícola.",
+          "soloLargo": false,
+          "fecha": "2026-10-26",
+          "fuente": "El Periódico de la Energía",
+          "url": "https://elperiodicodelaenergia.com/el-brent-baja-un-0-78-hasta-los-115-81-dolares-entre-las-tensiones-en-oriente-medio"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "No hay datos nuevos de gasóleo, fertilizantes ni ayudas para la zona hoy. Agrodigital publica el precio del gasóleo B por provincias (seis superan 1,80 €/l), pero no se ha podido abrir el artículo.",
+          "detalle": "El último dato semanal del MAPA sigue siendo 1,541 €/l para el gasóleo B (semana del 12 de octubre). Las cifras por provincia de Agrodigital (27 de octubre) no se han podido comprobar, así que no se incluyen.",
+          "soloLargo": true,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (EFE, informe semanal del MAPA)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/14/el-gasoleo-b-baja-a-1541-euroslitro-pero-sigue-un-59-mas-caro-que-antes-de-la-guerra/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Shamonda ya está en Gipuzkoa: pregunta en cada visita por fiebre, diarrea o bajadas bruscas de leche y por abortos recientes; es buen momento para hablar de desinsectación, inmunidad y apoyo nutricional a las vacas gestantes y en periparto.",
+    "Con las renovaciones de contratos lácteos en marcha (en Galicia esperan subidas en noviembre), ayuda al ganadero a tener calculado su coste por litro: es su mejor argumento ante la industria.",
+    "El maíz sigue bajando en las lonjas (Salamanca, 246 €/t): buen momento para revisar el coste de la ración y valorar cerrar precio de pienso.",
+    "Mañana es la tractorada de Madrid (con UAGN): confirma por teléfono las visitas del miércoles, sobre todo en Navarra."
+  ],
+  "agenda": [
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN): salida a las 11:00 de la plaza de Colón hacia el Ministerio", "lugar": "Madrid", "url": "https://traficohoy.com/el-campo-convoca-una-gran-tractorada-en-madrid-el-28-de-octubre-por-la-crisis-de-precios-las-soluciones-no-llegan/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "29 oct – 12 nov", "evento": "Acampada de ASAJA por turnos de provincias", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Asturias y Cantabria vuelven a permitir ferias de bovino (con restricciones de origen y cuarentenas)", "lugar": "Asturias y Cantabria", "url": "https://www.agrodigital.com/2026/10/22/ferias-ganado-bovino-asturias/" },
+    { "fecha": "2026-11-01", "evento": "Feria Agrícola, Ganadera y Artesana de La Arboleda", "lugar": "Trapagaran (Bizkaia)", "url": "https://almabotxera.com/ferias-2026/" },
+    { "fecha": "2026-11-03", "evento": "Fin del plazo de alegaciones a la orden de módulos (deducciones de gasóleo y fertilizantes)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/23/modulos-agrarios-gasoleo-fertilizantes/" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/" }
+  ]
+}
