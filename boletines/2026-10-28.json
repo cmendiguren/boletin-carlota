@@ -1,0 +1,181 @@
+{
+  "fecha": "2026-10-28",
+  "titulo": "Boletín Carlota – miércoles 28 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-28T07:20:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin casos nuevos de Shamonda en País Vasco ni Navarra desde el de Donostialdea y sin restricciones de movimiento, pero el virus y la lengua azul siguen circulando con Culicoides activos: vigilancia diaria."
+  },
+  "destacados": [
+    "Hoy, tractorada en Madrid (11:00, Colón → Ministerio, unos 500 tractores, con UAGN); Agricultura la ve «política» y recuerda más de 1.000 M€ en ayudas.",
+    "El gasóleo B marca récord: 1,574 €/l de media (+1,6 % en una semana), un 63 % más que antes de la guerra en Irán.",
+    "FrieslandCampina sube su precio garantizado de noviembre a 47 €/100 kg (+1,50), tercera subida seguida; en España la leche sigue sin moverse y UCCL sitúa el coste por encima de 50 céntimos."
+  ],
+  "margen": {
+    "tendencia": "empeora",
+    "texto": "El gasóleo agrícola marca máximos (1,574 €/l) mientras el maíz apenas se mueve y la leche en origen en España sigue parada: el margen se estrecha un poco. La subida de FrieslandCampina es una buena señal de mercado, pero aún no llega aquí."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Precio garantizado FrieslandCampina (leche convencional, noviembre)", "valor": "47,00 €/100 kg", "variacion": "+1,50 € (octubre: 45,50 €); tercera subida mensual seguida", "fecha": "26 oct 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/26/frieslandcampina-verhoogt-garantieprijs-naar-47-euro" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "último evento (414): +2,5 %, precio medio 4.021 USD/t", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo, consumo humano (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 369 €/100 kg (+10 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "sin actualización hoy", "variacion": "último dato: 372 €/100 kg (+2 €)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/21/opmars-mageremelkpoeder-houdt-onverminderd-aan" },
+    { "producto": "Maíz, Lonja de Salamanca", "valor": "sin actualización hoy", "variacion": "último dato: 246 €/t (−2); trigo blando 238 €/t y cebada 232 €/t", "fecha": "26 oct 2026", "fuente": "Agronews Castilla y León (Lonja de Salamanca)", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-26-octubre-2026-maiz-anojos-porcino" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 254 €/t (−2); cebada 248 €/t (+4); trigo pienso 261 €/t (=)", "fecha": "semana 43 (21 oct 2026)", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/noticias/semana-43-lonja-binefar-21-octubre-2026-la-volatilidad-y-la-falta-de-rumbo-claro-marcan-el-paso-de-octubre/" },
+    { "producto": "Maíz, Euronext-París (noviembre 2026)", "valor": "282,75 €/t", "variacion": "−1,00 €/t; trigo diciembre 226,50 €/t (−7,50)", "fecha": "26 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/trigo-maiz-colza-paris-euronext-26-octubre-2026" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 458 €/t (−4 €)", "fecha": "20 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "1,574 €/l", "variacion": "+1,61 % en una semana (récord); en cooperativas, 1,546 €/l", "fecha": "26 oct 2026", "fuente": "Infobae (EFE, datos del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/27/nuevo-record-en-el-precio-del-gasoleo-b-1574-litro-un-63-mas-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "113,88 USD/barril", "variacion": "−1,67 % (desde 115,81 $)", "fecha": "27 oct 2026", "fuente": "Infobae (EFE)", "url": "https://www.infobae.com/america/agencias/2026/10/27/el-crudo-brent-baja-un-167-y-cierra-por-debajo-de-los-114-dolares/" },
+    { "producto": "Euro/dólar", "valor": "sin actualización hoy", "variacion": "último dato: 1,1234 USD por euro", "fecha": "21 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-21-octobre-2026-labondance-de-loffre-mondiale-pese-sur-les-cereales" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato: 3,267 %", "fecha": "23 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/26/precio-petroleo-hoy-26-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Actualización Shamonda: nueve provincias con el virus; Gipuzkoa sigue con un solo caso",
+          "ambito": "España",
+          "resumen": "Según la actualización del MAPA, el virus está en granjas de nueve provincias: tipo 1 en Córdoba, Sevilla, Cádiz, Toledo, Ávila, Madrid y Girona, y tipo 2 en Cantabria y Gipuzkoa. No se han publicado casos nuevos en País Vasco ni en Navarra.",
+          "detalle": "Animal's Health (26 de octubre) recoge que afecta a bovino de carne y de leche, con fiebre, diarrea y bajada de la producción de leche. Los casos salen de la vigilancia pasiva y el Laboratorio Central de Veterinaria de Algete solo confirma el primer foco de cada provincia, así que el número real de granjas afectadas puede ser mayor. En Girona son tres granjas de vacuno de leche con tipo 1. Navarra, Álava y Bizkaia no aparecen en la lista. Sigue sin haber vacuna ni restricciones de movimiento.\n\nQué puede significar: como solo se confirma el primer caso por provincia, que no haya noticias nuevas en Gipuzkoa no quiere decir que no haya más granjas afectadas; la sospecha clínica (fiebre, caída de leche, abortos o malformaciones) hay que comunicarla al veterinario.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-26",
+          "fuente": "Animal's Health",
+          "url": "https://www.animalshealth.es/rumiantes/agricultura-actualiza-situacion-virus-shamonda-espana-ya-esta-presente-granjas-9-provincias"
+        },
+        {
+          "titular": "Lengua azul: sin focos nuevos publicados desde el de Córdoba",
+          "ambito": "España",
+          "resumen": "No hay informe nuevo del MAPA desde el foco de serotipo 4 en bovino de Córdoba (23 de octubre). El 1 de noviembre entra en vigor la vacunación voluntaria en la península.",
+          "detalle": "No se han encontrado hoy comunicaciones nuevas de focos. País Vasco (las tres provincias) y Navarra siguen en la lista de zonas con circulación del virus esta campaña. La Orden APA/1082/2026 se aplica desde el domingo.\n\nQué puede significar: la desinsectación sigue siendo la medida común frente a lengua azul y Shamonda mientras haya Culicoides activos.",
+          "soloLargo": true,
+          "afectaMiZona": true,
+          "fecha": "2026-10-23",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/10/23/lengua-azul-cordoba/"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "FrieslandCampina sube su precio garantizado de noviembre a 47 €/100 kg",
+          "ambito": "UE",
+          "resumen": "La cooperativa neerlandesa paga 1,50 € más que en octubre por la leche convencional: es su tercera subida mensual seguida de esa cuantía.",
+          "detalle": "Según Nieuwe Oogst (26 de octubre), el valor de la proteína pasa de 635,30 a 656,24 €/100 kg y el de la grasa de 508,24 a 524,99 €/100 kg. La leche ecológica sube 1,25 €, hasta 66,50 €/100 kg. El artículo no explica las causas, pero coincide con la recuperación de la leche en polvo y la mantequilla en las cotizaciones europeas de las últimas semanas.\n\nQué puede significar: FrieslandCampina es una referencia del mercado europeo; si las subidas siguen, dan argumentos a los ganaderos de la zona para pedir mejoras en las renovaciones de contratos.",
+          "soloLargo": false,
+          "fecha": "2026-10-26",
+          "fuente": "Nieuwe Oogst",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/26/frieslandcampina-verhoogt-garantieprijs-naar-47-euro"
+        },
+        {
+          "titular": "UCCL: producir leche ya cuesta más de 50 céntimos y el precio ha caído un 14 % este año",
+          "ambito": "España",
+          "resumen": "La organización castellanoleonesa pide a la Junta actualizar el estudio oficial de costes, que se quedó en 45,73 € por 100 kg a principios de 2025, y recuerda que la Ley de la Cadena obliga a pagar por encima del coste.",
+          "detalle": "Según Agronews Castilla y León (27 de octubre), UCCL calcula subidas de la paja (+52 %), el gasóleo (+22 %), la electricidad (+20 %), la veza (+16 %), la alfalfa (+10 %) y los piensos (+6 %). El precio medio en Castilla y León en agosto fue de 0,476 €/l (−10,6 % en un año). Había 584 ganaderos con entregas, 33 menos que hace un año (−5,4 %), aunque la producción de los ocho primeros meses subió un 2,7 %. UCCL participa hoy en la tractorada de Madrid.\n\nQué puede significar: el mismo argumento sirve en País Vasco y Navarra; un ganadero que tenga su coste por litro calculado negocia mejor con la industria.",
+          "soloLargo": false,
+          "fecha": "2026-10-27",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/uccl-costes-produccion-leche-vaca-castilla-leon-2026"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Hoy, tractorada en Madrid: el Ministerio la ve «política» y defiende sus ayudas",
+          "ambito": "España",
+          "resumen": "Actualización: ASAJA, COAG y Unión de Uniones (con UAGN de Navarra) salen a las 11:00 de Colón hacia el Ministerio, con llegada prevista hacia las 17:00. Agricultura dice que ya ha dado más de 1.000 M€ en ayudas y que la protesta tiene perfil político antes de las elecciones del 29 de noviembre.",
+          "detalle": "Según Infobae (EFE, 27 de octubre), las cinco columnas de tractores salen de madrugada desde El Espinar, Buitrago de Lozoya, Guadalajara, Torrejón de la Calzada y Arganda del Rey. Piden ayudas al gasóleo que cubran el 70 % del sobrecoste real, IVA reducido para gasóleo, fertilizantes y plásticos, rebaja de módulos del IRPF, una tarifa eléctrica para riego y ganadería, una PAC 2028–2034 sin recortes, cumplimiento de la Ley de la Cadena y reciprocidad en los acuerdos comerciales. UPA no participa.\n\nFuentes del Ministerio recuerdan que la renta agraria de 2025 fue récord (39.798,57 M€), los 50,17 M€ de la reserva de crisis de la UE repartidos a las comunidades y el gasóleo profesional con devolución del impuesto de hidrocarburos. UNASPI y Alive convocan otras protestas el 31 de octubre.\n\nQué puede significar: algunos ganaderos navarros pueden estar hoy fuera; confirma las visitas.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (EFE)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/27/los-agricultores-vuelven-a-llevar-manana-sus-tractores-a-madrid-para-reclamar-mas-apoyo/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El trigo cae 7,50 € en París por las propuestas de Rusia y Turquía para el mar Negro",
+          "ambito": "mundo",
+          "resumen": "El trigo de diciembre cerró el lunes en 226,50 €/t (−3,2 %) ante la posibilidad de que se reanuden las exportaciones de Rusia y Ucrania por el mar Negro. El maíz apenas se movió (282,75 €/t, −1).",
+          "detalle": "Según Agronews Castilla y León (26 de octubre), aún no hay un acuerdo definitivo, pero las nuevas propuestas para garantizar la navegación comercial presionaron los precios. La colza subió 15,50 €/t, hasta 527,25 €/t. El maíz de marzo de 2027 quedó en 264,75 €/t.\n\nQué puede significar: si el mar Negro se abre, los cereales para pienso pueden seguir bajando en las próximas semanas, lo que aliviaría el coste de la ración.",
+          "soloLargo": false,
+          "fecha": "2026-10-26",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/trigo-maiz-colza-paris-euronext-26-octubre-2026"
+        },
+        {
+          "titular": "El Brent baja otro 1,7 % y cierra por debajo de 114 $",
+          "ambito": "mundo",
+          "resumen": "Actualización: el barril de diciembre cerró el martes a 113,88 $ por el optimismo ante los contactos diplomáticos sobre Irán, aunque las negociaciones siguen estancadas.",
+          "detalle": "Según Infobae (EFE, 27 de octubre), pesaron las conversaciones en Teherán con Arabia Saudí, Pakistán y Turquía y la espera de las elecciones en Israel. Los analistas recuerdan que siguen los ataques hutíes contra Arabia Saudí y contra barcos en Ormuz, y que las exportaciones de crudo del golfo Pérsico llevan cuatro semanas bajando.\n\nQué puede significar: el petróleo sigue muy alto y el gasóleo agrícola tarda semanas en reflejar las bajadas; no hay que esperar alivio inmediato.",
+          "soloLargo": true,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/10/27/el-crudo-brent-baja-un-167-y-cierra-por-debajo-de-los-114-dolares/"
+        },
+        {
+          "titular": "Mercosur: el contingente de miel sin aranceles ya se ha superado",
+          "ambito": "UE",
+          "resumen": "La Unió Llauradora denuncia que las importaciones superaron en 152 toneladas el primer cupo del acuerdo UE-Mercosur; las compras de miel a Mercosur casi se duplicaron entre mayo y julio.",
+          "detalle": "Según Noticias CV (27 de octubre), Bruselas descontará el exceso del último subperiodo de 2026. Es el primer contingente del acuerdo que se agota. El artículo no menciona lácteos ni carne de vacuno.\n\nQué puede significar: sirve de aviso para otros cupos del acuerdo, como el de carne de vacuno, que vigilan las organizaciones agrarias.",
+          "soloLargo": true,
+          "fecha": "2026-10-27",
+          "fuente": "Noticias CV",
+          "url": "https://noticiascv.com/la-unio-miel-mercosur-contingente-aranceles"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Gasóleo B, nuevo récord: 1,574 €/l de media",
+          "ambito": "España",
+          "resumen": "Según el MAPA, el gasóleo agrícola subió un 1,61 % la semana del 26 de octubre y ya cuesta un 63 % más que antes de la guerra en Irán (0,965 €/l en febrero).",
+          "detalle": "Según Infobae (EFE, 27 de octubre), en los surtidores de cooperativas la media es de 1,546 €/l y en gasolineras convencionales, 1,687 €/l. El más barato está en cooperativas de Ávila (1,456 €/l) y el más caro en Baleares (1,879 €/l). No se dan datos de Navarra ni del País Vasco.\n\nQué puede significar: el coste de ensilado, siembras de invierno y transporte de forraje sigue subiendo; comprar en cooperativa y pedir el gasóleo profesional ayuda a recortar.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (EFE, datos del MAPA)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/27/nuevo-record-en-el-precio-del-gasoleo-b-1574-litro-un-63-mas-que-antes-de-la-guerra/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Con el gasóleo en récord y la leche parada, el coste por litro es el tema: ofrece calcularlo con el ganadero y busca dónde ahorrar en la ración (eficiencia alimentaria, aprovechamiento del forraje propio).",
+    "FrieslandCampina lleva tres subidas seguidas: es un buen dato para que el ganadero lo tenga presente en la renovación de su contrato.",
+    "Shamonda y lengua azul siguen en la zona: pregunta por fiebre, caídas de leche y abortos, y habla de desinsectación y de apoyo nutricional a las vacas gestantes y en periparto.",
+    "Hoy es la tractorada (con UAGN): confirma por teléfono las visitas en Navarra; y apunta Esneki (Tolosa, 6–7 de noviembre) y el concurso de frisona del día 7 para ver clientes."
+  ],
+  "agenda": [
+    { "fecha": "2026-10-28", "evento": "Tractorada de ASAJA, COAG y Unión de Uniones (con UAGN): salida a las 11:00 de la plaza de Colón hacia el Ministerio", "lugar": "Madrid", "url": "https://www.infobae.com/espana/agencias/2026/10/27/los-agricultores-vuelven-a-llevar-manana-sus-tractores-a-madrid-para-reclamar-mas-apoyo/" },
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "29 oct – 12 nov", "evento": "Acampada de ASAJA por turnos de provincias", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/" },
+    { "fecha": "2026-10-31", "evento": "Movilizaciones de UNASPI y Alive (sector primario), coordinadas en varios países europeos", "lugar": "España y UE", "url": "https://www.agronewscastillayleon.com/unaspi-movilizaciones-europa-31-octubre-sector-primario" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Asturias y Cantabria vuelven a permitir ferias de bovino (con restricciones de origen y cuarentenas)", "lugar": "Asturias y Cantabria", "url": "https://www.agrodigital.com/2026/10/22/ferias-ganado-bovino-asturias/" },
+    { "fecha": "2026-11-01", "evento": "Feria Agrícola, Ganadera y Artesana de La Arboleda", "lugar": "Trapagaran (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-03", "evento": "Fin del plazo de alegaciones a la orden de módulos (deducciones de gasóleo y fertilizantes)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/23/modulos-agrarios-gasoleo-fertilizantes/" },
+    { "fecha": "6–7 nov", "evento": "V Esneki Azoka (feria de productos lácteos)", "lugar": "Tolosa (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-07", "evento": "Concurso de Euskal Herria de la Raza Frisona", "lugar": "Tolosa (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-08", "evento": "XXXIX Feria Agrícola y Ganadera de Zamudio; Feria de San Martín de Kanpezu", "lugar": "Zamudio (Bizkaia) y Kanpezu (Araba)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/" }
+  ]
+}
