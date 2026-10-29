@@ -1,0 +1,163 @@
+{
+  "fecha": "2026-10-29",
+  "titulo": "Boletín Carlota – jueves 29 de octubre de 2026",
+  "ejemplo": false,
+  "generado": "2026-10-29T07:05:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Shamonda sigue en nueve provincias (Gipuzkoa con un caso) sin restricciones de movimiento, y la lengua azul serotipo 3 circula con fuerza al otro lado de la frontera, en Pirineos Atlánticos: vigilancia diaria mientras haya Culicoides."
+  },
+  "destacados": [
+    "La tractorada de Madrid se aplazó por el accidente ferroviario de Urda (Toledo): concentración en Colón con cinco minutos de silencio; las reivindicaciones siguen, sin nueva fecha.",
+    "El Brent vuelve a subir (+1,26 %, 115,32 $) tras el ataque hutí a la refinería saudí de Ras Tanura: el gasóleo agrícola seguirá caro.",
+    "Los lácteos neerlandeses se estabilizan en la semana 44: mantequilla (372 €) y leche desnatada en polvo (369 €) sin cambios tras semanas de fuertes movimientos."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Sin datos nuevos de leche en origen ni de gasóleo esta semana; el petróleo repunta y el trigo sigue flojo en París (227 €/t). El margen sigue estrecho, sin cambios claros respecto a ayer."
+  },
+  "precios": [
+    { "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)", "valor": "sin actualización hoy", "variacion": "último dato: 0,475 €/l para oct–dic (+0,015)", "fecha": "14 oct 2026", "fuente": "Lonja de León", "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-14-10-2026/" },
+    { "producto": "Leche de vaca en origen, España", "valor": "sin actualización hoy", "variacion": "último dato MAPA: 0,469 €/l (−9,7 % en un año)", "fecha": "agosto 2026", "fuente": "Agronews Castilla y León (datos MAPA)", "url": "https://www.agronewscastillayleon.com/produccion-leche-vaca-espana-agosto-2026-precio-ganaderos" },
+    { "producto": "Precio garantizado FrieslandCampina (leche convencional, noviembre)", "valor": "47,00 €/100 kg", "variacion": "+1,50 € (octubre: 45,50 €)", "fecha": "26 oct 2026", "fuente": "Nieuwe Oogst", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/26/frieslandcampina-verhoogt-garantieprijs-naar-47-euro" },
+    { "producto": "Global Dairy Trade (índice)", "valor": "sin actualización hoy", "variacion": "último evento (414): +2,5 %, precio medio 4.021 USD/t; próximo evento, 3 de noviembre", "fecha": "20 oct 2026", "fuente": "Noticias Agropecuarias", "url": "https://www.noticiasagropecuarias.com/2026/10/20/el-valor-de-la-leche-entera-en-polvo-subio-44/" },
+    { "producto": "Leche desnatada en polvo, consumo humano (Países Bajos)", "valor": "369 €/100 kg", "variacion": "= (sin cambios); hace un año, 206 €", "fecha": "semana 44 (28 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen" },
+    { "producto": "Mantequilla (Países Bajos)", "valor": "372 €/100 kg", "variacion": "= (sin cambios); hace un año, 515 €", "fecha": "semana 44 (28 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen" },
+    { "producto": "Leche entera en polvo (Países Bajos)", "valor": "381 €/100 kg", "variacion": "= (sin cambios)", "fecha": "semana 44 (28 oct 2026)", "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)", "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen" },
+    { "producto": "Maíz, Lonja de Salamanca", "valor": "sin actualización hoy", "variacion": "último dato: 246 €/t (−2); trigo blando 238 €/t y cebada 232 €/t", "fecha": "26 oct 2026", "fuente": "Agronews Castilla y León (Lonja de Salamanca)", "url": "https://www.agronewscastillayleon.com/lonja-salamanca-26-octubre-2026-maiz-anojos-porcino" },
+    { "producto": "Maíz, Lonja de Binéfar", "valor": "sin actualización hoy", "variacion": "último dato: 254 €/t (−2); cebada 248 €/t (+4); trigo pienso 261 €/t (=)", "fecha": "21 oct 2026", "fuente": "Cereales Arasanz (Lonja de Binéfar)", "url": "https://www.cerealesarasanz.com/lonja-binefar/" },
+    { "producto": "Trigo, Euronext-París (diciembre 2026)", "valor": "227,00 €/t", "variacion": "−0,66 %; −5,75 €/t desde el 21 de octubre", "fecha": "28 oct 2026", "fuente": "GrainDecision (Euronext)", "url": "https://www.graindecision.com/en/analyses/wheat-euronext" },
+    { "producto": "Maíz, Euronext-París (noviembre 2026)", "valor": "sin actualización hoy", "variacion": "último dato: 282,75 €/t (−1,00)", "fecha": "26 oct 2026", "fuente": "Agronews Castilla y León", "url": "https://www.agronewscastillayleon.com/trigo-maiz-colza-paris-euronext-26-octubre-2026" },
+    { "producto": "Harina de soja 47 %, Barcelona", "valor": "sin actualización hoy", "variacion": "último dato: 458 €/t (−4 €)", "fecha": "20 oct 2026", "fuente": "3tres3", "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj" },
+    { "producto": "Gasóleo B (agrícola), media ponderada España", "valor": "sin actualización hoy", "variacion": "último dato: 1,574 €/l (récord, +1,61 % en una semana)", "fecha": "26 oct 2026", "fuente": "Infobae (EFE, datos del MAPA)", "url": "https://www.infobae.com/espana/agencias/2026/10/27/nuevo-record-en-el-precio-del-gasoleo-b-1574-litro-un-63-mas-que-antes-de-la-guerra/" },
+    { "producto": "Petróleo Brent (diciembre, cierre)", "valor": "115,32 USD/barril", "variacion": "+1,26 % (+1,44 $)", "fecha": "28 oct 2026", "fuente": "Infobae (EFE)", "url": "https://www.infobae.com/america/agencias/2026/10/28/el-crudo-brent-sube-126-y-supera-los-115-dolares-entre-temores-de-escalada-en-omedio/" },
+    { "producto": "Euro/dólar", "valor": "sin actualización hoy", "variacion": "último dato: 1,1234 USD por euro", "fecha": "21 oct 2026", "fuente": "Réussir", "url": "https://www.reussir.fr/articles/marche-des-cereales-du-21-octobre-2026-labondance-de-loffre-mondiale-pese-sur-les-cereales" },
+    { "producto": "Euríbor 12 meses (dato diario)", "valor": "sin actualización hoy", "variacion": "último dato: 3,267 %; hoy reunión del BCE", "fecha": "23 oct 2026", "fuente": "Euribor.com.es", "url": "https://www.euribor.com.es/2026/10/26/precio-petroleo-hoy-26-octubre-2026/" }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Shamonda: sigue en nueve provincias, sin casos nuevos publicados en País Vasco ni Navarra",
+          "ambito": "España",
+          "resumen": "La situación no cambia desde la última actualización del MAPA: tipo 2 en Cantabria y Gipuzkoa y tipo 1 en otras siete provincias. Sin vacuna, el control se centra en el vector y en la vigilancia reforzada.",
+          "detalle": "Según Moncloa.com (28 de octubre), el virus está en granjas de bovino de Córdoba, Sevilla, Cádiz, Toledo, Ávila, Madrid y Girona (tipo 1) y de Cantabria y Gipuzkoa (tipo 2); Navarra no aparece. El Ministerio insiste en que la carne, la leche y los lácteos son seguros (la pasteurización y la cocción inactivan el virus). Como Shamonda no está en la lista de enfermedades de declaración obligatoria de la UE, no hay sacrificios ni restricciones; se gestiona con el Reglamento (UE) 2016/429 y la Ley 8/2003 de Sanidad Animal. Las medidas recomendadas: insecticidas y repelentes en animales e instalaciones, retirar barro y materia orgánica encharcada donde crían las larvas y poner mallas en las naves.\n\nQué puede significar: la lista puede crecer a medida que se intensifica la vigilancia; ante fiebre, caída brusca de leche o abortos, avisar al veterinario.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-10-28",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/10/28/virus-shamonda-culicoides-espana-3456680/"
+        },
+        {
+          "titular": "Lengua azul serotipo 3 en Francia: 392 focos en Pirineos Atlánticos desde junio",
+          "ambito": "UE",
+          "resumen": "Francia suma 1.168 focos de serotipo 3 desde principios de junio (+52 en una semana). Pirineos Atlánticos, que linda con Navarra, es el departamento del suroeste con más casos.",
+          "detalle": "Según Réussir (22 de octubre, con el informe del Ministerio francés del 15 de octubre), en el suroeste hay 392 focos en Pirineos Atlánticos, 195 en Altos Pirineos, 107 en Ariège, 55 en Alto Garona y 11 en Landas. Francia considera endémicos los serotipos 3 y 8, y ha detectado un primer caso de serotipo 8 en los Vosgos. El GDS de Pirineos Atlánticos pidió en junio vacunar ovino y vacuno frente al serotipo 3 porque los rebaños tenían poca inmunidad.\n\nQué puede significar: la presión del vector al otro lado de la frontera sigue alta; con la vacunación voluntaria que empieza el 1 de noviembre, es buen momento para hablar con el ganadero sobre vacunar frente al serotipo 3.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-10-22",
+          "fuente": "Réussir",
+          "url": "https://www.reussir.fr/articles/fco-3-plus-de-700-cas-recenses-depuis-debut-juin-2026"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Cotizaciones lácteas neerlandesas: la mantequilla deja de caer y la leche en polvo se frena",
+          "ambito": "UE",
+          "resumen": "En la semana 44, la mantequilla repite a 372 €/100 kg y la leche desnatada en polvo a 369 €; el suero baja 2 €. Se para la caída de la mantequilla tras semanas de fuertes movimientos.",
+          "detalle": "Según Nieuwe Oogst (28 de octubre, cotizaciones ZuivelNL), la leche desnatada en polvo para pienso sube 1 €, hasta 361 €/100 kg; la leche entera en polvo queda en 381 € y el suero en polvo baja a 164 €. A principios de octubre la mantequilla estaba en 390 €; hace un año, en 515 €. La leche desnatada en polvo, en cambio, está 163 € por encima de hace un año (206 €) y muy por encima de los 282 € del 5 de agosto.\n\nQué puede significar: la proteína láctea sigue firme y la grasa ha dejado de bajar; es el contexto de las subidas de FrieslandCampina, y apunta a un mercado europeo más estable para las negociaciones de precio de final de año.",
+          "soloLargo": false,
+          "fecha": "2026-10-28",
+          "fuente": "Nieuwe Oogst",
+          "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Actualización: la tractorada de Madrid se aplaza por el accidente ferroviario de Urda",
+          "ambito": "España",
+          "resumen": "ASAJA, COAG y Unión de Uniones suspendieron la marcha tras el choque de trenes en Urda (Toledo) y la convirtieron en una concentración en Colón con cinco minutos de silencio. Dicen que la protesta se aplaza, no se cancela, sin nueva fecha.",
+          "detalle": "Según Ifomo y Madridiario (28 de octubre), unos 500 tractores habían salido de madrugada en cinco columnas; Cooperativas Agro-alimentarias también apoyaba la convocatoria. El Ayuntamiento pidió despejar las vías, sobre todo en torno a Atocha. Las cinco reivindicaciones siguen en pie: plan de choque contra los costes con un gasóleo profesional con la rebaja aplicada en el surtidor, una PAC sin recortes, precios justos y cumplimiento de la Ley de la Cadena, rechazo a los acuerdos con Mercosur y Marruecos tal como están, y menos burocracia. Según Infobae (EFE), las organizaciones quieren llevar la protesta también a Bruselas; Luis Cortés (Unión de Uniones) cree que el Gobierno podría aprobar ayudas antes de las elecciones del 29 de noviembre.\n\nQué puede significar: habrá nueva convocatoria más adelante (UAGN, de Navarra, participaba); conviene estar atento a la nueva fecha para planificar visitas.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-10-28",
+          "fuente": "Ifomo",
+          "url": "https://www.ifomo.es/articulo/espana/cantabria-organizaciones-agrarias-suspenden-tractorada-madrid-accidente-minutos-silencio/20261028162925362757.html"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent sube a 115 $ tras un ataque hutí a la mayor refinería saudí",
+          "ambito": "mundo",
+          "resumen": "El barril de diciembre cerró el miércoles en 115,32 $ (+1,26 %) después del ataque con misiles contra la refinería de Ras Tanura y ante el temor a una escalada en Oriente Medio tras las elecciones de EE. UU. del 3 de noviembre.",
+          "detalle": "Según Infobae (EFE, 28 de octubre), los hutíes reivindicaron el ataque del martes a Ras Tanura y el miércoles atacaron el aeropuerto de Adén (Yemen). Analistas de Citi señalan que el bloqueo político tras las elecciones en Israel añade incertidumbre a la tensión entre EE. UU., Israel e Irán. UBS prevé ahora un Brent de 110 $ a final de 2026.\n\nQué puede significar: el alivio del martes duró un día; con el petróleo por encima de 110 $, no hay que esperar bajadas del gasóleo agrícola ni de los fertilizantes a corto plazo.",
+          "soloLargo": false,
+          "fecha": "2026-10-28",
+          "fuente": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/10/28/el-crudo-brent-sube-126-y-supera-los-115-dolares-entre-temores-de-escalada-en-omedio/"
+        },
+        {
+          "titular": "El trigo sigue flojo en París: 227 €/t",
+          "ambito": "UE",
+          "resumen": "El trigo de diciembre cerró el miércoles en 227,00 €/t (−0,66 %), cerca del mínimo del lunes (226,50 €) y 5,75 € por debajo de hace una semana.",
+          "detalle": "Según GrainDecision (28 de octubre), el máximo de las últimas 20 sesiones fue de 248,25 €/t el 14 de octubre. Marzo de 2027 cotiza a 225,75 €/t. El próximo informe WASDE del USDA es el 10 de noviembre.\n\nQué puede significar: los cereales siguen dando algo de respiro al coste de la ración, a la espera de que se aclare lo del mar Negro.",
+          "soloLargo": true,
+          "fecha": "2026-10-28",
+          "fuente": "GrainDecision (Euronext)",
+          "url": "https://www.graindecision.com/en/analyses/wheat-euronext"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "No hay datos nuevos de gasóleo, fertilizantes ni leche en origen desde ayer. El último gasóleo agrícola sigue en récord (1,574 €/l, 26 de octubre); hoy se reúne el BCE.",
+          "detalle": "El MAPA publica el precio del gasóleo B cada semana; el próximo dato llegará el lunes. Para el BCE, los mercados esperaban que mantuviera los tipos; el resultado se conocerá esta tarde.\n\nQué puede significar: con el Brent de nuevo por encima de 115 $, el próximo dato del gasóleo difícilmente bajará.",
+          "soloLargo": true,
+          "fecha": "2026-10-27",
+          "fuente": "Infobae (EFE, datos del MAPA)",
+          "url": "https://www.infobae.com/espana/agencias/2026/10/27/nuevo-record-en-el-precio-del-gasoleo-b-1574-litro-un-63-mas-que-antes-de-la-guerra/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Con la vacunación voluntaria de lengua azul desde el domingo y el serotipo 3 disparado en Pirineos Atlánticos, saca el tema de la prevención: vacunación, desinsectación y apoyo nutricional (inmunidad, minerales y vitaminas) a vacas secas y en periparto.",
+    "Shamonda sigue sin vacuna: pregunta por fiebre, caídas de leche y abortos, y ofrece revisar la ración para que las vacas afectadas recuperen producción.",
+    "Petróleo arriba y leche parada: el coste por litro es la conversación; la proteína láctea firme en Europa es un argumento para que el ganadero negocie su contrato.",
+    "Apunta Esneki (Tolosa, 6–7 de noviembre) y el concurso de frisona del día 7 para ver clientes."
+  ],
+  "agenda": [
+    { "fecha": "2026-10-29", "evento": "Reunión del BCE (se espera que mantenga los tipos)", "lugar": "Fráncfort", "url": "https://www.fxstreet.es/news/el-euro-se-recupera-desde-su-minimo-de-17-meses-mientras-el-dolar-se-debilita-202610152300" },
+    { "fecha": "29 oct – 12 nov", "evento": "Acampada de ASAJA por turnos de provincias (anunciada antes del aplazamiento de la tractorada; confirmar)", "lugar": "Madrid", "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/" },
+    { "fecha": "2026-10-31", "evento": "Movilizaciones de UNASPI y Alive (sector primario), coordinadas en varios países europeos", "lugar": "España y UE", "url": "https://www.agronewscastillayleon.com/unaspi-movilizaciones-europa-31-octubre-sector-primario" },
+    { "fecha": "2026-11-01", "evento": "Entra en vigor la Orden APA/1082/2026 de lengua azul: vacunación voluntaria en la península", "lugar": "España", "url": "https://www.agronewscastillayleon.com/lengua-azul-nuevas-normas-noviembre-2026" },
+    { "fecha": "2026-11-01", "evento": "Asturias y Cantabria vuelven a permitir ferias de bovino (con restricciones de origen y cuarentenas)", "lugar": "Asturias y Cantabria", "url": "https://www.agrodigital.com/2026/10/22/ferias-ganado-bovino-asturias/" },
+    { "fecha": "2026-11-01", "evento": "Feria Agrícola, Ganadera y Artesana de La Arboleda", "lugar": "Trapagaran (Bizkaia)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-03", "evento": "Global Dairy Trade, evento 415 (12:00 UTC)", "lugar": "En línea", "url": "https://globaldairytrade.info/en/gdt-events/calendar" },
+    { "fecha": "2026-11-03", "evento": "Fin del plazo de alegaciones a la orden de módulos (deducciones de gasóleo y fertilizantes)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/23/modulos-agrarios-gasoleo-fertilizantes/" },
+    { "fecha": "6–7 nov", "evento": "V Esneki Azoka (feria de productos lácteos)", "lugar": "Tolosa (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-07", "evento": "Concurso de Euskal Herria de la Raza Frisona", "lugar": "Tolosa (Gipuzkoa)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-08", "evento": "XXXIX Feria Agrícola y Ganadera de Zamudio; Feria de San Martín de Kanpezu", "lugar": "Zamudio (Bizkaia) y Kanpezu (Araba)", "url": "https://blog.euskaltel.com/ferias-euskadi/" },
+    { "fecha": "2026-11-10", "evento": "Informe WASDE del USDA (cereales y oleaginosas) y GDT Pulse 121", "lugar": "En línea", "url": "https://www.graindecision.com/en/analyses/wheat-euronext" },
+    { "fecha": "hasta el 30 nov", "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)", "lugar": "España", "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/" }
+  ]
+}
