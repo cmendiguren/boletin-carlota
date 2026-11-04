@@ -1,0 +1,368 @@
+{
+  "fecha": "2026-11-04",
+  "titulo": "Boletín Carlota – miércoles 4 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-04T07:30:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos publicados en País Vasco ni Navarra; el Shamonda sigue en Gipuzkoa (sin restricciones) y llega a granjas de leche de Reino Unido, y desde el 1 de noviembre hay nuevas reglas de movimientos por lengua azul y EHE: a vigilar."
+  },
+  "destacados": [
+    "La subasta GDT 415 sube un 3,0 %: leche entera en polvo +5,9 % y queso cheddar +8,6 %, pero la mantequilla baja un 4,7 %.",
+    "La leche en origen sube por segundo mes: en septiembre, 0,474 €/l de media en España y 0,502 €/l en el País Vasco (0,496 en agosto).",
+    "El virus Shamonda aparece en dos granjas de leche de Reino Unido; en España, desde el 1 de noviembre se aplican nuevos requisitos de movimientos por lengua azul y EHE."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "La leche mejora algo (País Vasco 0,502 €/l en septiembre, GDT al alza) y el maíz y la soja de Chicago siguen bajando, pero la luz marca hoy su máximo del año (246 €/MWh) y el gasóleo todavía no refleja la caída del petróleo."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "0,502 €/l",
+      "variacion": "+0,006 € frente a agosto (0,496); Cantabria 0,496, Asturias 0,495; Navarra sin dato publicado",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta (declaraciones obligatorias del sector lácteo)",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche de vaca en origen, media España",
+      "valor": "0,474 €/l",
+      "variacion": "+0,005 € frente a agosto (0,469); segunda subida seguida tras el mínimo de julio (0,465); Galicia 0,455",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta (declaraciones obligatorias del sector lácteo)",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche de vaca, Lonja de León (3,7 % grasa, 3,10 % proteína)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l, precio indicativo para entregas de octubre a diciembre",
+      "fecha": "29 oct 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-26-31-octubre-2026-porcino-cereales-vacuno-ovino"
+    },
+    {
+      "producto": "Global Dairy Trade (índice, evento 415)",
+      "valor": "+3,0 %",
+      "variacion": "precio medio 4.166 USD/t; 39.806 t vendidas (evento anterior: +2,5 %)",
+      "fecha": "3 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://en.edairynews.com/global-dairy-trade-index-rises-3-0-in-event-415/"
+    },
+    {
+      "producto": "GDT: leche entera en polvo / desnatada / mantequilla",
+      "valor": "3.971 / 4.109 / 4.503 USD/t",
+      "variacion": "+5,9 % / +3,1 % / −4,7 %; cheddar 3.970 USD/t (+8,6 %), grasa láctea anhidra 5.306 USD/t (−3,2 %)",
+      "fecha": "3 nov 2026",
+      "fuente": "IndexBox (datos USDA MyMarketNews)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-prices-mixed-in-early-november-2026-auction/"
+    },
+    {
+      "producto": "Mantequilla / leche en polvo (Países Bajos, ZuivelNL)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: mantequilla 372, desnatada 369, entera 381 €/100 kg; el dato nuevo se publica hoy",
+      "fecha": "semana 44 (28 oct 2026)",
+      "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen"
+    },
+    {
+      "producto": "Maíz, Euronext-París (marzo 2027)",
+      "valor": "250,75 €/t",
+      "variacion": "el contrato de noviembre, casi sin negocio, cerró en 290,75 €/t; curva invertida (40 €/t más caro lo inmediato)",
+      "fecha": "3 nov 2026",
+      "fuente": "GrainDecision",
+      "url": "https://www.graindecision.com/en/analyses/corn-euronext"
+    },
+    {
+      "producto": "Maíz, Chicago (diciembre 2026)",
+      "valor": "174,21 USD/t",
+      "variacion": "−2,66 $ (−1,5 %); mínimos de cuatro meses",
+      "fecha": "3 nov 2026",
+      "fuente": "Ruralnet",
+      "url": "https://ruralnet.com.ar/mercado-granos-3-noviembre-2026/"
+    },
+    {
+      "producto": "Trigo, Euronext-París (diciembre 2026)",
+      "valor": "225,25 €/t",
+      "variacion": "−1,31 % en el día; Chicago diciembre 220,37 USD/t (−1,3 %)",
+      "fecha": "3 nov 2026",
+      "fuente": "GrainDecision; Ruralnet",
+      "url": "https://www.graindecision.com/en/analyses/wheat-euronext"
+    },
+    {
+      "producto": "Maíz / trigo / cebada, Lonja de Salamanca",
+      "valor": "243 / 236 / 231 €/t",
+      "variacion": "−3 / −2 / −1 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-3-noviembre-2026"
+    },
+    {
+      "producto": "Harina de soja, Chicago (diciembre 2026)",
+      "valor": "350,53 USD/t",
+      "variacion": "−2,20 $ (−0,6 %)",
+      "fecha": "3 nov 2026",
+      "fuente": "Ruralnet",
+      "url": "https://ruralnet.com.ar/mercado-granos-3-noviembre-2026/"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 458 €/t (−4 €)",
+      "fecha": "20 oct 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Vacas, mercado de Salamanca",
+      "valor": "3,51 €/kg canal",
+      "variacion": "−0,01 €/kg; hembras estables con tendencia a la baja",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-3-noviembre-2026"
+    },
+    {
+      "producto": "Gasóleo B (agrícola)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,723 €/l en gasolinera (2 nov); gasóleo A, 1,896 €/l el 3 nov (+0,1 céntimos en la semana)",
+      "fecha": "3 nov 2026",
+      "fuente": "Demócrata (datos de Repostaje.es)",
+      "url": "https://www.democrata.es/economia/precio-gasolina-hoy-3-noviembre-2026/"
+    },
+    {
+      "producto": "Petróleo Brent (enero 2027, cierre)",
+      "valor": "103,60 USD/barril",
+      "variacion": "−1,12 %; WTI 96,09 $ (−0,38 %)",
+      "fecha": "3 nov 2026",
+      "fuente": "Infobae",
+      "url": "https://www.infobae.com/america/mundo/2026/11/03/los-precios-del-petroleo-caen-por-segundo-dia-consecutivo-ante-la-expectativa-de-un-acuerdo-entre-washington-y-teheran/"
+    },
+    {
+      "producto": "Electricidad, mercado mayorista (media diaria)",
+      "valor": "246,01 €/MWh",
+      "variacion": "+32 % frente a ayer; máximo del año; pico de 316,15 €/MWh hacia las 19:00",
+      "fecha": "4 nov 2026",
+      "fuente": "Infobae (EFE)",
+      "url": "https://infobae.com/espana/agencias/2026/11/03/hoy-sera-noticia-miercoles-4-de-noviembre"
+    },
+    {
+      "producto": "Euro/dólar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,1217 USD por euro",
+      "fecha": "2 nov 2026",
+      "fuente": "Market Tracker (Substack)",
+      "url": "https://rafauskiv.substack.com/p/market-tracker-2-de-noviembre-2026"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "En vigor los nuevos requisitos de movimientos por lengua azul y enfermedad hemorrágica epizoótica",
+          "ambito": "España",
+          "resumen": "Desde el 1 de noviembre se aplica un marco más flexible para mover bovino, ovino y caprino, que armoniza lengua azul y EHE. ASAJA pide revisar los protocolos antes de cada movimiento, sobre todo hacia otros países de la UE.",
+          "detalle": "ASAJA (3 de noviembre) explica que el cambio responde a la nueva clasificación de la lengua azul en la normativa europea. El MAPA ha actualizado sus páginas de lengua azul y EHE con el protocolo de flexibilización, los datos de circulación de los dos últimos años y los protocolos de otros países. Según la Orden APA/1082/2026 (BOE del 14 de octubre), la península pasa a ser zona sin estatus: los movimientos nacionales para vida o sacrificio se autorizan si los animales no tienen síntomas. La vacunación es voluntaria (las comunidades pueden hacerla obligatoria sin restringir movimientos), las vacunas vivas están prohibidas y cada dosis debe comunicarse en siete días; en bovino se anota en el RIIA el tipo de vacuna, el serotipo y la fecha.\n\nQué puede significar: menos trabas para vender novillas dentro de España, pero para exportar o ir a Baleares y Canarias siguen las condiciones europeas; conviene que el ganadero tenga al día los registros de vacunación.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-03",
+          "fuente": "ASAJA",
+          "url": "https://www.asaja.com/en-vigor-los-nuevos-requisitos-para-los-movimientos-de-animales-por-lengua-azul-y-enfermedad-hemorragica-epizootica/"
+        },
+        {
+          "titular": "El virus Shamonda aparece en dos granjas de vacuno de leche de Reino Unido",
+          "ambito": "mundo",
+          "resumen": "Se detectó en octubre en vacas de una granja de Powys (Gales) y otra de Shropshire (Inglaterra). Las autoridades no lo consideran de declaración obligatoria ni ven necesarias medidas de control adicionales.",
+          "detalle": "Según Farmers Guide (3 de noviembre), las muestras se analizaron en los laboratorios de la APHA en Weybridge, que considera la detección esperable por lo ocurrido en el continente. En vacuno causa fiebre, diarrea, apatía y bajada de leche; la infección durante la gestación puede producir malformaciones en el ternero. También puede afectar a ovejas, cabras, caballos y alpacas. La Agencia de Normas Alimentarias británica dice que no hay pruebas de riesgo para la seguridad alimentaria. En España hay focos en bovino de nueve provincias, incluida Gipuzkoa, sin restricciones de movimiento.\n\nQué puede significar: el virus sigue extendiéndose por Europa con los Culicoides; ante fiebre y bajadas de leche sin explicación, o terneros malformados en los próximos meses, conviene pensar en Shamonda y avisar al veterinario.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "Farmers Guide",
+          "url": "https://farmersguide.co.uk/livestock/animal-health/livestock-farmers-warned-after-shamonda-virus-detected-in-the-uk"
+        },
+        {
+          "titular": "Actualización dermatosis nodular: Cantabria exige 28 días de cuarentena al bovino de fuera",
+          "ambito": "España",
+          "resumen": "Con la vuelta de las ferias en Asturias y Cantabria, la consejera cántabra pide mantener la bioseguridad; los animales que entren de otras comunidades deben pasar 28 días de cuarentena bajo vigilancia veterinaria oficial.",
+          "detalle": "Según Redacción Médica (3 de noviembre), ambas comunidades reabrieron ferias, concursos, subastas y mercados el 1 de noviembre por la menor prevalencia de la dermatosis nodular contagiosa. En Potes se reunieron 357 reses de raza Tudanca, Limusina y Parda de Montaña. Quedan exentos de la cuarentena los animales que van a matadero y los que vuelven de la trashumancia, que deben revisarse en 72 horas. La consejera María Jesús Susinos insiste en desinfectar granjas, animales y camiones. La noticia no menciona cambios para País Vasco ni Navarra.\n\nQué puede significar: si algún cliente compra o vende animales con Cantabria, hay que contar con esos 28 días.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "Redacción Médica",
+          "url": "https://www.redaccionmedica.com/salud-animal/20261103/asturias-cantabria-levantan-las-restricciones-ferias-de-ganado-bovino-con-aviso-bioseguridad/364096_0.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La leche sube por segundo mes: 0,502 €/l en el País Vasco y 0,474 €/l de media en España en septiembre",
+          "ambito": "local",
+          "resumen": "El precio medio declarado en España pasó de 0,469 a 0,474 €/l. El País Vasco sigue entre los más altos (0,502 €/l), por delante de Cantabria (0,496) y Asturias (0,495).",
+          "detalle": "Según Vaca Pinta (3 de noviembre), es la segunda subida mensual tras el mínimo anual de julio (0,465 €/l). Castilla y León está en 0,487 €/l y Galicia en 0,455 €/l. El artículo no da el dato de Navarra. Las entregas de septiembre fueron 596.601 t (+1,4 %) y las de enero a septiembre suman unos 5.695 millones de kilos (+1,7 % frente a 2025); Galicia aporta el 42 %.\n\nQué puede significar: tendencia ligeramente al alza justo cuando se renegocian contratos; con más producción en el conjunto del país, las subidas pueden ser moderadas.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-03",
+          "fuente": "Vaca Pinta",
+          "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+        },
+        {
+          "titular": "La subasta GDT sube un 3,0 %: polvos y queso arriba, mantequilla abajo",
+          "ambito": "mundo",
+          "resumen": "El evento 415 cerró con un precio medio de 4.166 USD/t. La leche entera en polvo subió un 5,9 % y el cheddar un 8,6 %, mientras la mantequilla cayó un 4,7 % y la grasa láctea anhidra un 3,2 %.",
+          "detalle": "Según eDairy News, se vendieron 39.806 t en 18 rondas y 111 de los 166 compradores consiguieron alguna oferta. Por productos (IndexBox, con datos del USDA): leche entera en polvo 3.971 USD/t, desnatada 4.109 USD/t (+3,1 %), mozzarella 4.104 USD/t (+5,8 %) y mantequilla 4.503 USD/t. Es la segunda subida seguida del índice (+2,5 % el 20 de octubre).\n\nQué puede significar: el mercado mundial se recupera por las proteínas y el queso, lo que apoya el precio de la leche; la debilidad de la grasa puede frenar las primas por grasa.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "eDairy News",
+          "url": "https://en.edairynews.com/global-dairy-trade-index-rises-3-0-in-event-415/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "El maíz de Chicago cae a mínimos de cuatro meses y el trigo baja por la posible paz en Ucrania",
+          "ambito": "mundo",
+          "resumen": "El maíz cerró en 174 $/t (−1,5 %) por la gran cosecha de EE. UU.; el trigo bajó en Chicago (220 $/t) y en París (225,25 €/t) ante las conversaciones Rusia–Ucrania del 10 y 11 de noviembre en Abu Dabi.",
+          "detalle": "Según Ruralnet (3 de noviembre), el USDA estima la segunda mayor cosecha de maíz de la historia en EE. UU. y la demanda exterior va más lenta que el año pasado. La harina de soja cerró en 350,5 $/t (−0,6 %). En Euronext, el maíz de marzo de 2027 está en 250,75 €/t; el de noviembre, casi sin negocio, en 290,75 €/t (GrainDecision). En la Lonja de Salamanca, el maíz bajó 3 €/t (243 €/t), el trigo 2 € (236) y la cebada 1 € (231).\n\nQué puede significar: los cereales y la proteína siguen a la baja; para compras de pienso a medio plazo, los contratos de primavera son bastante más baratos que el disponible.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "Ruralnet",
+          "url": "https://ruralnet.com.ar/mercado-granos-3-noviembre-2026/"
+        },
+        {
+          "titular": "PAC: un estudio del Parlamento Europeo calcula un recorte del 15 % en las ayudas a la renta",
+          "ambito": "UE",
+          "resumen": "Unión de Uniones adelanta que el estudio para la Comisión de Agricultura cifra en un 15 % el recorte del presupuesto garantizado para la renta. En España, el Gobierno tramita la quinta modificación del Plan Estratégico de la PAC 2023–2027.",
+          "detalle": "Según Demócrata (3 de noviembre), el estudio reconoce algo de simplificación y más margen para cada país, pero la organización advierte de una PAC \"a 27 ritmos\" y pide ampliar el presupuesto plurianual con una partida blindada para la agricultura; el estudio se hará público esta semana. El Consejo de Ministros del 3 de noviembre tomó razón del acuerdo para enviar a Bruselas la quinta modificación del plan estratégico actual (sin detalle de su contenido en la reseña).\n\nQué puede significar: sigue la incertidumbre sobre las ayudas a partir de 2028.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "Demócrata",
+          "url": "https://democrata.es/agricultura-alimentacion/union-de-uniones-alerta-de-que-un-estudio-del-parlamento-europeo-avisa-de-un-recorte-en-la-proxima-pac"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent baja por segundo día (103,60 $) pese a nuevos bombardeos en Ormuz",
+          "ambito": "mundo",
+          "resumen": "El mercado sigue apostando por un acuerdo entre EE. UU. e Irán y el crudo cedió un 1,1 % más tras el −7,6 % del lunes. Se espera el resultado de las elecciones de mitad de mandato en EE. UU.",
+          "detalle": "Según Infobae (3 de noviembre), el Brent osciló entre 100,80 y 107,24 $ y el WTI cerró en 96,09 $. Trump dijo que los precios bajan porque la gente cree que no habrá guerra; pese a los ataques estadounidenses contra una instalación iraní, el crudo acabó en negativo. ING advierte de que es pronto para dar por superado el riesgo de escalada. El mercado espera el resultado electoral para ver si Washington apuesta por la vía diplomática.\n\nQué puede significar: si se consolida, el gasóleo y los abonos nitrogenados deberían abaratarse en las próximas semanas; de momento el gasóleo A sigue en 1,896 €/l.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-03",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/03/los-precios-del-petroleo-caen-por-segundo-dia-consecutivo-ante-la-expectativa-de-un-acuerdo-entre-washington-y-teheran/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "La luz marca hoy su máximo del año: 246 €/MWh de media en el mercado mayorista",
+          "ambito": "España",
+          "resumen": "El precio mayorista sube un 32 % frente a ayer, con un pico de 316 €/MWh hacia las 19:00 y el mínimo (181 €/MWh) hacia las 13:00.",
+          "detalle": "Según Infobae (EFE), es el nuevo máximo anual, por encima de los 231 €/MWh del 29 de octubre. Las horas más caras coinciden con el final de la tarde, cuando cae la producción solar y sube la demanda (Merca2, 29 de octubre).\n\nQué puede significar: en granjas con tarifa indexada, el ordeño de tarde y el enfriamiento del tanque salen caros; si se puede, conviene concentrar los consumos (bombas, agua caliente, carro mezclador eléctrico) en las horas centrales del día.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-04",
+          "fuente": "Infobae (EFE)",
+          "url": "https://infobae.com/espana/agencias/2026/11/03/hoy-sera-noticia-miercoles-4-de-noviembre"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Leche al alza en el País Vasco (0,502 €/l en septiembre): buen momento para hablar de producir más sólidos y litros con la ración de invierno.",
+    "Cereales y harina de soja a la baja, con los contratos de primavera más baratos que el disponible: plantea revisar la fórmula y las coberturas de pienso.",
+    "Nuevas reglas de movimientos por lengua azul y EHE: ofrece ayuda para tener al día los registros de vacunación antes de vender novillas.",
+    "Luz en máximos por la tarde: comenta con el ganadero el horario de ordeño y de uso de equipos eléctricos."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-04",
+      "evento": "Cotizaciones lácteas de ZuivelNL (mantequilla y leche en polvo)",
+      "lugar": "Países Bajos",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/10/28/zuivelnoteringen-stabiliseren-na-sterke-bewegingen"
+    },
+    {
+      "fecha": "6–7 nov",
+      "evento": "V Esneki Azoka (feria de productos lácteos)",
+      "lugar": "Tolosa (Gipuzkoa)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-07",
+      "evento": "Concurso de Euskal Herria de la Raza Frisona",
+      "lugar": "Tolosa (Gipuzkoa)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-07",
+      "evento": "Feria Agrícola de San Martín",
+      "lugar": "Bilbao (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-08",
+      "evento": "XXXIX Feria Agrícola y Ganadera de Zamudio",
+      "lugar": "Zamudio (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-10",
+      "evento": "Informe WASDE del USDA (cereales y oleaginosas)",
+      "lugar": "En línea",
+      "url": "https://www.graindecision.com/en/analyses/corn-euronext"
+    },
+    {
+      "fecha": "10–11 nov",
+      "evento": "Conversaciones entre Rusia y Ucrania (posible efecto en el trigo)",
+      "lugar": "Abu Dabi",
+      "url": "https://ruralnet.com.ar/mercado-granos-3-noviembre-2026/"
+    },
+    {
+      "fecha": "hasta el 12 nov",
+      "evento": "Acampada de ASAJA por turnos de provincias",
+      "lugar": "Madrid",
+      "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/"
+    },
+    {
+      "fecha": "12–13 nov",
+      "evento": "XXIII Jornadas Técnicas de Vacuno de Leche de Seragro (entrada libre)",
+      "lugar": "Facultad de Veterinaria, Lugo",
+      "url": "https://vacapinta.com/es/noticias/las-xxiii-jornadas-de-seragro-reuniran-en-lugo-la.html"
+    },
+    {
+      "fecha": "2026-11-15",
+      "evento": "Feria de Ganado de Mungia",
+      "lugar": "Mungia (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "desde el 1 nov",
+      "evento": "Cantabria exige 28 días de cuarentena al bovino que entre de otras comunidades (dermatosis nodular)",
+      "lugar": "Cantabria",
+      "url": "https://www.redaccionmedica.com/salud-animal/20261103/asturias-cantabria-levantan-las-restricciones-ferias-de-ganado-bovino-con-aviso-bioseguridad/364096_0.html"
+    }
+  ]
+}
