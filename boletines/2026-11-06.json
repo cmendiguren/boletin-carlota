@@ -1,0 +1,305 @@
+{
+  "fecha": "2026-11-06",
+  "titulo": "Boletín Carlota – viernes 6 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-06T07:30:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "España confirma por primera vez en la UE el serotipo 7 de la EHE (focos en Cádiz, Badajoz y Ciudad Real, sin vacuna); sin focos en País Vasco ni Navarra y sin cambios en los movimientos: a vigilar."
+  },
+  "destacados": [
+    "EHE: primer serotipo 7 de Europa en tres granjas de vacuno de Cádiz, Badajoz y Ciudad Real; las vacunas actuales no protegen y los movimientos siguen igual.",
+    "El Brent rebota casi un 4 %, hasta 98,36 $, y el gasóleo A sube a 1,898 €/l tras cuatro semanas de bajadas.",
+    "La leche en la UE se pagó a 42,8 cént./kg en agosto, un 19,7 % menos que hace un año, con la producción un 3 % arriba."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Los piensos siguen baratos (soja y maíz cerca de mínimos), pero el petróleo vuelve a subir y el gasóleo no baja; la leche europea mejora despacio."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (+0,006 € frente a agosto); media España 0,474 €/l",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta (declaraciones obligatorias del sector lácteo)",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche en origen, media UE",
+      "valor": "42,8 cént./kg",
+      "variacion": "−19,7 % interanual y 8,3 % bajo la media de cinco años; +2,3 % frente a julio; estimación de septiembre 43,11 cént./kg",
+      "fecha": "agosto 2026 (publicado el 2 nov)",
+      "fuente": "Dairy News 7x7 (datos de la Comisión Europea)",
+      "url": "https://dairynews7x7.com/news/eu-milk-prices-fall-19-7-percent-as-production"
+    },
+    {
+      "producto": "Leche convencional FrieslandCampina (precio garantizado, noviembre)",
+      "valor": "47,00 €/100 kg",
+      "variacion": "+1,50 € frente a octubre; precio integral 50,71 €/100 kg; ecológica 66,50 garantizado y 74,09 integral",
+      "fecha": "noviembre 2026 (publicado el 4 nov)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-frieslandcampina-noviembre-2026"
+    },
+    {
+      "producto": "Global Dairy Trade (índice, evento 415)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: +3,0 %, precio medio 4.166 USD/t",
+      "fecha": "3 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://en.edairynews.com/global-dairy-trade-index-rises-3-0-in-event-415/"
+    },
+    {
+      "producto": "Mantequilla / leche desnatada en polvo / entera en polvo (Países Bajos, ZuivelNL)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 375 / 371 / 384 €/100 kg (semana 45, 4 nov)",
+      "fecha": "semana 45 (4 nov 2026)",
+      "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/11/04/melkpoeders-zetten-opmars-deze-week-voort"
+    },
+    {
+      "producto": "Maíz, Chicago (diciembre 2026)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 174,89 USD/t (4 nov); leves subidas en la sesión nocturna del 5 nov",
+      "fecha": "5 nov 2026",
+      "fuente": "El Economista (Yahoo Noticias, datos de fyo); Ruralnet",
+      "url": "https://es-us.noticias.yahoo.com/granos-ganancias-leves-chicago-032554346.html"
+    },
+    {
+      "producto": "Maíz, Euronext-París (marzo 2027)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 250,75 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "GrainDecision",
+      "url": "https://www.graindecision.com/en/analyses/corn-euronext"
+    },
+    {
+      "producto": "Trigo, Chicago (diciembre 2026)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 219,92 USD/t (4 nov). Euronext diciembre: último dato 225,25 €/t (3 nov)",
+      "fecha": "4 nov 2026",
+      "fuente": "Ruralnet (datos BCR)",
+      "url": "https://ruralnet.com.ar/mercado-granos-maiz-4-noviembre-2026/"
+    },
+    {
+      "producto": "Maíz / trigo / cebada, Lonja de Salamanca",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 243 / 236 / 231 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-3-noviembre-2026"
+    },
+    {
+      "producto": "Harina de soja, Chicago (diciembre 2026)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 351,19 USD/t (4 nov); haba de soja noviembre 438,45 USD/t",
+      "fecha": "4 nov 2026",
+      "fuente": "Ruralnet (datos BCR)",
+      "url": "https://ruralnet.com.ar/mercado-granos-maiz-4-noviembre-2026/"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 458 €/t (−4 €)",
+      "fecha": "20 oct 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,723 €/l en gasolinera (2 nov). Gasóleo A: 1,898 €/l (+0,58 %), rompe cuatro semanas de bajadas",
+      "fecha": "5 nov 2026",
+      "fuente": "Merca2 (Boletín Petrolero de la UE)",
+      "url": "https://www.merca2.es/2026/11/05/precio-gasolina-hoy-cae-11-2496058/"
+    },
+    {
+      "producto": "Petróleo Brent",
+      "valor": "98,36 USD/barril",
+      "variacion": "+3,75 $ (+3,96 %) frente a 94,61 $; rango del día 93,44–98,72 $ (dato a las 17:37 de Buenos Aires)",
+      "fecha": "5 nov 2026",
+      "fuente": "FM Luzu",
+      "url": "https://fmluzu.com.ar/cierre-mercados-riesgo-pais-dolar-petroleo-5-noviembre-2026/"
+    },
+    {
+      "producto": "Euríbor (diario)",
+      "valor": "3,302 %",
+      "variacion": "−0,015; media de octubre 3,239 %",
+      "fecha": "4 nov 2026",
+      "fuente": "Euribor.com.es",
+      "url": "https://www.euribor.com.es/2026/11/05/precio-petroleo-hoy-5-noviembre-2026/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "EHE: España confirma el serotipo 7, nuevo en Europa, en tres granjas de vacuno; no hay vacuna",
+          "ambito": "España",
+          "resumen": "El MAPA notificó el 5 de noviembre tres focos de enfermedad hemorrágica epizoótica por serotipo 7 en Cádiz, Badajoz y Ciudad Real (7 animales afectados de 262). Las vacunas actuales (serotipo 8) no protegen frente a él.",
+          "detalle": "Según Redacción Médica y Diario Veterinario (5 de noviembre), los focos están en Arcos de la Frontera (Cádiz; 1 afectado de 88), Fuenlabrada de los Montes (Badajoz; 5 de 62) y Agudo (Ciudad Real; 1 de 112). Los animales tenían fiebre y lesiones en mucosas y se detectaron por vigilancia pasiva; el Laboratorio Central de Veterinaria de Algete confirmó el serotipo 7, el primero en España y en la UE (hasta ahora solo había circulado el serotipo 8, desde 2022). La EHE la transmiten los Culicoides, no es contagiosa entre animales ni zoonótica, y en algunos casos puede dar cuadros graves y, menos, muertes. El ministro Planas indica que no hay vacuna contra el serotipo 7 y que los movimientos dentro de la Península siguen igual: libres si los animales no tienen síntomas. No se han comunicado focos en País Vasco ni Navarra.\n\nQué puede significar: con el frío baja la actividad del vector, pero conviene que los ganaderos avisen al veterinario ante fiebre, lesiones en boca o morro, cojeras o caída brusca de leche, y extremen el control de insectos y la cautela al comprar animales del sur.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "Diario Veterinario",
+          "url": "https://www.diarioveterinario.com/t/6080364/espana-confirma-primeros-focos-enfermedad-hemorragica-epizootica-2026-comunidades-autonomas"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La leche en la UE, a 42,8 céntimos en agosto: un 19,7 % menos que hace un año, con más producción",
+          "ambito": "UE",
+          "resumen": "Según datos de la Comisión Europea, el precio medio en origen subió un 2,3 % en agosto pero sigue un 19,7 % por debajo de 2025; se estima 43,11 cént./kg para septiembre. La recogida de leche crece un 3 % hasta agosto.",
+          "detalle": "Según Dairy News 7x7 (2 de noviembre, con datos de la Comisión recogidos por Agriland), el precio de agosto está un 8,3 % por debajo de la media de cinco años. Las mayores bajadas interanuales son las de Hungría (−29 %), Chequia y Lituania (−26 %), Eslovaquia (−25 %) y Países Bajos y Alemania (−24 %). De enero a agosto se ha fabricado un 9 % más de leche desnatada en polvo y un 7,7 % más de mantequilla; las exportaciones crecieron un 11,9 % en volumen pero bajaron un 1,5 % en valor. La desnatada en polvo cotiza un 54,6 % más cara que hace un año. El dato de País Vasco (0,502 €/l en septiembre) sigue por encima de la media europea.\n\nQué puede significar: la producción europea sigue alta, lo que frena las subidas en origen pese a la recuperación de los polvos; la mejora de precios será probablemente lenta.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-02",
+          "fuente": "Dairy News 7x7",
+          "url": "https://dairynews7x7.com/news/eu-milk-prices-fall-19-7-percent-as-production"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Leve rebote de soja, maíz y trigo en Chicago tras tocar mínimos; el martes, informe WASDE",
+          "ambito": "mundo",
+          "resumen": "En la sesión nocturna del 5 de noviembre la soja se recuperó de su mínimo en 11 semanas y el maíz del de cuatro meses, con ligeras subidas; el trigo subió poco por el dólar débil.",
+          "detalle": "Según El Economista (con datos de fyo), frenan las subidas el avance de la cosecha de soja en EE. UU., la debilidad de los aceites vegetales y las expectativas de más envíos del mar Negro por las conversaciones entre Rusia, Ucrania y EE. UU. La cosecha de maíz estadounidense va por el 74 % y las lluvias la retrasan. Una encuesta de Reuters sitúa la producción de soja de EE. UU. en 4.597 millones de bushels (USDA de octubre: 4.562). China condiciona más compras agrícolas a EE. UU. a que se aplique la rebaja recíproca de aranceles pactada en septiembre. El USDA publica su informe de oferta y demanda el martes 10 de noviembre. El artículo no da precios de cierre.\n\nQué puede significar: el cereal y la soja siguen cerca de mínimos; el WASDE del martes puede marcar la tendencia para cerrar compras de invierno.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "El Economista (Yahoo Noticias)",
+          "url": "https://es-us.noticias.yahoo.com/granos-ganancias-leves-chicago-032554346.html"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "mundo",
+          "resumen": "Sin anuncios nuevos sobre aranceles agroalimentarios tras las elecciones en EE. UU.; las conversaciones entre Rusia y Ucrania siguen previstas para el 10–11 de noviembre en Abu Dabi.",
+          "detalle": "No se han publicado medidas comerciales nuevas con efecto directo en el campo en las últimas 24 horas. Lo pendiente: posibles cambios en la política arancelaria de EE. UU. tras el nuevo Congreso, la negociación China–EE. UU. sobre aranceles y compras agrícolas, y las conversaciones de paz en Ucrania, que pesan sobre el trigo.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "El Economista (Yahoo Noticias)",
+          "url": "https://es-us.noticias.yahoo.com/granos-ganancias-leves-chicago-032554346.html"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El Brent rebota casi un 4 %, hasta 98,36 $, tras el desplome del miércoles",
+          "ambito": "mundo",
+          "resumen": "El barril de Brent subió 3,75 $ el 5 de noviembre, desde 94,61 $, y volvió a acercarse a los 100 $ tras la caída de más del 9 % del día anterior.",
+          "detalle": "Según FM Luzu (5 de noviembre, dato a las 17:37 de Buenos Aires), el Brent osciló entre 93,44 y 98,72 $; el crudo estadounidense subió un 3 %, hasta 90,68 $. Euribor.com.es recuerda que el 4 de noviembre el Brent de enero perdió 8,91 $ (−9,4 %), su mayor caída diaria del año, por la normalización de los flujos del Golfo; la OPEP+ mantiene recortes voluntarios y revisará a finales de noviembre.\n\nQué puede significar: el petróleo sigue muy volátil; la bajada del gasóleo no está asegurada y conviene no esperar a última hora si hace falta llenar el depósito.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "FM Luzu",
+          "url": "https://fmluzu.com.ar/cierre-mercados-riesgo-pais-dolar-petroleo-5-noviembre-2026/"
+        },
+        {
+          "titular": "El gasóleo A sube a 1,898 €/l y rompe cuatro semanas de bajadas; la rebaja fiscal de 20 céntimos se mantiene en noviembre",
+          "ambito": "España",
+          "resumen": "Según el Boletín Petrolero de la UE, el diésel sube un 0,58 % y la gasolina 95 baja a 1,729 €/l. La reducción de 20 céntimos del impuesto sobre hidrocarburos sigue entera este mes.",
+          "detalle": "Según Merca2 (5 de noviembre), la rebaja fiscal estaba prevista en 20 céntimos en octubre, 13 en noviembre y 6 en diciembre, pero la cláusula de salvaguarda la mantiene completa porque el crudo sigue por encima del umbral de revalorización del 15 %. Llenar un depósito de 55 litros de diésel cuesta 104,39 €, 26,78 € más que hace un año. La media de la UE está en 2,153 €/l de diésel. El artículo no da el precio del gasóleo B; el último dato es 1,723 €/l (2 de noviembre).\n\nQué puede significar: el gasóleo agrícola no está bajando al ritmo del petróleo; si la rebaja fiscal se reduce en diciembre, podría encarecerse.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "Merca2",
+          "url": "https://www.merca2.es/2026/11/05/precio-gasolina-hoy-cae-11-2496058/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "EHE serotipo 7 sin vacuna: ofrece repasar con el ganadero la bioseguridad, el control de insectos y la vigilancia de fiebre, lesiones en boca y caídas de leche.",
+    "Compras de animales: aconseja prudencia con ganado del sur peninsular y pedir siempre la documentación sanitaria.",
+    "Soja y maíz cerca de mínimos antes del WASDE del martes: buen momento para revisar fórmulas y coberturas de invierno.",
+    "Recuerda la ayuda vasca de 36 €/vaca de leche: que revisen la lista provisional cuando se publique."
+  ],
+  "agenda": [
+    {
+      "fecha": "6–7 nov",
+      "evento": "V Esneki Azoka (feria de productos lácteos)",
+      "lugar": "Tolosa (Gipuzkoa)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-07",
+      "evento": "Concurso de Euskal Herria de la Raza Frisona",
+      "lugar": "Tolosa (Gipuzkoa)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-07",
+      "evento": "Feria Agrícola de San Martín",
+      "lugar": "Bilbao (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-08",
+      "evento": "XXXIX Feria Agrícola y Ganadera de Zamudio",
+      "lugar": "Zamudio (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-10",
+      "evento": "Informe de oferta y demanda (WASDE) del USDA",
+      "lugar": "En línea",
+      "url": "https://es-us.noticias.yahoo.com/granos-ganancias-leves-chicago-032554346.html"
+    },
+    {
+      "fecha": "10–11 nov",
+      "evento": "Conversaciones entre Rusia y Ucrania (posible efecto en el trigo)",
+      "lugar": "Abu Dabi",
+      "url": "https://ruralnet.com.ar/mercado-granos-3-noviembre-2026/"
+    },
+    {
+      "fecha": "hasta el 12 nov",
+      "evento": "Acampada de ASAJA por turnos de provincias",
+      "lugar": "Madrid",
+      "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/"
+    },
+    {
+      "fecha": "12–13 nov",
+      "evento": "XXIII Jornadas Técnicas de Vacuno de Leche de Seragro (entrada libre)",
+      "lugar": "Facultad de Veterinaria, Lugo",
+      "url": "https://vacapinta.com/es/noticias/las-xxiii-jornadas-de-seragro-reuniran-en-lugo-la.html"
+    },
+    {
+      "fecha": "2026-11-15",
+      "evento": "Feria de Ganado de Mungia",
+      "lugar": "Mungia (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026 (Navarra prevé 74,2 M€)",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "desde el 1 nov",
+      "evento": "Cantabria exige 28 días de cuarentena al bovino que entre de otras comunidades (dermatosis nodular)",
+      "lugar": "Cantabria",
+      "url": "https://www.redaccionmedica.com/salud-animal/20261103/asturias-cantabria-levantan-las-restricciones-ferias-de-ganado-bovino-con-aviso-bioseguridad/364096_0.html"
+    }
+  ]
+}
