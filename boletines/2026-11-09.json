@@ -1,0 +1,317 @@
+{
+  "fecha": "2026-11-09",
+  "titulo": "Boletín Carlota – lunes 9 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-09T07:15:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sigue activo el aviso por el serotipo 7 de la EHE (focos en Cádiz, Badajoz y Ciudad Real, sin vacuna eficaz); no hay focos en País Vasco ni Navarra y los movimientos no cambian: a vigilar."
+  },
+  "destacados": [
+    "La harina de soja baja 25 €/t en Barcelona, hasta 430 €/t, y el maíz de París cae un 4,4 % en la semana: piensos más baratos antes del informe USDA de mañana.",
+    "El Brent cierra su peor semana desde 2020 (−13 %) y abre el lunes en torno a 97,7 $; el gasóleo aún no lo refleja.",
+    "FeNIL: España importa más del 30 % de los lácteos que consume y tiene el mayor déficit lácteo de la UE (1.500 M€ en 2025)."
+  ],
+  "margen": {
+    "tendencia": "mejora",
+    "texto": "La alimentación vuelve a abaratarse (soja −25 €/t en Barcelona, cereales a la baja en todas las lonjas) y el petróleo se modera, con la leche estable en origen; el gasóleo es lo que aún no acompaña."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre); media España 0,474 €/l",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta (declaraciones obligatorias del sector lácteo)",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche convencional FrieslandCampina (precio garantizado, noviembre)",
+      "valor": "47,00 €/100 kg",
+      "variacion": "+1,50 € frente a octubre (sin cambios desde el último boletín)",
+      "fecha": "noviembre 2026 (publicado el 4 nov)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-frieslandcampina-noviembre-2026"
+    },
+    {
+      "producto": "Global Dairy Trade (índice)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: +3,0 % (evento 415), precio medio 4.166 USD/t",
+      "fecha": "3 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://en.edairynews.com/global-dairy-trade-index-rises-3-0-in-event-415/"
+    },
+    {
+      "producto": "Mantequilla / leche desnatada en polvo / entera en polvo (Países Bajos, ZuivelNL)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 375 / 371 / 384 €/100 kg",
+      "fecha": "semana 45 (4 nov 2026)",
+      "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/11/04/melkpoeders-zetten-opmars-deze-week-voort"
+    },
+    {
+      "producto": "Maíz, Euronext-París (marzo 2027)",
+      "valor": "247,25 €/t",
+      "variacion": "−11,50 € (−4,4 %) en la semana; +42,75 € frente a hace un año",
+      "fecha": "semana del 2 al 6 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "producto": "Maíz, Chicago (diciembre 2026)",
+      "valor": "155,87 €/t",
+      "variacion": "−1,43 € (−0,9 %) en la semana",
+      "fecha": "semana del 2 al 6 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "producto": "Trigo, Euronext-París / Chicago (diciembre 2026)",
+      "valor": "225,50 €/t / 194,83 €/t",
+      "variacion": "París −2,50 € (−1,1 %); Chicago −3,17 € (−1,6 %), mínimo desde febrero",
+      "fecha": "semana del 2 al 6 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "producto": "Trigo pienso / cebada, Lonja de León",
+      "valor": "226 / 221 €/t",
+      "variacion": "−2 / −1 €; maíz sin cotización por falta de acuerdo",
+      "fecha": "4 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+    },
+    {
+      "producto": "Maíz nacional / importado / cebada, Lonja de Barcelona",
+      "valor": "252 / 237 / 253 €/t",
+      "variacion": "−3 / −4 / −1 €",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona (nacional / importada)",
+      "valor": "430 / 435 €/t",
+      "variacion": "−25 / −22 € (antes 455 / 457)",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+    },
+    {
+      "producto": "Soja en grano, Chicago (noviembre 2026)",
+      "valor": "391,80 €/t",
+      "variacion": "−8,98 € (−2,2 %) en la semana",
+      "fecha": "semana del 2 al 6 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "producto": "Alfalfa deshidratada / paja de cebada, Lonja de León",
+      "valor": "255 / 65 €/t",
+      "variacion": "sin cambios (paja en Salamanca 77 €/t, +1)",
+      "fecha": "29 oct 2026 (León); 3 nov (Salamanca)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+    },
+    {
+      "producto": "Gasóleo B (agrícola)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,723 €/l (2 nov). Gasóleo A: 1,898 €/l (5 nov)",
+      "fecha": "5 nov 2026",
+      "fuente": "Merca2 (Boletín Petrolero de la UE)",
+      "url": "https://www.merca2.es/2026/11/05/precio-gasolina-hoy-cae-11-2496058/"
+    },
+    {
+      "producto": "Petróleo Brent",
+      "valor": "97,72 USD/barril",
+      "variacion": "−0,24 % frente al cierre anterior (98,32 $); la semana pasada cayó un 13,23 %",
+      "fecha": "9 nov 2026, 06:25",
+      "fuente": "MundoPetróleo",
+      "url": "https://mundopetroleo.com/info/precio-crudo-brent-hoy"
+    },
+    {
+      "producto": "Euríbor (diario)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 3,302 %",
+      "fecha": "4 nov 2026",
+      "fuente": "Euribor.com.es",
+      "url": "https://www.euribor.com.es/2026/11/05/precio-petroleo-hoy-5-noviembre-2026/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "No se han comunicado nuevos datos oficiales desde el viernes. Sigue vigente el aviso por el serotipo 7 de la EHE (tres focos en el sur, sin vacuna eficaz); no hay focos en País Vasco ni Navarra.",
+          "detalle": "Lo último publicado (El Debate, 6 de noviembre, con información del MAPA): el serotipo 7 se ha confirmado en granjas de vacuno de Cádiz, Badajoz y Ciudad Real; es la primera detección en España y en la UE. Las dos vacunas autorizadas protegen frente al serotipo 8, pero no frente al 7. Según el MAPA, en vacuno suele causar un cuadro moderado y autolimitante, aunque a veces puede ser grave, dejar secuelas y, en menor medida, causar la muerte; el ovino se infecta pero rara vez enferma, el caprino es muy poco sensible y afecta también a ciervos, gamos y corzos. Los movimientos dentro de la Península, a vida o a sacrificio, siguen permitidos si los animales no tienen síntomas.\n\nQué puede significar: con el frío baja la actividad de los Culicoides, pero conviene seguir atentos a fiebre, lesiones en boca y caídas bruscas de leche, sobre todo en animales comprados en el sur.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-06",
+          "fuente": "El Debate",
+          "url": "https://www.eldebate.com/campo-y-caza/20261106/detectada-espana-primeros-focos-nuevo-serotipo-temida-enfermedad-hemorragica-epizootica_478019.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "FeNIL: España importa más del 30 % de sus lácteos y pide quitar límites a las granjas que cumplan bienestar y medio ambiente",
+          "ambito": "España",
+          "resumen": "La patronal láctea presentó su radiografía del sector: 15.888 M€ de facturación en 2025, más de 14.800 ganaderos integrados y un déficit comercial de 1.500 M€, el mayor de la UE. Propone ocho medidas.",
+          "detalle": "Según Interempresas (5 de noviembre), el informe de FeNIL, presentado por su presidente Javier Roza, cifra la industria en 1.577 empresas y 30.648 empleos directos; el 55 % de los centros está en municipios de menos de 5.000 habitantes. España importó en 2025 492.355 t más de lácteos de las que exportó; solo en queso, 434.844 t importadas frente a 131.696 t exportadas. Las ocho medidas: relevo generacional y mantenimiento de la recogida, menos burocracia y mejor fiscalidad, vivienda y servicios en el medio rural, digitalización y automatización, promoción del consumo de lácteos entre jóvenes, apoyo a la exportación, eliminar límites de tamaño a las explotaciones que cumplan bienestar animal y medio ambiente, y un pacto de innovación con la distribución.\n\nQué puede significar: la industria necesita leche nacional y presiona para que las granjas crezcan; argumento a favor de la continuidad de las explotaciones viables de la zona.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/668667-FeNIL-propone-ocho-medidas-para-impulsar-el-futuro-del-sector-industrial-lacteo.html"
+        },
+        {
+          "titular": "Torrelavega: las 23 vacas de leche encuentran comprador, entre 1.800 y 2.800 €, y sube la recría",
+          "ambito": "España",
+          "resumen": "En el mercado de Torrelavega (Cantabria) se vendieron todas las vacas de leche presentadas; una de segundo parto alcanzó 2.800 € y ocho de primer parto, entre 1.800 y 2.600 €. Ligeras subidas en la recría.",
+          "detalle": "Según Interempresas (5 de noviembre), la feria reunió 1.413 animales (49 de vacuno mayor, 810 mediano y 553 menor). La recría cruzada subió ligeramente en machos y hembras y la recría frisona recuperó cotizaciones; los terneros se vendieron sin dificultad. El artículo no da precios por kilo.\n\nQué puede significar: tras la reapertura de ferias en Cantabria, la demanda de novillas y vacas de leche es firme; buen momento para quien venda excedente de recría.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-05",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/668735-Subidas-de-precios-en-la-recria-y-en-el-vacuno-de-leche-con-el-arranque-de-noviembre.html"
+        },
+        {
+          "titular": "Nueva guía de buenas prácticas para vacuno de leche (USC y Lactalis)",
+          "ambito": "España",
+          "resumen": "La Cátedra USC-Lactalis publica una guía con recomendaciones sobre bioseguridad, bienestar, alimentación, agua, ordeño, calidad de leche y uso responsable de antibióticos.",
+          "detalle": "Según Interempresas (9 de noviembre), la guía la han elaborado especialistas del Área de Producción Animal de la Facultad de Veterinaria de Lugo, coordinados por Francisco Javier Diéguez (USC), con revisión de Lactalis España; se presentó en una granja de Mesía (A Coruña). Incluye también instalaciones, refrigeración, medio ambiente y el SIGE (Sistema Integral de Gestión de las Explotaciones Bovinas). Son criterios adaptables a cada granja.\n\nQué puede significar: material útil para apoyar recomendaciones técnicas en las visitas, sobre todo en calidad del agua y alimentación.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/668880-Publicada-una-guia-de-buenas-practicas-para-mejorar-la-gestion-del-vacuno-de-leche.html"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "La harina de soja baja 25 €/t en Barcelona y los cereales ceden en todas las lonjas",
+          "ambito": "España",
+          "resumen": "La harina de soja 47 % nacional cayó a 430 €/t (−25 €) y la importada a 435 €/t (−22 €). En León, el trigo pienso baja a 226 €/t y la cebada a 221 €/t; el maíz se quedó sin cotización.",
+          "detalle": "Según el resumen semanal de Agronews Castilla y León (7 de noviembre), en Barcelona (3 de noviembre) el maíz nacional bajó a 252 €/t (−3), el importado a 237 €/t (−4) y la cebada a 253 €/t (−1); el trigo forrajero quedó en 259 €/t. En Salamanca, maíz 243 €/t (−3), trigo 236 (−2) y cebada 231 (−1). En León no hubo acuerdo en el maíz: el vendedor hablaba de 250 €/t en almacén sin respaldo del comprador. Forrajes en León sin cambios: alfalfa deshidratada 255 €/t, alfalfa en rama 225 €/t, paja de cebada 65 €/t.\n\nQué puede significar: la proteína es lo que más baja; buena ocasión para revisar raciones y cerrar compras de soja para el invierno.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-07",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+        },
+        {
+          "titular": "Semana bajista en los mercados mundiales: el maíz de París cae un 4,4 % y el trigo de Chicago, a mínimos desde febrero",
+          "ambito": "mundo",
+          "resumen": "Entre el 2 y el 6 de noviembre el maíz de Euronext (marzo) bajó 11,50 €/t, hasta 247,25 €/t; la colza perdió 32,50 €/t y la soja de Chicago un 2,2 %. Mañana, martes 10, publica el USDA su informe de oferta y demanda.",
+          "detalle": "Según Agronews Castilla y León (8 de noviembre), el trigo de París (diciembre) quedó en 225,50 €/t (−1,1 %) y el de Chicago en 194,83 €/t, con un mínimo intradía que es el más bajo desde el 18 de febrero. El maíz de Chicago (diciembre) cerró en 155,87 €/t. La siembra de trigo blando en Francia va por el 84 % y la cosecha francesa de maíz ha terminado. Los sondeos previos al USDA sitúan el maíz de EE. UU. en unos 405,45 Mt (407,28 en octubre) y la soja en 125,11 Mt (124,16). El índice de cereales de la FAO bajó en octubre un 4,5 % mensual y un 12,6 % interanual.\n\nQué puede significar: la tendencia de piensos sigue a la baja; el USDA de mañana puede confirmarla o frenarla.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-08",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Rusia y Ucrania confirman las conversaciones con EE. UU. el 10 y 11 de noviembre en Abu Dabi; el trigo baja",
+          "ambito": "mundo",
+          "resumen": "Ambos países confirmaron su participación en las conversaciones de paz; el mercado descuenta una posible reanudación de exportaciones del mar Negro y el trigo de Chicago cerró el viernes a la baja.",
+          "detalle": "Según Ruralnet (6 de noviembre, con datos de la Bolsa de Comercio de Rosario), al cierre del viernes la soja y el maíz de Chicago subieron levemente tras tocar sus mínimos desde el 14 de agosto y el 1 de julio, respectivamente, mientras el trigo bajó por la posible vuelta de las exportaciones desde el mar Negro. Las conversaciones están previstas para mañana y el miércoles.\n\nQué puede significar: un acuerdo abarataría más el cereal; si fracasan, puede haber rebote. Posición sin cambios hasta conocer el resultado.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-06",
+          "fuente": "Ruralnet",
+          "url": "https://ruralnet.com.ar/mercado-granos-6-noviembre-2026/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El Brent cierra su peor semana desde 2020 (−13 %) y abre el lunes cerca de 97,7 $",
+          "ambito": "mundo",
+          "resumen": "El viernes el Brent (enero) cerró en torno a 97,38 $, con una caída semanal del 13,23 %; esta mañana a las 6:25 cotizaba a 97,72 $ (−0,24 %).",
+          "detalle": "Según PrecioPetroleo.net (6 de noviembre), es la mayor caída semanal desde la pandemia; aun así, el Brent acumula una subida del 62 % en 2026. El WTI cerró en 90,01 $. MundoPetróleo sitúa el Brent esta mañana entre 97,21 y 98,42 $, con el euro a 1,116 dólares (87,57 € por barril). No hay dato nuevo de gasóleo agrícola desde el 2 de noviembre (1,723 €/l); el gasóleo A subió el 5 de noviembre a 1,898 €/l.\n\nQué puede significar: si el crudo se mantiene por debajo de 100 $, el gasóleo debería bajar en las próximas semanas; no conviene llenar el depósito entero a precio alto si se puede esperar.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "MundoPetróleo",
+          "url": "https://mundopetroleo.com/info/precio-crudo-brent-hoy"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Soja a 430 €/t en Barcelona (−25 €): propón revisar la ración y valorar cerrar proteína para el invierno antes de que el USDA de mañana mueva el mercado.",
+    "Recría firme en Torrelavega: a quien tenga novillas de sobra, recuérdale que es buen momento para vender, y a quien compre, que pida la documentación sanitaria (EHE serotipo 7 en el sur).",
+    "Usa la guía USC-Lactalis (agua, ordeño, antibióticos) como excusa para una visita técnica de calidad de leche.",
+    "Recuerda la ayuda vasca de 36 €/vaca de leche y que revisen la lista provisional cuando se publique."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-10",
+      "evento": "Informe de oferta y demanda (WASDE) del USDA",
+      "lugar": "En línea",
+      "url": "https://es-us.noticias.yahoo.com/granos-ganancias-leves-chicago-032554346.html"
+    },
+    {
+      "fecha": "10–11 nov",
+      "evento": "Conversaciones de paz Rusia–Ucrania–EE. UU. (posible efecto en el trigo)",
+      "lugar": "Abu Dabi",
+      "url": "https://ruralnet.com.ar/mercado-granos-6-noviembre-2026/"
+    },
+    {
+      "fecha": "hasta el 12 nov",
+      "evento": "Acampada de ASAJA por turnos de provincias",
+      "lugar": "Madrid",
+      "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/"
+    },
+    {
+      "fecha": "12–13 nov",
+      "evento": "XXIII Jornadas Técnicas de Vacuno de Leche de Seragro (entrada libre)",
+      "lugar": "Facultad de Veterinaria, Lugo",
+      "url": "https://www.interempresas.net/vacuno-leche/668458-XXIII-Jornadas-de-Seragro-analizaran-retos-productivos-y-ambientales-del-vacuno-lechero.html"
+    },
+    {
+      "fecha": "2026-11-15",
+      "evento": "Feria de Ganado de Mungia",
+      "lugar": "Mungia (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Castilla y León mantiene la vigilancia en vacuno frente a la dermatosis nodular",
+      "lugar": "Castilla y León",
+      "url": "https://agroinformacion.com/castilla-y-leon-prorroga-hasta-finales-de-noviembre-las-medidas-de-vigilancia-frente-a-la-dermatosis-nodular-contagiosa/"
+    },
+    {
+      "fecha": "desde el 1 nov",
+      "evento": "Cantabria exige 28 días de cuarentena al bovino que entre de otras comunidades (dermatosis nodular)",
+      "lugar": "Cantabria",
+      "url": "https://www.redaccionmedica.com/salud-animal/20261103/asturias-cantabria-levantan-las-restricciones-ferias-de-ganado-bovino-con-aviso-bioseguridad/364096_0.html"
+    }
+  ]
+}
