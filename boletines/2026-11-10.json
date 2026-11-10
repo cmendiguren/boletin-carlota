@@ -1,0 +1,304 @@
+{
+  "fecha": "2026-11-10",
+  "titulo": "Boletín Carlota – martes 10 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-10T07:20:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sigue el aviso por el serotipo 7 de la EHE en el sur (sin vacuna eficaz) y se confirma gripe aviar de alta patogenicidad en un ave silvestre en Portugalete; no hay casos en granjas del País Vasco ni de Navarra: a vigilar."
+  },
+  "destacados": [
+    "La leche en la UE sube por tercer mes en octubre (45,12 €/100 kg, +1,3 %); España, 46,02 €/100 kg, aún un 11,4 % menos que hace un año.",
+    "Gripe aviar de alta patogenicidad en un ave silvestre hallada en Portugalete; el Gobierno Vasco no tiene casos ni sospechas en granjas.",
+    "El Brent baja a 91,5 $ esta mañana, pero el gasóleo agrícola sigue por encima de 1,70 €/l; hoy, informe USDA y conversaciones de paz en Abu Dabi."
+  ],
+  "margen": {
+    "tendencia": "mejora",
+    "texto": "La leche europea recupera terreno mes a mes y los cereales siguen bajando en las lonjas (maíz −3 € en Salamanca); el gasóleo, todavía caro, es lo que frena la mejora."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca, media España (Observatorio UE, provisional)",
+      "valor": "46,02 €/100 kg",
+      "variacion": "−11,4 % interanual (51,94 en oct. 2025); 0,90 € por encima de la media UE",
+      "fecha": "octubre 2026 (publicado el 9 nov)",
+      "fuente": "Agronews Castilla y León (Observatorio Europeo del Mercado de la Leche)",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-union-europea-octubre-2026"
+    },
+    {
+      "producto": "Leche de vaca, media UE (provisional)",
+      "valor": "45,12 €/100 kg",
+      "variacion": "+1,28 % frente a septiembre; −13,9 % interanual",
+      "fecha": "octubre 2026 (publicado el 9 nov)",
+      "fuente": "Agronews Castilla y León (Observatorio Europeo del Mercado de la Leche)",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-union-europea-octubre-2026"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta (declaraciones obligatorias del sector lácteo)",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Global Dairy Trade: leche entera en polvo / desnatada en polvo",
+      "valor": "sin actualización hoy",
+      "variacion": "último evento (3 nov): entera 3.971 USD/t (casi +6 %), desnatada 4.109 USD/t (+3,1 %); mantequilla a la baja",
+      "fecha": "3 nov 2026 (publicado el 9 nov)",
+      "fuente": "Diario Lechero",
+      "url": "https://www.diariolechero.cl/noticia/economia-y-mercados/2026/11/leche-en-polvo-entera-en-casi-us4000-mercado-lacteo-mundial-muestra-una-recuperacion-mas-amplia"
+    },
+    {
+      "producto": "Mantequilla / leche desnatada en polvo / entera en polvo (Países Bajos, ZuivelNL)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 375 / 371 / 384 €/100 kg",
+      "fecha": "semana 45 (4 nov 2026)",
+      "fuente": "Nieuwe Oogst (cotizaciones ZuivelNL)",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/11/04/melkpoeders-zetten-opmars-deze-week-voort"
+    },
+    {
+      "producto": "Maíz / trigo / cebada, Lonja de Salamanca",
+      "valor": "240 / 234 / 230 €/t",
+      "variacion": "−3 / −2 / −1 €",
+      "fecha": "9 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-9-noviembre-2026-precios-cereales-porcino-vacuno"
+    },
+    {
+      "producto": "Maíz, Euronext-París (marzo 2027)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 247,25 €/t (−4,4 % en la semana del 2 al 6 nov)",
+      "fecha": "6 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona (nacional / importada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 / 435 €/t (−25 / −22 €)",
+      "fecha": "3 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-2-6-noviembre-2026-porcino-cereales-vacuno"
+    },
+    {
+      "producto": "Paja, Lonja de Salamanca",
+      "valor": "77 €/t",
+      "variacion": "sin cambios",
+      "fecha": "9 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-9-noviembre-2026-precios-cereales-porcino-vacuno"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), venta al público",
+      "valor": "en torno a 1,70 €/l",
+      "variacion": "cooperativas: 1,553 €/l (2 nov), +67,9 % frente a nov. 2025",
+      "fecha": "9 nov 2026",
+      "fuente": "AgroCLM",
+      "url": "https://www.agroclm.com/2026/11/09/el-precio-del-gasoleo-agricola-b-supera-de-media-los-170-euros-por-litro/"
+    },
+    {
+      "producto": "Petróleo Brent",
+      "valor": "91,48 USD/barril",
+      "variacion": "−1,18 % frente al cierre anterior (92,57 $); 81,49 €/barril con el euro a 1,1227 $",
+      "fecha": "10 nov 2026, 06:34",
+      "fuente": "MundoPetróleo",
+      "url": "https://mundopetroleo.com/info/precio-crudo-brent-hoy"
+    },
+    {
+      "producto": "Euríbor 12 meses (diario)",
+      "valor": "3,283 %",
+      "variacion": "−0,019 puntos; media provisional de noviembre 3,302 % (octubre: 3,239 %)",
+      "fecha": "5 nov 2026 (publicado el 6 nov)",
+      "fuente": "Rankia",
+      "url": "https://www.rankia.com/blog/mejores-hipotecas/7540804-euribor-hoy-6-noviembre-2026"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Gripe aviar de alta patogenicidad en un ave silvestre en Portugalete y Newcastle en una tórtola en Donostia",
+          "ambito": "local",
+          "resumen": "El laboratorio de Algete ha confirmado los dos positivos en fauna silvestre. El Gobierno Vasco dice que no hay casos ni sospechas en granjas.",
+          "detalle": "Según GipuzkoaGaur (9 de noviembre), el Laboratorio Central de Veterinaria de Algete ratificó un caso de influenza aviar de alta patogenicidad en un ave hallada en Portugalete y otro de enfermedad de Newcastle en una tórtola turca de Donostia. La nota no indica el subtipo ni la especie del ave de Portugalete. El Departamento de Alimentación del Gobierno Vasco trabaja con Salud y la fundación Elika en la evaluación del riesgo y recomienda no tocar aves enfermas o muertas y avisar al 112.\n\nQué puede significar: no afecta al vacuno de forma directa, pero es buen momento para recordar la bioseguridad (aves en comederos y silos, agua de bebida, gallinas de autoconsumo en la explotación).",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-09",
+          "fuente": "GipuzkoaGaur",
+          "url": "https://gipuzkoagaur.com/2026/11/09/confirmados-en-euskadi-dos-casos-de-gripe-aviar-y-enfermedad-de-newcastle-en-aves-silvestres"
+        },
+        {
+          "titular": "Castilla y León pondrá en marcha el veterinario habilitado para programas sanitarios",
+          "ambito": "España",
+          "resumen": "La Junta anuncia que veterinarios autorizados colaborarán en vigilancia, control y erradicación de enfermedades animales; no hay fecha concreta.",
+          "detalle": "Según Interempresas (10 de noviembre, con información de Efe), el consejero Joaquín Antonio Pino lo anunció en las Cortes al presentar los presupuestos de 2027. Se apoya en la modificación de la Ley de Sanidad Animal de Castilla y León de junio de 2024, que permite habilitar veterinarios para funciones de los programas sanitarios nacionales y autonómicos y acreditarlos como agentes certificadores. La Administración mantiene la dirección y la inspección, con garantías de imparcialidad. Solo afecta a Castilla y León.\n\nQué puede significar: modelo a seguir por si otras comunidades amplían el papel de los veterinarios privados en saneamiento.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-10",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/668982-Castilla-y-Leon-pondra-en-marcha-de-forma-inminente-la-figura-del-veterinario-habilitado.html"
+        },
+        {
+          "titular": "AEMPS: 137 medicamentos veterinarios nuevos autorizados en 2025",
+          "ambito": "España",
+          "resumen": "Veterindustria y la AEMPS reunieron a unos 80 técnicos para repasar autorizaciones, variaciones y las herramientas CIMAvet y Raevet.",
+          "detalle": "Según Interempresas (6 de noviembre), en el taller se trataron los procesos de autorización y modificación de medicamentos y las herramientas digitales nacionales y europeas (CIMAvet, UPD, Raevet). La AEMPS autorizó en 2025 137 nuevos medicamentos veterinarios y resolvió más de 4.400 variaciones. No se recogen acuerdos formales.\n\nQué puede significar: CIMAvet sigue siendo la referencia para consultar fichas técnicas y tiempos de espera en granja.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-06",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/668869-Unos-80-expertos-debaten-sobre-la-regulacion-de-los-medicamentos-veterinarios.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "La leche en la UE sube por tercer mes en octubre: 45,12 €/100 kg; España, 46,02",
+          "ambito": "UE",
+          "resumen": "Según datos provisionales del Observatorio Europeo, la media de la UE sube un 1,28 % frente a septiembre, aunque sigue un 13,9 % por debajo de octubre de 2025. España baja un 11,4 % interanual.",
+          "detalle": "Según Agronews Castilla y León (9 de noviembre), España (46,02 €/100 kg) está 0,90 € por encima de la media UE. Comparativa interanual: Alemania 43,20 (−17,5 %), Italia 46,42 (−16,9 %), Polonia 44,05 (−16,6 %), Países Bajos 45,50 (−14,2 %), Francia 46,25 (−10,3 %), Dinamarca 47,49 (−10,5 %) e Irlanda 48,36 (−2,6 %). La Lonja de León mantiene 0,475 €/l para las entregas de octubre a diciembre. Es la continuación del dato de agosto (42,8 céntimos) publicado el día 6.\n\nQué puede significar: la recuperación se consolida, apoyada en las subidas de los polvos en GDT y en Países Bajos; los contratos de invierno deberían ir a mejor, aunque lejos de los niveles de 2025.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-union-europea-octubre-2026"
+        },
+        {
+          "titular": "Elecciones generales del 29N: las organizaciones agrarias presentan sus peticiones",
+          "ambito": "España",
+          "resumen": "ASAJA dice que \"las cuentas no salen\" por gasóleo, abono y luz; COAG pide rebajar un 85 % el impuesto eléctrico en ganadería y UPA, una ley de agricultura familiar.",
+          "detalle": "Según Interempresas (9 de noviembre), Cooperativas Agro-alimentarias pide actualizar la ley fiscal de cooperativas, un pacto de Estado por el agua y una PAC suficiente. ASAJA reclama cumplir la Ley de la Cadena. COAG propone un pacto por el relevo generacional y al menos un 10 % del plan estratégico de la PAC para jóvenes. UPA presenta 16 medidas, entre ellas convertir AICA en agencia estatal. Unión de Uniones pide reforzar el control de importaciones y revisar los protocolos de sanidad animal.\n\nQué puede significar: costes de energía y relevo generacional serán temas de campaña; conviene seguir qué se concreta para la ganadería.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/669001-Elecciones-29N-sector-agrario-reclama-medidas-hacer-rentable-campo-facilitar-relevo.html"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Lonja de Salamanca: el maíz baja 3 €, hasta 240 €/t; la paja repite a 77 €/t",
+          "ambito": "España",
+          "resumen": "En la sesión del lunes 9 de noviembre, trigo 234 €/t (−2) y cebada 230 €/t (−1). Hoy publica el USDA su informe mensual de oferta y demanda.",
+          "detalle": "Según Agronews Castilla y León (9 de noviembre), también cotizaron centeno 220 €/t, avena 202 y triticale 224 (vacunodeelite.com). El mercado de ganado reunió 264 animales; añojos +0,03 €/kg canal y terneros cruzados a 982 €/cabeza, sin cambios. No hubo frisonas a la venta. Es la tercera semana seguida de bajadas del maíz en las lonjas del interior.\n\nQué puede significar: el cereal sigue bajando; el WASDE de esta tarde (hora española) puede dar o quitar recorrido a la caída.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lonja-salamanca-9-noviembre-2026-precios-cereales-porcino-vacuno"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Actualización: arrancan hoy en Abu Dabi las consultas Ucrania–EE. UU.–Rusia, sin la UE en la mesa",
+          "ambito": "mundo",
+          "resumen": "Las consultas exploratorias se celebran hoy y mañana. Europa queda fuera del formato principal pese a ser el mayor donante de Kiev.",
+          "detalle": "Según El Español (10 de noviembre), se trata de consultas exploratorias entre las tres partes; el propio artículo recoge que el Kremlin habla de forma más vaga de contactos \"en noviembre\". El 18 y 19 de noviembre hay cumbre de la APEC en Shenzhen, donde Moscú busca un encuentro Trump–Putin–Xi.\n\nQué puede significar: el mercado ya descuenta en parte una vuelta de las exportaciones del mar Negro (trigo a mínimos desde febrero); si no hay avances, puede haber rebote del cereal.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-10",
+          "fuente": "El Español",
+          "url": "https://www.elespanol.com/mundo/europa/20261110/ucrania-eeuu-rusia-citan-abu-dabi-cumbre-sin-ue-pese-principal-donante-fondos-kiev/1003744448497_0.html"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El gasóleo agrícola sigue por encima de 1,70 €/l; en cooperativas, un 68 % más caro que hace un año",
+          "ambito": "España",
+          "resumen": "El gasóleo B está en torno a 1,70 €/l en gasolineras; en cooperativas, 1,553 €/l (dato del 2 de noviembre) frente a 0,925 € hace un año.",
+          "detalle": "Según AgroCLM (9 de noviembre), la diferencia entre cooperativa y venta al público es de 14 céntimos (1,553 frente a 1,693 €/l el 2 de noviembre). Por provincias, la más barata es Cuenca (1,593 €/l). No da datos del norte.\n\nQué puede significar: comprar a través de la cooperativa ahorra unos 14 céntimos por litro; el gasóleo aún no refleja la caída del crudo.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-09",
+          "fuente": "AgroCLM",
+          "url": "https://www.agroclm.com/2026/11/09/el-precio-del-gasoleo-agricola-b-supera-de-media-los-170-euros-por-litro/"
+        },
+        {
+          "titular": "El Brent cae a 91,5 $ esta mañana",
+          "ambito": "mundo",
+          "resumen": "A las 6:34 el Brent cotizaba a 91,48 $ (−1,18 %), unos 6 $ menos que ayer a la misma hora; en euros, 81,49 € por barril.",
+          "detalle": "Según MundoPetróleo (10 de noviembre), el rango de la sesión va de 91,40 a 92,36 $, con el euro a 1,1227 dólares. FXEmpire (10 de noviembre) atribuye la bajada a que disminuyen los temores de ataques contra Irán y a que la OPEP bombeó 1,38 millones de barriles diarios más en octubre que en septiembre.\n\nQué puede significar: si el crudo se queda en torno a 90 $, el gasóleo debería empezar a bajar en las próximas semanas; mejor no llenar el depósito entero ahora si se puede esperar.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-10",
+          "fuente": "MundoPetróleo",
+          "url": "https://mundopetroleo.com/info/precio-crudo-brent-hoy"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Leche europea al alza por tercer mes: buen tema para hablar de producir más sólidos este invierno (grasa y proteína pagan) con raciones ajustadas.",
+    "Gripe aviar confirmada en Portugalete: ofrece una revisión rápida de bioseguridad (aves en silos y comederos, almacenamiento de pienso tapado).",
+    "Cereales y soja siguen bajando: si el WASDE de hoy no da un giro, propón cerrar compras de materias primas o ajustar el precio de la ración.",
+    "Gasóleo caro: recuerda la diferencia de unos 14 céntimos/l entre cooperativa y gasolinera."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-10",
+      "evento": "Informe de oferta y demanda (WASDE) del USDA",
+      "lugar": "En línea",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-trigo-maiz-colza-soja-6-noviembre-2026"
+    },
+    {
+      "fecha": "10–11 nov",
+      "evento": "Consultas Ucrania–EE. UU.–Rusia (posible efecto en el trigo)",
+      "lugar": "Abu Dabi",
+      "url": "https://www.elespanol.com/mundo/europa/20261110/ucrania-eeuu-rusia-citan-abu-dabi-cumbre-sin-ue-pese-principal-donante-fondos-kiev/1003744448497_0.html"
+    },
+    {
+      "fecha": "hasta el 12 nov",
+      "evento": "Acampada de ASAJA por turnos de provincias",
+      "lugar": "Madrid",
+      "url": "https://www.agrodigital.com/2026/10/26/acampada-asaja-madrid/"
+    },
+    {
+      "fecha": "12–13 nov",
+      "evento": "XXIII Jornadas Técnicas de Vacuno de Leche de Seragro (entrada libre)",
+      "lugar": "Facultad de Veterinaria, Lugo",
+      "url": "https://www.interempresas.net/vacuno-leche/668458-XXIII-Jornadas-de-Seragro-analizaran-retos-productivos-y-ambientales-del-vacuno-lechero.html"
+    },
+    {
+      "fecha": "2026-11-15",
+      "evento": "Feria de Ganado de Mungia",
+      "lugar": "Mungia (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "hasta el 31 dic",
+      "evento": "Galicia exige 28 días de vigilancia al bovino de otras comunidades (dermatosis nodular)",
+      "lugar": "Galicia",
+      "url": "https://www.agronewscastillayleon.com/galicia-dermatosis-nodular-restricciones-diciembre-2026"
+    }
+  ]
+}
