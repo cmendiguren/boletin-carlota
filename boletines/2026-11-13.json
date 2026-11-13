@@ -1,0 +1,294 @@
+{
+  "fecha": "2026-11-13",
+  "titulo": "Boletín Carlota – viernes 13 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-13T07:30:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos en el País Vasco ni en Navarra; el serotipo 7 de la EHE (sin vacuna) suma positivos en Badajoz y los movimientos siguen libres sin signos clínicos: a vigilar."
+  },
+  "destacados": [
+    "Galicia: una gran industria láctea prepara una subida de 1,5 céntimos/l en contratos de cuatro meses; Unións Agrarias la ve insuficiente. Primera señal de subida en origen.",
+    "EHE serotipo 7: cinco positivos en una explotación de Badajoz, sin bajas; Extremadura levanta las restricciones por brucelosis.",
+    "El maíz sigue bajando (Binéfar 245 €/t, −2; Zaragoza −4) y el trigo cae un 2,8 % en Chicago, pero el Brent rebota a 95,9 $ (+3,4 %)."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El cereal sigue abaratándose y asoman las primeras ofertas de subida de la leche en Galicia (+1,5 c/l), pero los forrajes suben y el petróleo rebota hacia 96 $."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca, Lonja de León (entregas oct–nov–dic)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l (sin cambios (referencia 3,7 % grasa y 3,10 % proteína))",
+      "fecha": "11 nov 2026",
+      "fuente": "Lonja de León",
+      "url": "https://www.lonjadeleon.es/lonja-leche-de-vaca-11-11-2026/"
+    },
+    {
+      "producto": "Leche de vaca, Galicia (oferta de una gran industria, contratos de 4 meses)",
+      "valor": "sin actualización hoy",
+      "variacion": "en preparación una subida de +1,5 céntimos/l (aún no firmada)",
+      "fecha": "13 nov 2026",
+      "fuente": "Interempresas (Unións Agrarias)",
+      "url": "https://www.interempresas.net/vacuno-leche/669532-Unions-Agrarias-considera-insuficiente-posible-subida-1-5-centimos-precio-leche.html"
+    },
+    {
+      "producto": "Leche de vaca en origen, media España (MAPA)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,474 €/l (−10,4 % interanual)",
+      "fecha": "septiembre 2026 (publicado el 11 nov)",
+      "fuente": "Interempresas (datos de entregas del MAPA)",
+      "url": "https://www.interempresas.net/vacuno-leche/668979-La-produccion-de-leche-de-vaca-consolida-su-crecimiento-con-estabilidad-de-los-precios.html"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Global Dairy Trade: leche entera / desnatada en polvo",
+      "valor": "sin actualización hoy",
+      "variacion": "último evento (3 nov): entera 3.971 USD/t, desnatada 4.109 USD/t; mantequilla a la baja",
+      "fecha": "3 nov 2026",
+      "fuente": "Diario Lechero",
+      "url": "https://www.diariolechero.cl/noticia/economia-y-mercados/2026/11/leche-en-polvo-entera-en-casi-us4000-mercado-lacteo-mundial-muestra-una-recuperacion-mas-amplia"
+    },
+    {
+      "producto": "Mantequilla / desnatada en polvo / entera en polvo / suero, media UE (Observatorio de la Leche)",
+      "valor": "403 / 354 / 385 / 185 €/100 kg",
+      "variacion": "interanual: mantequilla +66 %, desnatada −27 %, entera +83 %, suero +13 % (datos hasta el 8 nov)",
+      "fecha": "informe del 12 nov 2026",
+      "fuente": "IndexBox (Milk Market Observatory, Comisión Europea)",
+      "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-milk-market-observatory-report-dated-12-november-2026/"
+    },
+    {
+      "producto": "Mantequilla / desnatada / entera en polvo (Países Bajos, ZuivelNL)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 375 / 371 / 384 €/100 kg",
+      "fecha": "semana 45 (4 nov 2026)",
+      "fuente": "Nieuwe Oogst",
+      "url": "https://www.nieuweoogst.nl/nieuws/2026/11/04/melkpoeders-zetten-opmars-deze-week-voort"
+    },
+    {
+      "producto": "Maíz / trigo y cebada, Lonja de Binéfar",
+      "valor": "maíz 245 €/t; trigo y cebada entre 242 y 254 €/t",
+      "variacion": "maíz −2; trigo y cebada −1 €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agropopular",
+      "url": "https://www.agropopular.com/cereales-comentario-121126"
+    },
+    {
+      "producto": "Maíz, Lonja de Zaragoza (Ebro)",
+      "valor": "sin actualización hoy",
+      "variacion": "baja 4 €/t esta semana (sin precio absoluto en la fuente)",
+      "fecha": "12 nov 2026",
+      "fuente": "Agropopular",
+      "url": "https://www.agropopular.com/cereales-comentario-121126"
+    },
+    {
+      "producto": "Alfalfa en rama / alfalfa deshidratada / veza / paja de cebada, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 235 / 260 / 180 / 67 €/t (+10 / +5 / +10 / +2 €/t)",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-leon-11-noviembre-2026-maiz-lluvias-forrajes-precios"
+    },
+    {
+      "producto": "Chicago (CBOT): trigo / maíz / soja",
+      "valor": "trigo 214,68 $/t; maíz 174,21 $/t (dic-26)",
+      "variacion": "trigo −2,8 %; maíz −1,3 %; soja −0,2 %",
+      "fecha": "12 nov 2026 (cierre)",
+      "fuente": "Ruralnet (tabla BCR)",
+      "url": "https://ruralnet.com.ar/granos-12-noviembre-sorgo-trigo/"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona (origen España)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t (455 la semana anterior)",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), venta al público",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: en torno a 1,70 €/l; cooperativas 1,553 €/l (2 nov)",
+      "fecha": "9 nov 2026",
+      "fuente": "AgroCLM",
+      "url": "https://www.agroclm.com/2026/11/09/el-precio-del-gasoleo-agricola-b-supera-de-media-los-170-euros-por-litro/"
+    },
+    {
+      "producto": "Petróleo Brent / WTI",
+      "valor": "95,89 / 88,70 USD/barril",
+      "variacion": "+3,37 % / +2,51 % en la sesión",
+      "fecha": "12 nov 2026 (cierre)",
+      "fuente": "TV Azteca",
+      "url": "https://www.tvazteca.com/aztecanoticias/wall-street-pierde-el-paso-y-arrastra-a-la-bolsa-mexicana-asi-termino-el-jueves/"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "sin actualización hoy",
+      "variacion": "Euribor.com.es apunta a una subida hacia el 3,3 % el 12 nov (dato provisional); media de octubre 3,239 %",
+      "fecha": "12 nov 2026",
+      "fuente": "Euribor.com.es",
+      "url": "https://www.euribor.com.es/2026/11/12/analisis-de-mercados-12-de-noviembre-de-2026-12-noviembre-2026/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Actualización EHE serotipo 7: cinco positivos en una explotación de Badajoz; Extremadura da por erradicado su brote de brucelosis",
+          "ambito": "España",
+          "resumen": "Cinco animales positivos a EHE-7 en una explotación de Fuenlabrada de los Montes (Badajoz), sin bajas. Extremadura levanta las restricciones por la brucelosis bovina de agosto y sigue siendo indemne. Sin novedades en el País Vasco ni en Navarra.",
+          "detalle": "Según Interempresas (12 de noviembre), el consejero Juan José García da por erradicado el brote de brucelosis de agosto tras repetir las pruebas en las explotaciones del radio de seguridad, todas negativas. Se sacrificaron unas 3.050 reses y las indemnizaciones suman 1.595.594,78 € (50 % Junta, 50 % Estado). En la misma comparecencia informó de cinco positivos a enfermedad hemorrágica epizoótica serotipo 7 en una explotación de Fuenlabrada de los Montes, sin animales muertos, y de que no hay casos de virus Shamonda en la región. Recordatorio: frente al serotipo 7 no hay vacuna y los movimientos peninsulares siguen libres si no hay signos clínicos.\n\nQué puede significar: el serotipo 7 se sigue confirmando en el sur; en el norte el riesgo es bajo con el frío, pero conviene revisar clínicamente y desinsectar los animales comprados en Extremadura, Andalucía o Castilla-La Mancha.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-12",
+          "fuente": "Interempresas",
+          "url": "https://www.interempresas.net/vacuno-leche/669398-Extremadura-da-por-erradicado-el-brote-de-brucelosis-bovina-del-pasado-mes-de-agosto.html"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Galicia: una gran industria láctea prepara una subida de 1,5 céntimos/l y Unións Agrarias la considera insuficiente",
+          "ambito": "España",
+          "resumen": "Primera señal de subida en origen: oferta de +1,5 céntimos por litro para contratos de cuatro meses. El sindicato pide no firmar hasta cerrar la negociación.",
+          "detalle": "Según Interempresas (13 de noviembre), Óscar Pose, responsable lácteo de Unións Agrarias, confirma que una de las principales industrias de Galicia prepara esa oferta. El sindicato la ve corta tras las rebajas de la renovación anterior y con los costes de producción al alza. La mayoría de las industrias aún no han presentado ofertas y esperan a ver qué hacen sus competidoras. Contexto: la Lonja de León mantuvo el miércoles 0,475 €/l para octubre–diciembre y la media europea subió en octubre.\n\nQué puede significar: el precio en origen podría empezar a moverse al alza en la renovación de contratos de invierno; es probable que las industrias del norte sigan la misma pauta en las próximas semanas.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-13",
+          "fuente": "Interempresas (Unións Agrarias)",
+          "url": "https://www.interempresas.net/vacuno-leche/669532-Unions-Agrarias-considera-insuficiente-posible-subida-1-5-centimos-precio-leche.html"
+        },
+        {
+          "titular": "Observatorio UE: mantequilla a 403 €/100 kg y leche entera en polvo a 385, muy por encima de hace un año",
+          "ambito": "UE",
+          "resumen": "Medias UE con datos hasta el 8 de noviembre: mantequilla 403 (+66 % interanual), entera en polvo 385 (+83 %), desnatada 354 (−27 %), suero 185 (+13 %).",
+          "detalle": "Según el resumen de IndexBox del informe del Observatorio del Mercado de la Leche de la Comisión Europea (12 de noviembre), los quesos están por debajo de hace un año: Emmental 548 €/100 kg (−12 %), Gouda 398 (−10 %), Cheddar 321 (−27 %) y Edam 387. La fuente solo da variación interanual, no semanal.\n\nQué puede significar: la grasa láctea sigue cara en Europa y sostiene el valor de la leche con buen porcentaje de grasa; los quesos, que absorben mucha leche del norte, siguen flojos.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-12",
+          "fuente": "IndexBox (Milk Market Observatory)",
+          "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-milk-market-observatory-report-dated-12-november-2026/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Los cereales siguen bajando en las lonjas, con el maíz a la cabeza: Binéfar 245 €/t (−2) y Zaragoza −4",
+          "ambito": "España",
+          "resumen": "En la primera parte de la semana el maíz baja 4 € en Zaragoza y 2 € en Binéfar; trigo y cebada ceden 1 € en Binéfar. En Binéfar la paja y los forrajes repiten.",
+          "detalle": "Según Agropopular (12 de noviembre), la tendencia bajista continúa y el maíz es el protagonista. En Binéfar el maíz queda en 245 €/t y el trigo y la cebada entre 242 y 254 €/t (−1). En León sigue sin acuerdo para el maíz. En Chicago, el jueves 12 el trigo cayó un 2,8 % y el maíz un 1,3 % (Ruralnet), por un dólar en máximos de año y medio, el lento ritmo de exportaciones de EE. UU. y buen clima en Sudamérica; la soja apenas bajó (−0,2 %) gracias a las compras chinas.\n\nQué puede significar: el cereal para pienso sigue abaratándose en el valle del Ebro, mientras los forrajes (alfalfa, veza) suben; el coste de los concentrados ayuda, el del forraje comprado no.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-12",
+          "fuente": "Agropopular",
+          "url": "https://www.agropopular.com/cereales-comentario-121126"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Actualización: Witkoff y Kushner se reúnen con Putin en Moscú tras Abu Dabi",
+          "ambito": "mundo",
+          "resumen": "Los enviados de EE. UU. llegaron el jueves a Moscú para hablar con Putin de vías para acabar la guerra. El único resultado concreto de Abu Dabi sigue siendo un gran canje de prisioneros.",
+          "detalle": "Según Europa Press (vía Infobae, 12 de noviembre), Witkoff y Kushner fueron recibidos por Kirill Dmitriev; Yuri Ushakov anunció una reunión por la mañana. El negociador ruso Vladimir Medinski dijo creer que las partes podrían estar más cerca de un acuerdo. En los mercados, la falta de avances se citó el jueves como uno de los factores del trigo en Chicago, que aun así cayó por el dólar fuerte.\n\nQué puede significar: sin cambios por ahora para el grano del mar Negro; cualquier anuncio de alto el fuego presionaría a la baja el trigo y el maíz.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-12",
+          "fuente": "Infobae (Europa Press)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/12/witkoff-y-kushner-llegan-a-moscu-para-abordar-con-putin-posibles-vias-para-acabar-la-guerra-en-ucrania/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El Brent rebota un 3,4 % y cierra a 95,9 $",
+          "ambito": "mundo",
+          "resumen": "Tras abrir el jueves en torno a 91,7 $, el Brent cerró a 95,89 $ (+3,37 %) y el WTI a 88,70 $ (+2,51 %). El gasóleo agrícola sigue sin dato nuevo (último: en torno a 1,70 €/l).",
+          "detalle": "Según TV Azteca (cierre del 12 de noviembre), el petróleo subió más de un 3 % en una jornada de caídas en Wall Street por amenazas arancelarias de Trump. Por la mañana, Euribor.com.es situaba el Brent en 91,69 $ y señalaba el estrecho de Ormuz como principal riesgo geopolítico; el bono alemán a 10 años estaba en el 3,31 % y el BCE (Makhlouf) pidió esperar a las proyecciones de diciembre.\n\nQué puede significar: el crudo no acaba de bajar; el gasóleo y los fertilizantes seguirán caros este invierno, y los tipos altos encarecen la financiación de inversiones.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-12",
+          "fuente": "TV Azteca",
+          "url": "https://www.tvazteca.com/aztecanoticias/wall-street-pierde-el-paso-y-arrastra-a-la-bolsa-mexicana-asi-termino-el-jueves/"
+        },
+        {
+          "titular": "Actualización: publicadas en el BOPV las ayudas vascas de 36 € por vaca de leche",
+          "ambito": "local",
+          "resumen": "Se calculan de oficio, sin solicitud: 36 € por vaca de aptitud lechera de más de 24 meses (en SITRAN a 21 de junio). La propuesta provisional sale en el Tablón electrónico en un máximo de 15 días desde el 9 de noviembre.",
+          "detalle": "Según Irekia (Gobierno Vasco), la orden se publicó en el BOPV el 9 de noviembre. Para vacuno de leche (línea Oriente Próximo) se descuentan las ayudas al gasóleo ya cobradas; el vacuno de carne recibe 60 € por animal no lechero de más de 24 meses (línea sequía). Tope de 15.000 € por beneficiario (minimis), mínimo de 300 € y un 5 % más para titulares mujeres, jóvenes menores de 41 años o titularidad compartida. Tras la propuesta provisional hay 10 días hábiles para aceptar, rechazar o alegar; es necesario estar dado de alta en el Registro Telemático de Terceros. Beneficia a 3.432 explotaciones, 193 de ellas de vacuno de leche.\n\nQué puede significar: recuerda a los clientes vascos que revisen el Tablón electrónico hacia el 24 de noviembre y que tengan al día el alta de terceros para cobrar.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-09",
+          "fuente": "Irekia (Gobierno Vasco)",
+          "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Renovación de contratos: si un ganadero comenta ofertas de subida (Galicia +1,5 c/l), aprovecha para calcular con él cuánto margen sobre alimentación le deja cada céntimo y cómo mejorarlo con eficiencia de ración.",
+    "Clientes vascos: recuérdales las ayudas de 36 €/vaca de leche (de oficio) y que tengan el alta en el Registro de Terceros; la propuesta provisional sale hacia el 24 de noviembre.",
+    "Maíz más barato y forraje más caro: buen momento para revisar el equilibrio concentrado/forraje y la calidad del silo de maíz recién ensilado.",
+    "Compras de animales del sur (Badajoz, Cádiz, Ciudad Real): revisión clínica y desinsectación por el serotipo 7 de la EHE, sin vacuna."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-14",
+      "evento": "Feria de San Martín (San Martin Azoka)",
+      "lugar": "Zegama (Gipuzkoa)",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-11-15",
+      "evento": "Feria de Ganado de Mungia",
+      "lugar": "Mungia (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "hacia el 24 nov",
+      "evento": "Propuesta provisional de las ayudas vascas (36 €/vaca de leche) en el Tablón electrónico; después, 10 días hábiles para alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "hasta el 31 dic",
+      "evento": "Galicia exige 28 días de vigilancia al bovino de otras comunidades (dermatosis nodular)",
+      "lugar": "Galicia",
+      "url": "https://www.agronewscastillayleon.com/galicia-dermatosis-nodular-restricciones-diciembre-2026"
+    }
+  ]
+}
