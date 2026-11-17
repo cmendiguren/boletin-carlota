@@ -1,0 +1,290 @@
+{
+  "fecha": "2026-11-17",
+  "titulo": "Boletín Carlota – martes 17 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-17T07:20:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos comunicados en el País Vasco ni en Navarra, pero el serotipo 3 de lengua azul sigue apareciendo (nuevo foco en Ávila, confirmado el 10 de noviembre) y el MAPA mantiene ambas comunidades entre las zonas con circulación esta temporada."
+  },
+  "destacados": [
+    "Lengua azul: nuevo foco de serotipo 3 en Casavieja (Ávila), confirmado el 10 de noviembre; es la primera detección en esa zona y el S3 sigue activo pese al frío.",
+    "El Brent cae un 3,55 % hasta 92,44 $ (lunes 16) por la recuperación de las exportaciones de Oriente Medio: alivio posible para el gasóleo en las próximas semanas.",
+    "Navarra: UAGN constata que un tercio de las empresas agrarias necesitó más trabajadores de los que pudo contratar; y Copa-Cogeca convoca una marcha en Bruselas el 26 de noviembre contra los recortes de la PAC."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El crudo baja y puede aliviar el gasóleo, pero el Euríbor repunta (3,328 %) y la leche sigue sin subidas firmes: las ofertas de renovación se quedan en +1,5 a 3 c/l. Hoy hay subasta GDT."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca, Lonja de León (entregas oct–nov–dic)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l (sin cambios (referencia 3,7 % grasa y 3,10 % proteína))",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Leche de vaca, Galicia (ofertas de algunas industrias para nuevos contratos)",
+      "valor": "sin actualización hoy",
+      "variacion": "ofertas de +2 a +3 céntimos/l según Agromuralla (sin precio absoluto en la fuente)",
+      "fecha": "13 nov 2026",
+      "fuente": "Agroinformación (Agromuralla, vía Efe Agro)",
+      "url": "https://agroinformacion.com/agromuralla-denuncia-que-la-industria-propone-una-subida-insuficiente-de-entre-2-y-3-centimos-en-los-nuevos-contratos-de-la-leche/"
+    },
+    {
+      "producto": "Leche de vaca en origen, Castilla y León (Infolac) frente a coste de producción",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: precio 48,7 c/l (septiembre); coste medio 49,2 c/l (precio −12,6 % desde enero (55,7 c/l))",
+      "fecha": "estudio presentado el 15 nov 2026",
+      "fuente": "Moncloa.com (Junta de Castilla y León)",
+      "url": "https://www.moncloa.com/2026/11/15/coste-produccion-leche-castilla-leon-3468059/"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Global Dairy Trade: entera / desnatada en polvo / mantequilla",
+      "valor": "sin actualización hoy",
+      "variacion": "último evento (415, 3 nov): entera 3.971 USD/t (+5,9 %), desnatada 4.109 (+3,1 %), mantequilla 4.503 (−4,7 %). El evento 416 es hoy, 17 nov; resultados por la tarde",
+      "fecha": "3 nov 2026",
+      "fuente": "IndexBox (USDA AMS)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-prices-mixed-in-early-november-2026-auction/"
+    },
+    {
+      "producto": "Mantequilla / desnatada / entera en polvo, media UE (Observatorio de la Leche)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 403 / 354 / 385 €/100 kg (datos hasta el 8 nov)",
+      "fecha": "12 nov 2026",
+      "fuente": "IndexBox (Milk Market Observatory)",
+      "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-milk-market-observatory-report-dated-12-november-2026/"
+    },
+    {
+      "producto": "Maíz / trigo y cebada, Lonja de Binéfar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: maíz 245 €/t; trigo y cebada 242–254 €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agropopular",
+      "url": "https://www.agropopular.com/cereales-comentario-121126"
+    },
+    {
+      "producto": "Trigo pienso / cebada / maíz, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: trigo 226 €/t; cebada 221 €/t; maíz sin cotización (sin cambios (maíz sin acuerdo))",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Trigo III / cebada, Lonja de Lerma (Burgos)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: trigo 231 €/t; cebada 223 €/t (trigo −1; cebada =)",
+      "fecha": "13 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-lerma-13-noviembre-2026-precios"
+    },
+    {
+      "producto": "Futuros: maíz París (mar) / trigo París (dic) / maíz Chicago (dic) / soja Chicago (nov)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 259,50 / 233,50 / 159,00 / 414,32 €/t (semanal: +5,0 % / +3,5 % / +2,0 % / +5,7 %)",
+      "fecha": "13 nov 2026 (cierre semanal)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-13-noviembre-2026"
+    },
+    {
+      "producto": "Alfalfa en rama / alfalfa deshidratada / veza / paja de cebada, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 235 / 260 / 180 / 67 €/t (+10 / +5 / +10 / +2 €/t)",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), media España con impuestos",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,674 €/l (media semanal MAPA del 9 nov: 1,668 €/l (no incluye la ayuda de hasta 0,20 €/l))",
+      "fecha": "15 nov 2026",
+      "fuente": "Precios del Campo (Geoportal de Gasolineras, MITECO)",
+      "url": "https://preciosdelcampo.es/gasoleo-agricola/"
+    },
+    {
+      "producto": "Petróleo Brent (enero)",
+      "valor": "92,44 USD/barril",
+      "variacion": "−3,55 % (−3,40 $) frente al cierre del viernes (95,84 $)",
+      "fecha": "16 nov 2026",
+      "fuente": "Infobae (EFE)",
+      "url": "https://www.infobae.com/america/agencias/2026/11/16/el-brent-baja-un-355-hasta-9244-dolares-por-el-auge-de-exportaciones-en-oriente-medio/"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "3,328 %",
+      "variacion": "+0,035 en el día; media de noviembre hasta ahora 3,279 % (octubre: 3,239 %)",
+      "fecha": "13 nov 2026",
+      "fuente": "Euribor.com.es",
+      "url": "https://www.euribor.com.es/2026/11/16/precio-petroleo-hoy-16-noviembre-2026/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Lengua azul: nuevo foco de serotipo 3 en Casavieja (Ávila)",
+          "ambito": "España",
+          "resumen": "Castilla y León confirma el 10 de noviembre un foco de serotipo 3 en Casavieja (comarca veterinaria de Sotillo de la Adrada). Es una primera detección y aún no figura en el informe del MAPA del 12 de noviembre.",
+          "detalle": "Según Agronews Castilla y León (13 de noviembre), el foco tiene el código 2026/37; la noticia no precisa especie, animales positivos ni censo de la explotación. En Castilla y León ya había un foco de serotipo 3 en Segovia (7 de agosto, explotación de 618 vacas). La temporada vectorial empezó el 1 de abril de 2026 y el MAPA incluye al País Vasco y Navarra entre las comunidades con circulación confirmada esta temporada. No hay focos nuevos comunicados en el País Vasco ni en Navarra.\n\nQué puede significar: el serotipo 3 sigue dando focos en noviembre en zonas de interior; mantener la vacunación al día en novillas de reposición y en animales comprados, sobre todo si vienen de Castilla y León.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-13",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-avila-casavieja-2026"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "Sin datos nuevos de precio de la leche en origen desde ayer. Esta tarde se publican los resultados de la subasta Global Dairy Trade (evento 416).",
+          "detalle": "No se han encontrado noticias nuevas del sector lácteo del norte en las últimas 24 horas. Siguen vigentes los datos del boletín de ayer: ofertas de +1,5 a 3 c/l en la renovación de contratos en Galicia y coste medio de 49,2 c/l en Castilla y León. En el último evento GDT (3 de noviembre) subieron las leches en polvo y bajó la mantequilla.\n\nQué puede significar: el resultado del GDT de hoy dará una pista sobre si la recuperación de los polvos continúa.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "Global Dairy Trade (calendario)",
+          "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Navarra: un tercio de las empresas agrarias necesitó más trabajadores de los que pudo contratar (estudio de UAGN)",
+          "ambito": "local",
+          "resumen": "UAGN presenta un estudio financiado por el Servicio Navarro de Empleo: el 33 % de las empresas participantes no cubrió sus necesidades de personal y el 75 % está dispuesto a probar fórmulas nuevas, como las empresas de inserción.",
+          "detalle": "Según UAGN (difundido por Agrodigital el 16 de noviembre), el estudio parte de más de 600 empresas vinculadas al sindicato y de datos directos de unas 110 explotaciones. Los picos de demanda son de diciembre a marzo (poda) y en primavera; las zonas con más problemas, Tierra Estella, Ribera Baja y Zona Media. Los perfiles más pedidos son peones agrícolas, tractoristas, podadores y operarios polivalentes. Entre la formación prioritaria figuran el cuidado y bienestar animal y el manejo de maquinaria. El estudio no habla específicamente de vacuno de leche.\n\nQué puede significar: la falta de personal también pesa en las granjas de leche; todo lo que ahorre mano de obra (raciones más sencillas de preparar, menos incidencias sanitarias) tiene valor para el ganadero.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-16",
+          "fuente": "UAGN",
+          "url": "https://uagn.es/uagn-constata-la-falta-de-mano-de-obra-en-el-campo-navarro-y-abre-nuevas-vias-para-dar-respuesta-a-las-necesidades-de-contratacion/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Copa-Cogeca convoca una marcha en Bruselas el 26 de noviembre contra los recortes de la PAC",
+          "ambito": "UE",
+          "resumen": "Bajo el lema «NO CAP CUTS», coincidiendo con el Consejo Europeo extraordinario sobre el presupuesto de la UE. Piden una PAC ajustada a la inflación y sin recortes.",
+          "detalle": "Según Moncloa.com (16 de noviembre), la convocan Copa-Cogeca y la Irish Farmers Association, tras la concentración del viernes 13 ante la cumbre de la Comunidad Política Europea en Dublín, con representantes de España, Italia, Suecia, la República Checa y Francia. Las organizaciones reclaman tres cosas: presupuesto adaptado a la inflación, ningún recorte en las cuentas agrarias y reconocer el papel estratégico de la PAC. La respuesta de las instituciones está pendiente.\n\nQué puede significar: el reparto del próximo presupuesto europeo decidirá el peso de los pagos directos en la renta de las granjas de leche a partir de 2028.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-16",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/16/marcha-bruselas-pac-recortes-presupuesto-3469037/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El Brent cae un 3,55 % hasta 92,44 $ por la recuperación de las exportaciones en Oriente Medio",
+          "ambito": "mundo",
+          "resumen": "El lunes 16 el Brent para enero cerró en 92,44 $ (−3,40 $). La AIE prevé un excedente de oferta en el cuarto trimestre.",
+          "detalle": "Según EFE (vía Infobae, 16 de noviembre), la bajada se debe a señales de recuperación de los flujos de exportación de crudo en Oriente Medio. La AIE estima una oferta de 105 millones de barriles diarios en el cuarto trimestre, unos 1,7 millones por encima de la demanda. El precio queda lejos del máximo de 116 $ del 23 de octubre. El gasóleo B estaba en 1,674 €/l de media el 15 de noviembre (sin actualización hoy). Por su parte, el Euríbor a 12 meses marcó 3,328 % el 13 de noviembre (media de noviembre 3,279 %, por encima de octubre).\n\nQué puede significar: si el crudo se mantiene por debajo de 95 $, el gasóleo agrícola debería bajar algo en las próximas semanas; las cuotas de préstamos variables siguen subiendo.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-16",
+          "fuente": "Infobae (EFE)",
+          "url": "https://www.infobae.com/america/agencias/2026/11/16/el-brent-baja-un-355-hasta-9244-dolares-por-el-auge-de-exportaciones-en-oriente-medio/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Lengua azul: con el nuevo foco de serotipo 3 en Ávila, pregunta si han comprado animales de Castilla y León y revisa que la reposición esté vacunada (serotipos 3 y 8).",
+    "Mano de obra: en granjas con poco personal, plantea cómo simplificar la preparación de la ración o el manejo de la alimentación para ahorrar horas.",
+    "Coste por litro: con el gasóleo a punto de aflojar y los préstamos más caros, el margen se juega en la eficiencia alimentaria; ofrece calcular el coste de alimentación por litro.",
+    "GDT de hoy: si los ganaderos preguntan por precios, los resultados de esta tarde son la primera referencia de cómo viene el mercado para la renovación de contratos."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-17",
+      "evento": "Subasta Global Dairy Trade (evento 416)",
+      "lugar": "En línea",
+      "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+    },
+    {
+      "fecha": "2026-11-19",
+      "evento": "Presentación del informe COOVA–UCAN \"Continuidad y futuro de las explotaciones ganaderas\" (12:00, entrada libre)",
+      "lugar": "UPNA, campus de Arrosadia, Pamplona",
+      "url": "https://www.plazanueva.com/navarra/90-ganaderos-coova-proximos-dejar-actividad-tiene-relevo/20261114150526329391.html"
+    },
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "2026-11-22",
+      "evento": "XXVII Feria Agrícola de Invierno (fecha prevista en el calendario de junio)",
+      "lugar": "Zaldibar (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hacia el 24 nov",
+      "evento": "Propuesta provisional de las ayudas vascas (36 €/vaca de leche) en el Tablón electrónico; después, 10 días hábiles para alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+    },
+    {
+      "fecha": "2026-11-26",
+      "evento": "Marcha de Copa-Cogeca «NO CAP CUTS» contra los recortes de la PAC, durante el Consejo Europeo extraordinario sobre el presupuesto",
+      "lugar": "Bruselas",
+      "url": "https://www.moncloa.com/2026/11/16/marcha-bruselas-pac-recortes-presupuesto-3469037/"
+    },
+    {
+      "fecha": "2026-11-30",
+      "evento": "Feria de San Andrés con concurso de queso Idiazabal",
+      "lugar": "Eibar (Gipuzkoa)",
+      "url": "https://www.quesoidiazabal.eus/datos/agenda/archivo12/calendario_de_ferias_y_concursos_2026.pdf"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Subasta Global Dairy Trade (evento 417)",
+      "lugar": "En línea",
+      "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+    }
+  ]
+}
