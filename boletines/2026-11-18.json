@@ -1,0 +1,339 @@
+{
+  "fecha": "2026-11-18",
+  "titulo": "Boletín Carlota – miércoles 18 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-18T07:05:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "No se han encontrado focos nuevos comunicados en el País Vasco ni en Navarra, pero sigue la temporada de vectores: el MAPA mantiene ambas comunidades con circulación o detecciones de lengua azul esta temporada y el virus Shamonda ya tuvo un caso en Gipuzkoa en octubre."
+  },
+  "destacados": [
+    "GDT 416: el índice se queda plano (0,0 %), con las grasas a la baja (mantequilla −6,5 %, AMF −8,2 %) y los polvos al alza (entera +2,7 %, desnatada +2,2 %).",
+    "El Brent repunta a 93,14 $ por la tensión en Ormuz y el euríbor sube al 3,361 %, cerca del máximo del año; el gasóleo B baja a 1,671 €/l.",
+    "Galicia: una posible alianza Lactogal–Clun–Pascual dejaría a tres grupos con cerca del 40 % de la leche recogida."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El gasóleo B está 3,8 céntimos por debajo de hace un mes, pero el euríbor sigue subiendo y la leche no despega: el GDT de ayer no da señal de subida general. Sin cambios claros en el margen."
+  },
+  "precios": [
+    {
+      "producto": "Global Dairy Trade (evento 416): índice y precio medio",
+      "valor": "0,0 %; 4.182 USD/t",
+      "variacion": "índice sin cambios frente al evento 415; 39.777 t vendidas",
+      "fecha": "17 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/global-dairy-trade-416/"
+    },
+    {
+      "producto": "GDT 416: leche entera en polvo",
+      "valor": "4.081 USD/t",
+      "variacion": "+2,7 %",
+      "fecha": "17 nov 2026",
+      "fuente": "IndexBox (USDA AMS)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-event-416-mixed-price-moves-across-dairy-commodities/"
+    },
+    {
+      "producto": "GDT 416: leche desnatada en polvo",
+      "valor": "4.187 USD/t",
+      "variacion": "+2,2 %",
+      "fecha": "17 nov 2026",
+      "fuente": "IndexBox (USDA AMS)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-event-416-mixed-price-moves-across-dairy-commodities/"
+    },
+    {
+      "producto": "GDT 416: mantequilla",
+      "valor": "4.205 USD/t",
+      "variacion": "−6,5 %",
+      "fecha": "17 nov 2026",
+      "fuente": "IndexBox (USDA AMS)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-event-416-mixed-price-moves-across-dairy-commodities/"
+    },
+    {
+      "producto": "GDT 416: grasa anhidra (AMF) / cheddar",
+      "valor": "4.878 / 3.815 USD/t",
+      "variacion": "−8,2 % / −4,1 %",
+      "fecha": "17 nov 2026",
+      "fuente": "IndexBox (USDA AMS)",
+      "url": "https://www.indexbox.io/blog/global-dairy-trade-event-416-mixed-price-moves-across-dairy-commodities/"
+    },
+    {
+      "producto": "Leche de vaca, Lonja de León (entregas oct–nov–dic)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Leche de vaca en origen, Galicia (media citada)",
+      "valor": "47,9 c/l",
+      "variacion": "la fuente no indica el mes de referencia",
+      "fecha": "publicado el 17 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/galicia-tres-gigantes-lacteos-40-leche/"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Mantequilla / desnatada / entera en polvo, media UE (Observatorio de la Leche)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 403 / 354 / 385 €/100 kg (datos hasta el 8 nov)",
+      "fecha": "12 nov 2026",
+      "fuente": "IndexBox (Milk Market Observatory)",
+      "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-milk-market-observatory-report-dated-12-november-2026/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja de Binéfar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 245 (−2) / 242 (−1) / 253 (−1) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja del Ebro",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 252 (−4) / 238 (−2) / 255 (−2) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Futuros: maíz París (mar) / trigo París (dic) / maíz Chicago (dic) / soja Chicago (nov)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 259,50 / 233,50 / 159,00 / 414,32 €/t (semanal: +5,0 % / +3,5 % / +2,0 % / +5,7 %)",
+      "fecha": "13 nov 2026 (cierre semanal)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-mundiales-cereales-13-noviembre-2026"
+    },
+    {
+      "producto": "Alfalfa en rama / alfalfa deshidratada / veza / paja de cebada, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 235 / 260 / 180 / 67 €/t",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), media España",
+      "valor": "1,671 €/l",
+      "variacion": "−3,8 céntimos frente a hace un mes (1,709 €/l)",
+      "fecha": "16 nov 2026",
+      "fuente": "AgroCLM (Geoportal de Gasolineras, MITECO)",
+      "url": "https://www.agroclm.com/2026/11/16/el-precio-del-gasoleo-agricola-b-se-situa-en-1671-euros-por-litro-en-espana/"
+    },
+    {
+      "producto": "Petróleo Brent (enero)",
+      "valor": "93,14 USD/barril",
+      "variacion": "+0,76 % (+0,70 $) frente al cierre del lunes (92,44 $)",
+      "fecha": "17 nov 2026",
+      "fuente": "El Periódico de la Energía",
+      "url": "https://elperiodicodelaenergia.com/el-crudo-brent-sube-un-0-76-y-supera-los-93-dolares-por-las-tensiones-en-oriente-medio"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "3,361 %",
+      "variacion": "+0,011 en el día; media provisional de noviembre 3,286 % (octubre: 3,239 %)",
+      "fecha": "17 nov 2026",
+      "fuente": "Rankia",
+      "url": "https://www.rankia.com/blog/mejores-hipotecas/7555429-euribor-hoy-18-noviembre-2026"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "No se han encontrado focos ni medidas nuevas en las últimas 24–48 horas para vacuno en el País Vasco, Navarra o el resto de España. Sigue vigente lo publicado hasta ayer.",
+          "detalle": "La última referencia sigue siendo el informe del MAPA del 12 de noviembre y el foco de serotipo 3 de lengua azul en Casavieja (Ávila), confirmado el 10 de noviembre. En ese listado, el País Vasco figura con presencia del virus en su territorio y Navarra con detecciones notificadas durante la temporada. Sobre el virus Shamonda no se han encontrado casos nuevos en la zona desde el de Donostialdea (Gipuzkoa), comunicado el 26 de octubre.\n\nQué puede significar: que no haya novedades no significa que haya terminado el riesgo; conviene seguir vigilando abortos y terneros con malformaciones, que pueden aparecer semanas después de la infección.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "Agronews Castilla y León (informe MAPA del 12 nov)",
+          "url": "https://www.agronewscastillayleon.com/lengua-azul-avila-casavieja-2026"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "GDT 416: índice plano, con la grasa a la baja y los polvos al alza",
+          "ambito": "mundo",
+          "resumen": "La subasta del 17 de noviembre cierra en 0,0 %, con un precio medio de 4.182 USD/t. Caen mantequilla (−6,5 %) y AMF (−8,2 %); suben leche entera (+2,7 %) y desnatada en polvo (+2,2 %).",
+          "detalle": "Según eDairy News, se vendieron 39.777 toneladas, con 120 compradores ganadores de 152 participantes. Según IndexBox, con datos del USDA, los precios medios fueron: leche entera en polvo 4.081 USD/t, desnatada 4.187, mantequilla 4.205, AMF 4.878, cheddar 3.815 (−4,1 %) y mozzarella 4.036 (−1,6 %). Es la segunda subasta seguida en que los polvos suben y la mantequilla baja: en el evento 415 (3 de noviembre) el índice había subido un 3 %. La próxima subasta es el 1 de diciembre.\n\nQué puede significar: el mercado valora más la proteína y menos la grasa que hace unas semanas. No apunta a una subida general que respalde por sí sola mejores contratos de leche.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "eDairy News e IndexBox (USDA AMS)",
+          "url": "https://www.indexbox.io/blog/global-dairy-trade-event-416-mixed-price-moves-across-dairy-commodities/"
+        },
+        {
+          "titular": "Galicia: tres grupos podrían concentrar cerca del 40 % de la leche con una alianza Lactogal–Clun–Pascual",
+          "ambito": "España",
+          "resumen": "El grupo resultante sería el segundo receptor de leche en Galicia, tras Lactalis y por delante de Capsa. La operación todavía no está cerrada.",
+          "detalle": "Según eDairy News (17 de noviembre), Lactogal, Clun y Pascual sumarían más del 13 % de la recogida gallega (Celta, en torno al 6 %; Clun, 4 %; Pascual, 3 %). Lactalis tendría unas 500.000 toneladas (16 %) y Capsa más del 11 %. Con los proveedores de Mercadona, la concentración llegaría al 51 %. Galicia supone cerca del 42 % de la leche española. Food Retail informó el 6 de noviembre, citando a El Confidencial, de que Pascual negocia dar entrada a Lactogal en su negocio lácteo, con condiciones y control aún por definir. Ninguna de las dos noticias menciona el País Vasco ni Navarra.\n\nQué puede significar: menos compradores en la principal cuenca lechera pueden pesar en la negociación de contratos en toda España; en la zona, conviene seguir si cambia algo en las rutas de recogida.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "eDairy News",
+          "url": "https://es.edairynews.com/galicia-tres-gigantes-lacteos-40-leche/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Chicago: el trigo sube un 1,4 % por los ataques al puente de Crimea; maíz mixto y soja con leves pérdidas",
+          "ambito": "mundo",
+          "resumen": "Sesión del martes 17 de noviembre. Aún no se han encontrado precios de las lonjas españolas de esta semana.",
+          "detalle": "Según el resumen de la Bolsa de Comercio de Rosario recogido por Ruralnet, el trigo subió un 1,4 % en Chicago por los ataques ucranianos al puente de Crimea, con el mar Negro de nuevo en el foco. El maíz cerró mixto y la soja con ligeras pérdidas; la fuente no da precios de cierre. En España, la última referencia es la de la semana pasada, cuando el informe del USDA frenó las caídas: en Binéfar, maíz a 245 €/t, cebada a 242 y trigo a 253.\n\nQué puede significar: si el mar Negro sigue tenso, el trigo forrajero puede dejar de bajar; conviene esperar a las lonjas de esta semana antes de sacar conclusiones para la ración.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "Ruralnet (Bolsa de Comercio de Rosario)",
+          "url": "https://ruralnet.com.ar/granos-17-noviembre-soja-sorgo/"
+        },
+        {
+          "titular": "Unión de Uniones entrega 100 compromisos a los partidos y aplaza sus movilizaciones hasta después del 29N",
+          "ambito": "España",
+          "resumen": "Pide reconocer la agricultura y la ganadería como sectores estratégicos y una PAC 2028–2034 con presupuesto propio.",
+          "detalle": "Según Demócrata (13 de noviembre), el documento recoge 100 compromisos en 13 prioridades, entre ellos una reforma urgente de los seguros agrarios. Según Agronews (9 de noviembre), la organización decidió aplazar las movilizaciones hasta después de las elecciones generales del 29 de noviembre y estima que cierran unas 2,5 explotaciones lácteas al día (dato de la propia organización, de octubre).\n\nQué puede significar: las reivindicaciones del campo quedan pendientes del nuevo Gobierno, sin protestas previstas por parte de esta organización antes de las elecciones.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-13",
+          "fuente": "Demócrata",
+          "url": "https://www.democrata.es/economia/union-de-uniones-exige-al-proximo-gobierno-que-agricultura-y-ganaderia-se-reconozcan-como-sectores-estrategicos/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "Nueva tensión en Ormuz: el ataque de EE. UU. en Qeshm y los incidentes en el Golfo devuelven el Brent por encima de 93 $",
+          "ambito": "mundo",
+          "resumen": "El Brent sube un 0,76 % tras un ataque de EE. UU. en la isla de Qeshm y nuevos incidentes en el Golfo, aunque en lo que va de mes acumula una caída del 20 %.",
+          "detalle": "Según Infobae y El Periódico de la Energía (17 de noviembre), EE. UU. atacó un emplazamiento de misiles en Qeshm. Irán informa de un ataque con dron contra un radar en una base de Baréin, del derribo de dos drones estadounidenses y de al menos tres buques incendiados tras chocar con minas en Ormuz; son datos de la parte iraní. Los hutíes atacaron además el oleoducto saudí Este-Oeste. En sentido contrario, la AIE prevé que la oferta supere a la demanda en el cuarto trimestre.\n\nQué puede significar: el alivio del gasóleo depende de que no se agrave el conflicto; un cierre prolongado de la zona también encarecería los fertilizantes nitrogenados.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "Infobae",
+          "url": "https://www.infobae.com/america/mundo/2026/11/17/el-brent-sube-a-9314-dolares-aunque-acumula-una-caida-mensual-del-20/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El euríbor sube al 3,361 %, a dos centésimas del máximo del año",
+          "ambito": "UE",
+          "resumen": "El euríbor a 12 meses marcó 3,361 % el martes 17 (+0,011). La media provisional de noviembre va por 3,286 %, por encima de octubre (3,239 %).",
+          "detalle": "Según Rankia, el lunes 16 cerró en 3,350 % y el máximo diario del año es 3,379 % (25 de septiembre). La media de noviembre se calcula con 12 de las 21 sesiones del mes; hace un año, en noviembre de 2025, fue de 2,217 %, según Euríbor Diario. Rankia señala que el mercado espera otra subida del BCE.\n\nQué puede significar: los préstamos variables de las granjas que se revisen con este dato pagarán más de un punto por encima de hace un año, un coste a tener en cuenta en inversiones como robots, naves o compra de tierra.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "Rankia",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7555429-euribor-hoy-18-noviembre-2026"
+        },
+        {
+          "titular": "El gasóleo agrícola baja a 1,671 €/l, 3,8 céntimos menos que hace un mes",
+          "ambito": "España",
+          "resumen": "Media española del lunes 16 de noviembre. La ayuda de 20 céntimos por litro al gasóleo agrícola sigue prorrogada hasta el 31 de diciembre.",
+          "detalle": "Según AgroCLM, con datos del Geoportal de Gasolineras del MITECO, el precio medio era de 1,709 €/l hace un mes; la provincia más barata es Cuenca (1,556 €/l) y la zona más cara, Baleares (1,812 €/l). Según Moncloa.com (12 de noviembre), las ayudas al gasóleo profesional, agrícola y pesquero se mantienen en 20 céntimos hasta final de año.\n\nQué puede significar: la bajada puede frenarse si el crudo sigue repuntando; la ayuda no cambia de aquí a final de año.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-16",
+          "fuente": "AgroCLM (MITECO)",
+          "url": "https://www.agroclm.com/2026/11/16/el-precio-del-gasoleo-agricola-b-se-situa-en-1671-euros-por-litro-en-espana/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "GDT: si te preguntan por el mercado, la subasta de ayer no da motivos para esperar una subida general; la proteína gana peso frente a la grasa, buen pie para hablar de sólidos en leche y de la ración.",
+    "Contratos: pregunta a qué industria entrega y cuándo renueva. Con la industria concentrándose, conocer su coste por litro le da más base para negociar; ofrece calcular el coste de alimentación por litro.",
+    "Sanidad: aunque hoy no hay focos nuevos, repasa con el ganadero abortos, repeticiones y terneros con malformaciones de las últimas semanas, y que comunique cualquier sospecha a su veterinario.",
+    "Costes financieros: con el euríbor al alza, quien tenga préstamos variables notará la revisión; cada mejora de eficiencia alimentaria ayuda a compensarla."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-19",
+      "evento": "Presentación del informe COOVA–UCAN \"Continuidad y futuro de las explotaciones ganaderas\" (12:00, entrada libre)",
+      "lugar": "UPNA, campus de Arrosadia, Pamplona",
+      "url": "https://www.plazanueva.com/navarra/90-ganaderos-coova-proximos-dejar-actividad-tiene-relevo/20261114150526329391.html"
+    },
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "2026-11-22",
+      "evento": "XXVII Feria Agrícola de Invierno (fecha prevista en el calendario de junio)",
+      "lugar": "Zaldibar (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hacia el 24 nov",
+      "evento": "Propuesta provisional de las ayudas vascas (36 €/vaca de leche) en el Tablón electrónico; después, 10 días hábiles para alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+    },
+    {
+      "fecha": "2026-11-26",
+      "evento": "Marcha de Copa-Cogeca «NO CAP CUTS» contra los recortes de la PAC, durante el Consejo Europeo extraordinario sobre el presupuesto",
+      "lugar": "Bruselas",
+      "url": "https://www.moncloa.com/2026/11/16/marcha-bruselas-pac-recortes-presupuesto-3469037/"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Elecciones generales",
+      "lugar": "España",
+      "url": "https://www.agronewscastillayleon.com/union-uniones-aplaza-tractoradas-elecciones-29n"
+    },
+    {
+      "fecha": "2026-11-30",
+      "evento": "Feria de San Andrés con concurso de queso Idiazabal",
+      "lugar": "Eibar (Gipuzkoa)",
+      "url": "https://www.quesoidiazabal.eus/datos/agenda/archivo12/calendario_de_ferias_y_concursos_2026.pdf"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Subasta Global Dairy Trade (evento 417)",
+      "lugar": "En línea",
+      "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+    }
+  ]
+}
