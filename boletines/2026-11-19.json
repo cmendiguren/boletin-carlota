@@ -1,0 +1,305 @@
+{
+  "fecha": "2026-11-19",
+  "titulo": "Boletín Carlota – jueves 19 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-19T07:10:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "No hay focos nuevos de lengua azul comunicados en el País Vasco ni en Navarra, pero ambas siguen en la lista de circulación de esta temporada y el virus sigue activo en noviembre (nuevo serotipo 1 en vacuno en Salamanca)."
+  },
+  "destacados": [
+    "Lengua azul: tres focos nuevos en Ávila (S3), Salamanca (S1, en vacuno) y Cádiz (S4); sin focos nuevos en el País Vasco ni en Navarra.",
+    "Chicago: el trigo cae un 4 % hasta su mínimo desde enero y el maíz un 2,6 % por el dólar fuerte; en León, cebada a 223 €/t (+2).",
+    "Contratos de leche: en Galicia las industrias ofrecen +1,5 c/l y el SLG pide la intervención de la AICA; el euríbor frena en 3,351 %."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Cereales y crudo bajan, lo que alivia algo el coste de la ración y del gasóleo, pero la leche apenas sube en los contratos (+1,5 c/l en Galicia) y los tipos de interés siguen altos. Sin cambio claro en el margen."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca en origen, Galicia (media septiembre, según SLG)",
+      "valor": "45,5 c/l",
+      "variacion": "coste de producción estimado: 47,4 c/l (Fundación Juana de Vega)",
+      "fecha": "septiembre 2026 (publicado el 18 nov)",
+      "fuente": "Galiciapress (SLG)",
+      "url": "https://galiciapress.es/articulo/economia/2026-11-18/6096663-slg-rechaza-contratos-leche-debajo-costes-produccion-exige-intervencion-aica"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche de vaca, Lonja de León (entregas oct–nov–dic)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Global Dairy Trade (evento 416): índice y precio medio",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,0 %; 4.182 USD/t (mantequilla −6,5 %, entera en polvo +2,7 %, desnatada +2,2 %)",
+      "fecha": "17 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/global-dairy-trade-416/"
+    },
+    {
+      "producto": "Mantequilla / desnatada / entera en polvo, media UE (Observatorio de la Leche)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 403 / 354 / 385 €/100 kg (datos hasta el 8 nov)",
+      "fecha": "12 nov 2026",
+      "fuente": "IndexBox (Milk Market Observatory)",
+      "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-milk-market-observatory-report-dated-12-november-2026/"
+    },
+    {
+      "producto": "Trigo pienso / cebada / maíz, Lonja de León",
+      "valor": "226 / 223 / sin cotizar €/t",
+      "variacion": "= / +2 / —",
+      "fecha": "18 nov 2026",
+      "fuente": "Lonja de León",
+      "url": "https://www.lonjadeleon.es/lonja-cereal-18-11-2026/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja de Binéfar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 245 (−2) / 242 (−1) / 253 (−1) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja del Ebro",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 252 (−4) / 238 (−2) / 255 (−2) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Futuros Chicago: trigo (dic) / maíz (dic) / harina de soja (dic)",
+      "valor": "209,44 / 171,45 / ~370 USD/t",
+      "variacion": "−8,82 (−4 %) / −4,63 (−2,6 %) / ligera subida",
+      "fecha": "18 nov 2026 (cierre)",
+      "fuente": "Ruralnet (Bolsa de Comercio de Rosario)",
+      "url": "https://ruralnet.com.ar/granos-soja-maiz-trigo-18-noviembre/"
+    },
+    {
+      "producto": "Alfalfa en rama / alfalfa deshidratada / veza / paja de cebada, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 235 / 260 / 180 / 67 €/t",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), media España",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,671 €/l (−3,8 céntimos en un mes)",
+      "fecha": "16 nov 2026",
+      "fuente": "AgroCLM (Geoportal de Gasolineras, MITECO)",
+      "url": "https://www.agroclm.com/2026/11/16/el-precio-del-gasoleo-agricola-b-se-situa-en-1671-euros-por-litro-en-espana/"
+    },
+    {
+      "producto": "Petróleo Brent",
+      "valor": "por debajo de 92 USD/barril (sin cifra exacta en la fuente)",
+      "variacion": "baja frente a los 93,14 $ del 17 nov",
+      "fecha": "18 nov 2026",
+      "fuente": "El blog del Euríbor (Reuters)",
+      "url": "https://www.euribor.com.es/2026/11/18/precio-petroleo-hoy-18-noviembre-2026/"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "3,351 %",
+      "variacion": "−0,010 en el día; media provisional de noviembre 3,291 % (octubre: 3,239 %)",
+      "fecha": "18 nov 2026",
+      "fuente": "Rankia",
+      "url": "https://www.rankia.com/blog/mejores-hipotecas/7557440-euribor-hoy-19-noviembre-2026"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Lengua azul: nuevos focos en Ávila (serotipo 3), Salamanca (serotipo 1, en vacuno) y Cádiz (serotipo 4)",
+          "ambito": "España",
+          "resumen": "El MAPA comunica tres focos nuevos desde el 12 de noviembre. No hay focos nuevos en el País Vasco ni en Navarra, que siguen en la lista de zonas con circulación esta temporada.",
+          "detalle": "Según la actualización del MAPA recogida por Diario Veterinario (18 de noviembre), los nuevos focos son: Ávila, serotipo 3, en una explotación de ovino; Salamanca, serotipo 1, en una explotación de vacuno; y Cádiz, serotipo 4. La Gaceta de Salamanca precisa que el foco de Salamanca está en Calzada de Don Diego (191 animales susceptibles) y que es el primer serotipo 1 de la campaña en Castilla y León; el de Ávila está en Casavieja (262 ovejas susceptibles, 20 afectadas). En la temporada 2026-2027 (desde el 1 de abril) hay circulación confirmada en Galicia, Asturias, País Vasco, La Rioja, Navarra, Huesca, Lleida, Girona, Extremadura, Ciudad Real, Albacete, Toledo, Huelva, Sevilla, Cádiz, Córdoba, Jaén, Segovia, Ávila y Salamanca. El Reglamento de Ejecución (UE) 501/2026 obliga a notificar de inmediato la primera detección de cada serotipo en cada provincia. El MAPA insiste en vacunar frente a los serotipos circulantes.\n\nQué puede significar: el serotipo 1 aparece en vacuno en la meseta en pleno noviembre, señal de que los vectores siguen activos; en la zona conviene revisar qué serotipos cubre la vacunación de cada explotación.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "Diario Veterinario (MAPA) y La Gaceta de Salamanca",
+          "url": "https://www.diarioveterinario.com/t/6096463/actualizacion-lengua-azul-espana-nuevos-focos-avila-s3-salamanca-s1-cadiz-s4"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Actualización contratos de leche: el Sindicato Labrego Galego rechaza las ofertas de +1,5 c/l y pide la intervención de la AICA",
+          "ambito": "España",
+          "resumen": "Según el SLG, la granja gallega media cobró 45,5 c/l en septiembre frente a un coste de producción de 47,4 c/l. Las industrias proponen +1,5 c/l al renovar contratos, que deben firmarse antes de que acabe noviembre.",
+          "detalle": "El SLG (18 de noviembre) denuncia un posible incumplimiento de la Ley de la Cadena Alimentaria (arts. 9.1.c y 12 ter de la Ley 12/2013) y pide que actúe la AICA, en Galicia y a nivel estatal. El coste de 47,4 c/l es la estimación 2026 de la Fundación Juana de Vega presentada en el Parlamento gallego. Según el sindicato, desde abril ningún estrato de producción de las estadísticas de la Consellería llega a ese coste; el 21 % de las granjas cobra menos de 39 c/l y ninguna de las que producen menos de 300.000 kg/año llega a 43 c/l. También critica el uso de la leche como producto reclamo en la distribución. La noticia no se refiere al País Vasco ni a Navarra.\n\nQué puede significar: la campaña de contratos de noviembre se cierra con subidas pequeñas frente a costes de alimentación que siguen altos; tener calculado el coste por litro de cada cliente es la mejor base para negociar.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "Galiciapress",
+          "url": "https://galiciapress.es/articulo/economia/2026-11-18/6096663-slg-rechaza-contratos-leche-debajo-costes-produccion-exige-intervencion-aica"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Chicago: el trigo cae un 4 % hasta su mínimo desde enero y el maíz un 2,6 %; la harina de soja aguanta",
+          "ambito": "mundo",
+          "resumen": "El dólar en máximos de 19 meses y la bajada del petróleo empujaron a la baja los cereales el 18 de noviembre. La soja cedió un 0,8 % y la harina de soja subió ligeramente.",
+          "detalle": "Según la Bolsa de Comercio de Rosario (vía Ruralnet), al cierre del 18 de noviembre el trigo de Chicago para diciembre quedó en 209,44 USD/t (−8,82) y el maíz de diciembre en 171,45 USD/t (−4,63); la soja de enero perdió en torno a un 0,8 % y la harina de soja de diciembre subió de forma leve (unos 370 USD/t). Reuters (vía Agronegocios) atribuye la caída al dólar fuerte por las expectativas de subidas de tipos y al descenso del crudo; el trigo marcó su nivel más bajo desde enero. La interrupción del tráfico en el mar de Azov tras el ataque al puente de Crimea se considera un factor moderado. En España, la Lonja de León del mismo día subió la cebada 2 €/t (223 €/t), mantuvo el trigo pienso en 226 €/t y dejó el maíz sin cotizar.\n\nQué puede significar: la bajada en Chicago anula la subida de la semana pasada y no apunta a encarecimiento del cereal pienso a corto plazo; la proteína (harina de soja) se mantiene más firme.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "Ruralnet (Bolsa de Comercio de Rosario) y Agronegocios (Reuters)",
+          "url": "https://ruralnet.com.ar/granos-soja-maiz-trigo-18-noviembre/"
+        },
+        {
+          "titular": "Actualización PAC: COAG calcula que el recorte del 20 % restaría 877,5 millones al año a las rentas agrarias españolas",
+          "ambito": "España",
+          "resumen": "Las ayudas directas bajarían un 18 %, según la estimación de COAG, que se suma a la marcha de Copa-Cogeca del 26 de noviembre en Bruselas.",
+          "detalle": "Según COAG (18 de noviembre), el recorte del 20 % previsto para la PAC 2028-2034 supondría una pérdida directa de 877,5 millones de euros al año, más de 6.140 millones en todo el periodo, con una caída del 18 % de las ayudas directas. La organización estima que, para compensarlo, los precios en origen deberían subir un 2,32 %, lo que en el consumidor supondría entre un 6,5 % y un 9,3 % más en alimentación. La marcha del 26 de noviembre empieza a las 14:00 en la Plaza de Luxemburgo y coincide con el Consejo Europeo sobre el marco financiero 2028-2034. COAG pide un presupuesto propio y protegido para la PAC y rechaza integrarla en fondos nacionales únicos.\n\nQué puede significar: en la negociación presupuestaria de diciembre se juega buena parte del pago básico de las explotaciones de leche a partir de 2028.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "Valencia Fruits (COAG)",
+          "url": "https://valenciafruits.com/el-recorte-previsto-de-la-pac-restaria-8775-millones-anuales-a-las-rentas-agrarias-espanolas"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent baja de 92 $: el excedente previsto por la AIE pesa más que la tensión en Ormuz",
+          "ambito": "mundo",
+          "resumen": "El crudo pierde lo ganado el lunes: la AIE prevé exceso de oferta en el cuarto trimestre y el riesgo en Ormuz pasa a segundo plano. La OPEP+ se reúne el 29 de noviembre.",
+          "detalle": "Según El blog del Euríbor (18 de noviembre, con datos de Reuters), el Brent cayó por debajo de 92 dólares por barril en la sesión asiática; la fuente no da la cotización exacta. El informe de la AIE del 13 de noviembre prevé un excedente mundial de crudo en el cuarto trimestre porque las exportaciones de Oriente Medio se recuperan más rápido que la demanda. Persisten los incidentes: Irán afirma haber alcanzado cuatro petroleros en 24 horas y la UKMTO confirmó un petrolero inutilizado cerca de Khasab (Omán) el 16 de noviembre. La OPEP+ decide su política de producción para 2027 el 29 de noviembre.\n\nQué puede significar: si se mantiene el crudo a la baja, el gasóleo agrícola puede seguir abaratándose, aunque un incidente grave en Ormuz lo cambiaría en horas.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "El blog del Euríbor (Reuters)",
+          "url": "https://www.euribor.com.es/2026/11/18/precio-petroleo-hoy-18-noviembre-2026/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El euríbor frena tras seis subidas seguidas (3,351 %), pero el mercado espera que el BCE suba tipos el 17 de diciembre",
+          "ambito": "España",
+          "resumen": "El euríbor a 12 meses baja una milésima a 3,351 %, con una media provisional de noviembre de 3,291 %, por encima de octubre (3,239 %).",
+          "detalle": "Según Rankia (19 de noviembre), el euríbor a 12 meses cerró el miércoles 18 en 3,351 % (−0,010), tras subir 0,157 puntos entre el 9 y el 17 de noviembre. El máximo del año es 3,379 % (25 de septiembre). El euríbor a 3 meses sube a 2,825 %, el nivel más alto desde diciembre de 2024. El mercado da por probable una subida del BCE en su reunión del 17 de diciembre (el escenario central de la fuente es llevar la facilidad de depósito del 2,50 % al 2,75 %). Hace un año, la media de noviembre era 2,217 %.\n\nQué puede significar: los préstamos variables de las explotaciones (naves, robots, maquinaria) se encarecerán en la próxima revisión; conviene tenerlo en cuenta en cualquier inversión.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Rankia",
+          "url": "https://www.rankia.com/blog/mejores-hipotecas/7557440-euribor-hoy-19-noviembre-2026"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Contratos: estos días se firman los contratos de leche; ofrece calcular el coste de alimentación por litro para que el ganadero negocie con números propios.",
+    "Cereales: con Chicago a la baja y el trigo en mínimos desde enero, buen momento para hablar de cobertura de materias primas y de la ración de invierno.",
+    "Lengua azul: el serotipo 1 aparece en vacuno en Salamanca; repasa con cada ganadero qué serotipos tiene vacunados y el control de insectos mientras siga suave el tiempo.",
+    "Inversiones: con el euríbor alto y una posible subida del BCE en diciembre, prioriza mejoras de eficiencia que se paguen pronto (conversión, sólidos en leche)."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-19",
+      "evento": "Presentación del informe COOVA–UCAN \"Continuidad y futuro de las explotaciones ganaderas\" (12:00, entrada libre)",
+      "lugar": "UPNA, campus de Arrosadia, Pamplona",
+      "url": "https://www.plazanueva.com/navarra/90-ganaderos-coova-proximos-dejar-actividad-tiene-relevo/20261114150526329391.html"
+    },
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "2026-11-22",
+      "evento": "XXVII Feria Agrícola de Invierno (fecha prevista en el calendario de junio)",
+      "lugar": "Zaldibar (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hacia el 24 nov",
+      "evento": "Propuesta provisional de las ayudas vascas (36 €/vaca de leche) en el Tablón electrónico; después, 10 días hábiles para alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+    },
+    {
+      "fecha": "2026-11-26",
+      "evento": "Marcha de Copa-Cogeca «NO CAP CUTS» contra los recortes de la PAC, durante el Consejo Europeo extraordinario sobre el presupuesto",
+      "lugar": "Bruselas",
+      "url": "https://www.moncloa.com/2026/11/16/marcha-bruselas-pac-recortes-presupuesto-3469037/"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Elecciones generales",
+      "lugar": "España",
+      "url": "https://www.agronewscastillayleon.com/union-uniones-aplaza-tractoradas-elecciones-29n"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Reunión de la OPEP+ sobre la producción de 2027",
+      "lugar": "En línea / Viena",
+      "url": "https://www.euribor.com.es/2026/11/18/precio-petroleo-hoy-18-noviembre-2026/"
+    },
+    {
+      "fecha": "2026-11-30",
+      "evento": "Feria de San Andrés con concurso de queso Idiazabal",
+      "lugar": "Eibar (Gipuzkoa)",
+      "url": "https://www.quesoidiazabal.eus/datos/agenda/archivo12/calendario_de_ferias_y_concursos_2026.pdf"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Firma de los contratos de leche para el próximo periodo (fecha límite citada por el SLG para Galicia)",
+      "lugar": "España",
+      "url": "https://galiciapress.es/articulo/economia/2026-11-18/6096663-slg-rechaza-contratos-leche-debajo-costes-produccion-exige-intervencion-aica"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Subasta Global Dairy Trade (evento 417)",
+      "lugar": "En línea",
+      "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+    }
+  ]
+}
