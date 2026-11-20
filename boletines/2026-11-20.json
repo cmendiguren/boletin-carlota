@@ -1,0 +1,371 @@
+{
+  "fecha": "2026-11-20",
+  "titulo": "Boletín Carlota – viernes 20 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-20T07:20:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos de lengua azul comunicados en el País Vasco ni en Navarra desde la actualización del MAPA del 18 de noviembre, pero ambas siguen en la lista de circulación de esta temporada y el virus sigue activo en noviembre."
+  },
+  "destacados": [
+    "Contratos de leche: Entrepinares sube 2 c/l (base 475 €/t desde el 1 de diciembre); la mayoría de industrias ofrece +1 c/l y Unión de Uniones y SLG amenazan con denunciar ante la AICA.",
+    "Chicago rebota: trigo +1,6 % y maíz +0,8 % tras la caída del miércoles; el CIC recorta 6 Mt la cosecha mundial de maíz.",
+    "Euríbor 12 meses a 3,343 % y media de noviembre en máximos del año (3,295 %); Brent estable en 92 $."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "Las primeras ofertas de contrato suben la leche entre 1 y 2 c/l, pero la ración de vacuno lechero cuesta un 14 % más que hace un año (dato de Castilla y León) y los tipos siguen subiendo. Sin cambio claro en el margen."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca, nuevo precio base Entrepinares (contratos 1 dic–31 mar)",
+      "valor": "475 €/t (3,80 % grasa y 3,20 % proteína)",
+      "variacion": "+2 c/l sobre el periodo anterior; +10 €/t por décima de proteína y +5 €/t por décima de grasa",
+      "fecha": "19 nov 2026",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/noticias/entrepinares-anuncia-una-subida-de-2-centimos-por.html"
+    },
+    {
+      "producto": "Leche de vaca en origen, media España y UE (Observatorio Europeo, provisional)",
+      "valor": "España 46,02 / UE 45,12 €/100 kg",
+      "variacion": "−11,4 % / −13,9 % frente a octubre 2025; UE +1,28 % en el mes",
+      "fecha": "octubre 2026 (publicado el 9 nov)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-union-europea-octubre-2026"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche de vaca, Lonja de León (entregas oct–nov–dic)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,475 €/l",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Coste de producción de leche, Castilla y León (Junta)",
+      "valor": "47,79 €/100 kg SCM (alimentación 28,06 = 58,7 %)",
+      "variacion": "ración completa de vacuno lechero: 268,14 €/t en semanas 40–44 (+14,45 % interanual)",
+      "fecha": "12 nov 2026 (publicado el 15 nov)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/costes-produccion-leche-vaca-castilla-leon-2026"
+    },
+    {
+      "producto": "Global Dairy Trade (evento 416): índice y precio medio",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,0 %; 4.182 USD/t (mantequilla −6,5 %, entera en polvo +2,7 %, desnatada +2,2 %)",
+      "fecha": "17 nov 2026",
+      "fuente": "eDairy News",
+      "url": "https://es.edairynews.com/global-dairy-trade-416/"
+    },
+    {
+      "producto": "Mantequilla a granel / mantequilla fresca 82 % (Polonia) / desnatada en polvo alimentaria, UE",
+      "valor": "3,93 / 3,85 / ~3,70 €/kg",
+      "variacion": "−0,10 / +0,20 frente a finales de octubre / —",
+      "fecha": "19 nov 2026",
+      "fuente": "Commodity Board (CMB)",
+      "url": "https://commodity-board.com/eu-butter-market-holiday-demand-meets-softer-wholesale-quotes"
+    },
+    {
+      "producto": "Trigo pienso / cebada / maíz, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 226 / 223 / sin cotizar €/t (= / +2 / —)",
+      "fecha": "18 nov 2026",
+      "fuente": "Lonja de León",
+      "url": "https://www.lonjadeleon.es/lonja-cereal-18-11-2026/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja de Binéfar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 245 (−2) / 242 (−1) / 253 (−1) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo, Lonja del Ebro",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 252 (−4) / 238 (−2) / 255 (−2) €/t",
+      "fecha": "semana del 9 nov 2026",
+      "fuente": "Agroinformación",
+      "url": "https://agroinformacion.com/el-informe-del-usda-frena-la-caida-del-cereal-y-estabiliza-las-cotizaciones-aunque-el-maiz-no-se-libra-de-una-mayor-presion-bajista/"
+    },
+    {
+      "producto": "Futuros Chicago: trigo (dic) / maíz (dic)",
+      "valor": "212,47 / 172,83 USD/t",
+      "variacion": "+3,31 (+1,6 %) / +1,38 (+0,8 %); soja −0,8 %",
+      "fecha": "19 nov 2026 (cierre)",
+      "fuente": "Ruralnet (Bolsa de Comercio de Rosario)",
+      "url": "https://ruralnet.com.ar/granos-19-noviembre-2026-soja-maiz/"
+    },
+    {
+      "producto": "Alfalfa en rama / alfalfa deshidratada / veza / paja de cebada, Lonja de León",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 235 / 260 / 180 / 67 €/t",
+      "fecha": "11 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precios-agrarios-9-13-noviembre-202"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), media España",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 1,671 €/l (−3,8 céntimos en un mes)",
+      "fecha": "16 nov 2026",
+      "fuente": "AgroCLM (Geoportal de Gasolineras, MITECO)",
+      "url": "https://www.agroclm.com/2026/11/16/el-precio-del-gasoleo-agricola-b-se-situa-en-1671-euros-por-litro-en-espana/"
+    },
+    {
+      "producto": "Petróleo Brent (enero)",
+      "valor": "91,98 USD/barril",
+      "variacion": "+0,03 % (18 nov: 91,95 $, −1,27 %)",
+      "fecha": "19 nov 2026 (cierre)",
+      "fuente": "Infobae (EFE)",
+      "url": "https://www.infobae.com/america/agencias/2026/11/19/el-brent-se-mantiene-sin-apenas-cambios-003-entre-senales-mixtas-en-oriente-medio/"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "3,343 %",
+      "variacion": "−0,008 en el día; media provisional de noviembre 3,295 %, la más alta del año",
+      "fecha": "19 nov 2026",
+      "fuente": "El blog del Euríbor",
+      "url": "https://www.euribor.com.es/2026/11/19/el-euribor-corta-seis-subidas-pero-su-media-marca-maximos-del-ano/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Sin novedades relevantes hoy",
+          "ambito": "España",
+          "resumen": "No hay comunicaciones nuevas de focos desde la actualización del MAPA del 18 de noviembre (lengua azul en Ávila S3, Salamanca S1 en vacuno y Cádiz S4), ya recogida ayer. Nada nuevo en el País Vasco ni en Navarra.",
+          "detalle": "La última actualización epidemiológica de lengua azul, difundida por ASAJA Castilla y León el 18 de noviembre, mantiene la lista de provincias con circulación desde el 1 de abril, en la que figuran el País Vasco y Navarra. La notificación de la primera detección de cada serotipo por provincia es obligatoria (Reglamento de Ejecución 501/2026). No se han publicado novedades sobre dermatosis nodular contagiosa, fiebre aftosa ni influenza aviar en vacuno en las últimas 24 horas en las fuentes consultadas.\n\nQué puede significar: mientras el otoño siga suave conviene mantener el control de vectores y revisar los serotipos vacunados.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-18",
+          "fuente": "ASAJA Castilla y León (MAPA)",
+          "url": "https://www.asajacyl.com/servicios-socio/lengua-azul-actualizacion-de-la-situacion-epidemiologica-18-11-2026"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Entrepinares sube 2 céntimos por litro: precio base de 475 €/t para los contratos de diciembre a marzo",
+          "ambito": "España",
+          "resumen": "Es la oferta más alta conocida en esta renovación de contratos. Base de 475 €/t con 3,80 % de grasa y 3,20 % de proteína, del 1 de diciembre al 31 de marzo.",
+          "detalle": "Según Vaca Pinta (19 de noviembre), Entrepinares fija un precio base de 475 €/t para leche con un mínimo de 3,80 % de grasa y 3,20 % de proteína, lo que supone +2 c/l sobre el periodo anterior. Cada décima adicional de proteína se paga a 10 €/t y cada décima de grasa a 5 €/t. El contrato cubre del 1 de diciembre de 2026 al 31 de marzo de 2027, un periodo corto como pedían las organizaciones agrarias. Como referencia, la Lonja de León cotiza 0,475 €/l para entregas de octubre a diciembre.\n\nQué puede significar: con primas de 10 €/t por décima de proteína, mejorar los sólidos de la leche tiene un valor directo y medible en el cheque de este invierno.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Vaca Pinta",
+          "url": "https://vacapinta.com/es/noticias/entrepinares-anuncia-una-subida-de-2-centimos-por.html"
+        },
+        {
+          "titular": "Actualización contratos de leche: AGROMURALLA y Unión de Uniones califican de insuficientes las subidas de 1 céntimo",
+          "ambito": "España",
+          "resumen": "Las industrias trasladaron el 17 de noviembre subidas de 1 c/l en la mayoría de los casos. Las organizaciones recuerdan que en marzo hubo recortes de 8 a 10 c/l y amenazan con denunciar ante la AICA.",
+          "detalle": "Según Agronews Castilla y León (18 de noviembre), AGROMURALLA (Lugo) rechaza las ofertas: +1 c/l en la mayoría de industrias y +2 c/l en Entrepinares, que recuperarían solo entre el 10 % y el 25 % de los recortes de marzo (8–10 c/l). Con el precio medio gallego de septiembre (0,455 €/l, MAPA), quedaría en 46,5–47,5 c/l, frente a costes de 47–48 c/l estimados por la Fundación Juana de Vega. Moncloa.com (19 de noviembre) añade que Unión de Uniones tacha de «irrisorias» las ofertas y que, junto al SLG, advierte de denuncias por la Ley de la Cadena Alimentaria, que prohíbe comprar por debajo del coste de producción. Las noticias se centran en Galicia; no hay datos de ofertas en el País Vasco o Navarra.\n\nQué puede significar: la referencia del mercado en esta renovación está entre +1 y +2 c/l; conviene saber qué ha ofrecido la industria a cada cliente.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Agronews Castilla y León y Moncloa.com",
+          "url": "https://www.agronewscastillayleon.com/precio-leche-agromuralla-subida-industria"
+        },
+        {
+          "titular": "Mantequilla europea a la baja en granel y desnatada en polvo firme",
+          "ambito": "UE",
+          "resumen": "La mantequilla a granel baja 0,10 €/kg (3,93 €/kg) mientras la fresca polaca sube a 3,85 €/kg; la desnatada en polvo alimentaria ronda los 3.700 €/t.",
+          "detalle": "Según Commodity Board (19 de noviembre), la mantequilla de marca en molde se mantiene en 4,50 €/kg, la de granel cae a 3,93 €/kg (−0,10) y la mantequilla fresca 82 % en Polonia (FCA Grudziądz) sube a 3,85 €/kg desde 3,65 €/kg a finales de octubre. La leche desnatada en polvo alimentaria se sitúa en torno a 3.700 €/t. La producción de materia grasa de la UE entre enero y agosto creció un 7–8 % interanual, lo que mantiene presión sobre la grasa.\n\nQué puede significar: la proteína se paga mejor que la grasa en los mercados, en línea con las primas de los nuevos contratos.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Commodity Board (CMB)",
+          "url": "https://commodity-board.com/eu-butter-market-holiday-demand-meets-softer-wholesale-quotes"
+        },
+        {
+          "titular": "Castilla y León: producir 100 kg de leche cuesta 47,79 € y la alimentación es el 58,7 %",
+          "ambito": "España",
+          "resumen": "Estudio de la Junta actualizado al 12 de noviembre: la ración completa de vacuno lechero sube un 14,45 % interanual (268,14 €/t).",
+          "detalle": "Según Agronews Castilla y León (15 de noviembre), la Junta estima un coste de 47,79 €/100 kg de leche corregida por sólidos. La alimentación supone 28,06 € (58,7 %), la mano de obra asalariada 4,76 € y la energía 2,15 €; veterinario y medicamentos, 1,75 €. La ración completa (SILUM) pasó de 234,28 a 268,14 €/t entre las semanas 40–44 de 2025 y 2026 (+14,45 %). El precio medio declarado de la leche en la comunidad bajó de 0,557 €/l en enero a 0,487 €/l en septiembre.\n\nQué puede significar: es una referencia útil de estructura de costes para comparar con las explotaciones de la zona; la conversión alimenticia es la palanca principal.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-15",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/costes-produccion-leche-vaca-castilla-leon-2026"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Sector agrario",
+      "items": [
+        {
+          "titular": "Actualización Chicago: el trigo rebota un 1,6 % y el maíz un 0,8 %; el CIC recorta la cosecha mundial de maíz",
+          "ambito": "mundo",
+          "resumen": "Tras la fuerte caída del miércoles, el trigo de diciembre cerró el jueves en 212,47 USD/t y el maíz en 172,83 USD/t. La soja cedió un 0,8 %.",
+          "detalle": "Según la Bolsa de Comercio de Rosario (vía Ruralnet, 19 de noviembre), el trigo de Chicago para diciembre subió 3,31 USD/t (+1,6 %) y el maíz 1,38 USD/t (+0,8 %), mientras la soja perdió un 0,8 %. El Consejo Internacional de Cereales recortó en 6 millones de toneladas su estimación de producción mundial de maíz 2026/27, hasta 1.301 millones. El USDA informó de ventas semanales de exportación de 1,59 Mt de maíz y 1,5 Mt de soja. En España, la última Lonja de León (18 de noviembre) dejó la cebada en 223 €/t y el trigo pienso en 226 €/t.\n\nQué puede significar: el rebote solo recupera parte de lo perdido el miércoles; el cereal pienso sigue sin presión alcista clara a corto plazo.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Ruralnet (Bolsa de Comercio de Rosario)",
+          "url": "https://ruralnet.com.ar/granos-19-noviembre-2026-soja-maiz/"
+        },
+        {
+          "titular": "Navarra lidera la inversión agroalimentaria en España: 43,1 % del valor añadido",
+          "ambito": "local",
+          "resumen": "Según CaixaBank Research, presentado ayer en Pamplona, la inversión del sector agroalimentario navarro se duplicó entre 2019 y 2024.",
+          "detalle": "El Informe Sectorial Agroalimentario 2026 de CaixaBank Research, presentado el 19 de noviembre en Pamplona, sitúa la intensidad inversora del sector agroalimentario navarro en el 43,1 % de su valor añadido bruto, la más alta de España, y señala que la inversión se duplicó entre 2019 y 2024 (Okdiario Navarra).\n\nQué puede significar: la industria agroalimentaria navarra sigue invirtiendo, algo positivo para la demanda de materias primas locales, incluida la leche.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Okdiario Navarra",
+          "url": "https://navarra.okdiario.com/navarra/sociedad/navarra-lidera-inversion-agroalimentaria-espana-dato-que-confirma-crecimiento-sector/20261119122339668259.html"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica y comercio",
+      "items": [
+        {
+          "titular": "El Brent se queda plano en 92 $: pesa más el excedente de oferta que los ataques en Ormuz",
+          "ambito": "mundo",
+          "resumen": "El crudo cerró el jueves en 91,98 $ (+0,03 %). Las conversaciones entre EE. UU. e Irán siguen en punto muerto, pero la OPEP+ y Rusia bombean más.",
+          "detalle": "Según EFE (vía Infobae, 19 de noviembre), el Brent de enero cerró en 91,98 $/barril (+0,03 %) tras caer un 1,27 % el miércoles (91,95 $). El blog del Euríbor (19 de noviembre) recoge que la OPEP+ produjo 35,6 millones de barriles diarios en octubre, segundo aumento mensual seguido, que Rusia está en 8,76 millones b/d y que los inventarios de crudo de EE. UU. subieron 3,38 millones de barriles en la semana. Continúan los ataques a petroleros en Ormuz y contra bases de EE. UU. en el Golfo. La OPEP+ se reúne el 29 de noviembre.\n\nQué puede significar: el gasóleo agrícola no debería subir a corto plazo, aunque cualquier escalada en Ormuz puede cambiarlo rápido.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "Infobae (EFE) y El blog del Euríbor",
+          "url": "https://www.infobae.com/america/agencias/2026/11/19/el-brent-se-mantiene-sin-apenas-cambios-003-entre-senales-mixtas-en-oriente-medio/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "Actualización euríbor: baja a 3,343 %, pero la media de noviembre (3,295 %) es la más alta del año",
+          "ambito": "España",
+          "resumen": "Segunda bajada ligera tras seis subidas seguidas. El mercado da casi por hecha una subida de tipos del BCE el 17 de diciembre.",
+          "detalle": "Según El blog del Euríbor (19 de noviembre), el euríbor a 12 meses cerró en 3,343 % (−0,008). La media provisional de noviembre, 3,295 %, es la mensual más alta de 2026 y supera en más de un punto la de noviembre de 2025 (2,217 %). El euríbor a 3 meses está en 2,825 %, máximo desde diciembre de 2024. Ejemplo de la fuente: un préstamo de 150.000 € a 25 años con diferencial del 1 % pagaría unos 88 € más al mes que hace un año.\n\nQué puede significar: las revisiones de préstamos de las explotaciones de este invierno vendrán al alza; cualquier inversión debe calcularse con tipos más altos.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-19",
+          "fuente": "El blog del Euríbor",
+          "url": "https://www.euribor.com.es/2026/11/19/el-euribor-corta-seis-subidas-pero-su-media-marca-maximos-del-ano/"
+        },
+        {
+          "titular": "Ayudas asociadas a la ganadería PAC 2026: el FEGA publica los importes provisionales revisados; pagos desde el 1 de diciembre",
+          "ambito": "España",
+          "resumen": "Sustituyen a los importes de septiembre usados para los anticipos y son la referencia para los pagos a partir del 1 de diciembre. La fuente no detalla la cuantía para vacuno de leche.",
+          "detalle": "Según Moncloa.com (17 de noviembre), el FEGA ha publicado los importes unitarios provisionales revisados de las ayudas asociadas ganaderas de la PAC 2026, entre ellas la de vacuno de leche. Sirven para calcular los pagos desde el 1 de diciembre; el importe definitivo depende del número de animales declarados y se cierra al final de la campaña. El artículo no recoge las cifras por cabeza.\n\nQué puede significar: en diciembre llega a las explotaciones el resto de la ayuda asociada; conviene que cada ganadero compruebe lo cobrado en el anticipo.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-17",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/17/ayudas-ganaderia-pac-2026-fega-3469739/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Contratos: con ofertas de +1 a +2 c/l y primas de 10 €/t por décima de proteína (Entrepinares), enseña cuánto vale subir sólidos con la ración: es dinero directo en el contrato de invierno.",
+    "Costes: la ración de vacuno lechero cuesta un 14 % más que hace un año (dato de Castilla y León); ofrece calcular coste de alimentación por litro y eficiencia alimenticia de cada cliente.",
+    "Cereales: Chicago sigue bajo pese al rebote; buen momento para hablar de cobertura de materias primas para el invierno.",
+    "Sanidad: sin focos nuevos en la zona, pero lengua azul sigue activa en noviembre; repasa serotipos vacunados y control de insectos."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-20",
+      "evento": "Coloquio Nacional de la Leche de Aprolep",
+      "lugar": "Maia (Portugal)",
+      "url": "https://vacapinta.com/es/noticias/aprolep-reunira-al-sector-lacteo-portugues-el-20-d.html"
+    },
+    {
+      "fecha": "2026-11-22",
+      "evento": "XXVII Feria Agrícola de Invierno (fecha prevista en el calendario de junio)",
+      "lugar": "Zaldibar (Bizkaia)",
+      "url": "https://blog.euskaltel.com/ferias-euskadi/"
+    },
+    {
+      "fecha": "hacia el 24 nov",
+      "evento": "Propuesta provisional de las ayudas vascas (36 €/vaca de leche) en el Tablón electrónico; después, 10 días hábiles para alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.irekia.euskadi.eus/es/news/114151-gobierno-vasco-publica-las-ayudas-extraordinarias-para-apoyar-sector-agrario-ante-crisis-oriente-proximo-sequia"
+    },
+    {
+      "fecha": "2026-11-26",
+      "evento": "Marcha de Copa-Cogeca «NO CAP CUTS» contra los recortes de la PAC, durante el Consejo Europeo extraordinario sobre el presupuesto",
+      "lugar": "Bruselas",
+      "url": "https://www.moncloa.com/2026/11/16/marcha-bruselas-pac-recortes-presupuesto-3469037/"
+    },
+    {
+      "fecha": "2026-11-27",
+      "evento": "Conecta Leche (MSD Animal Health y Vaca Pinta): «Construyendo hoy las granjas de leche del futuro», desde las 11:30",
+      "lugar": "Masía Vilasendra, Vic (Barcelona)",
+      "url": "https://vacapinta.com/es/noticias/conecta-leche-llegara-a-cataluna-el-27-de-noviembr.html"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Elecciones generales",
+      "lugar": "España",
+      "url": "https://www.agronewscastillayleon.com/union-uniones-aplaza-tractoradas-elecciones-29n"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Reunión de la OPEP+ sobre la producción de 2027",
+      "lugar": "En línea / Viena",
+      "url": "https://www.euribor.com.es/2026/11/18/precio-petroleo-hoy-18-noviembre-2026/"
+    },
+    {
+      "fecha": "2026-11-30",
+      "evento": "Feria de San Andrés con concurso de queso Idiazabal",
+      "lugar": "Eibar (Gipuzkoa)",
+      "url": "https://www.quesoidiazabal.eus/datos/agenda/archivo12/calendario_de_ferias_y_concursos_2026.pdf"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Plazo de pago de los anticipos de la PAC 2026",
+      "lugar": "España",
+      "url": "https://www.agrodigital.com/2026/10/26/anticipo-pac-comunidades-autonomas/"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Firma de los contratos de leche para el próximo periodo (fecha límite citada por el SLG para Galicia)",
+      "lugar": "España",
+      "url": "https://galiciapress.es/articulo/economia/2026-11-18/6096663-slg-rechaza-contratos-leche-debajo-costes-produccion-exige-intervencion-aica"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Inicio de los pagos de las ayudas asociadas ganaderas PAC 2026 (importes provisionales revisados del FEGA)",
+      "lugar": "España",
+      "url": "https://www.moncloa.com/2026/11/17/ayudas-ganaderia-pac-2026-fega-3469739/"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Subasta Global Dairy Trade (evento 417)",
+      "lugar": "En línea",
+      "url": "https://www.globaldairytrade.info/en/gdt-events/calendar/"
+    }
+  ]
+}
