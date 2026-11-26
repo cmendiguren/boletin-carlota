@@ -1,0 +1,511 @@
+{
+  "fecha": "2026-11-26",
+  "titulo": "Boletín Carlota – jueves 26 de noviembre de 2026",
+  "ejemplo": false,
+  "generado": "2026-11-26T07:00:00+01:00",
+  "semaforo": {
+    "nivel": "amarillo",
+    "motivo": "Sin focos nuevos de lengua azul, dermatosis nodular ni EHE en el País Vasco o Navarra, pero la zona sigue en el bloque con circulación de lengua azul esta temporada y Francia ha subido a riesgo alto de gripe aviar, con focos en Landas."
+  },
+  "destacados": [
+    "PAC: hoy y mañana Consejo Europeo sobre el presupuesto 2028-2034. Sánchez no va por la campaña electoral y Macron vota por España. Copa-Cogeca calcula casi un 15 % menos para la PAC y se manifiesta hoy en Bruselas.",
+    "Contratos de leche desde el 1 de diciembre: en Galicia las subidas se quedan en 1–2 c/l (Entrepinares +2, Lactalis +1,5, Capsa +1 más primas), y ya se anuncia una subida del pienso para enero.",
+    "Emisiones: desde 2027 las granjas de vacuno inscritas en el registro MTD tendrán que declarar cada año, aunque no cambie nada. La primera declaración, con los datos de 2026, vence antes del 1 de marzo de 2027 (RD 1004/2026)."
+  ],
+  "margen": {
+    "tendencia": "se mantiene",
+    "texto": "El gasóleo agrícola sigue bajando (1,610 €/l; Navarra 1,547) y el euríbor se relaja a 3,351 %, pero el Brent ha subido un 3,5 % (94,61 $) y la harina de soja sube en Chicago. Las subidas de leche de diciembre son pequeñas (1–2 c/l), así que el margen apenas cambia."
+  },
+  "precios": [
+    {
+      "producto": "Leche de vaca, nuevos contratos desde el 1 de diciembre (Galicia)",
+      "valor": "+1 a +2 c/l",
+      "variacion": "Entrepinares +2; Lactalis +1,5; Capsa +1 más primas por volumen; Inleit +1 (contrato de 9 meses)",
+      "fecha": "25 nov 2026",
+      "fuente": "Campo Galego",
+      "url": "https://www.campogalego.es/la-inestabilidad-y-la-incertidumbre-recobran-protagonismo-en-la-contratacion-de-la-leche/"
+    },
+    {
+      "producto": "Leche de vaca en origen, media España (Observatorio UE)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 46,02 €/100 kg en octubre (−11,4 % interanual); media UE 45,12 (−13,9 %)",
+      "fecha": "octubre 2026 (publicado el 9 nov)",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/precio-leche-vaca-union-europea-octubre-2026"
+    },
+    {
+      "producto": "Leche de vaca en origen, País Vasco (media declarada)",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 0,502 €/l (septiembre)",
+      "fecha": "septiembre 2026 (publicado el 3 nov)",
+      "fuente": "Vaca Pinta",
+      "url": "https://vacapinta.com/es/mercados/el-precio-medio-de-la-leche-en-espana-repunta-y-al.html"
+    },
+    {
+      "producto": "Leche convencional FrieslandCampina (Países Bajos), precio garantizado",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 47,00 €/100 kg en noviembre; el de diciembre se publica en los próximos días",
+      "fecha": "noviembre 2026",
+      "fuente": "FrieslandCampina",
+      "url": "https://www.frieslandcampina.com/news/integral-milk-price-frieslandcampina-november-2026/"
+    },
+    {
+      "producto": "Mantequilla / leche desnatada en polvo / leche entera en polvo / cheddar, media UE",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 407 / 353 / 387 / 326 €/100 kg (semana al 15 nov)",
+      "fecha": "semana al 15 nov 2026",
+      "fuente": "IndexBox (Observatorio del Mercado Lácteo de la UE)",
+      "url": "https://www.indexbox.io/blog/eu-dairy-commodity-prices-mixed-in-mid-november-2026/"
+    },
+    {
+      "producto": "Global Dairy Trade: índice",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato (evento 416, 17 nov): 0,0 %; leche entera en polvo 4.081 $/t (+2,7 %), desnatada 4.187 (+2,2 %), mantequilla 4.205 (−6,5 %); próxima subasta el 1 de diciembre",
+      "fecha": "17 nov 2026",
+      "fuente": "UkrAgroConsult",
+      "url": "https://ukragroconsult.com/en/news/gdt-dairy-price-index-remains-unchanged/"
+    },
+    {
+      "producto": "Maíz / cebada / trigo pienso, Lonja de Binéfar",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 247 / 246 / 257 €/t (18 nov); en la sesión del 25 nov vuelven a subir cebada, trigo pienso y alfalfa (cuantía aún no publicada)",
+      "fecha": "25 nov 2026",
+      "fuente": "Ferias y Mercados",
+      "url": "https://www.feriasymercados.net/index.php/lonja/index/1"
+    },
+    {
+      "producto": "Trigo / cebada / maíz, Lonja de Salamanca",
+      "valor": "237 / 233 / 243 €/t",
+      "variacion": "+3 / +3 / +2; paja 80 €/t (+3)",
+      "fecha": "23 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/lonja-salamanca-23-noviembre-2026"
+    },
+    {
+      "producto": "Maíz nacional / cebada / trigo pienso, Lonja del Ebro",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 252 / 238 / 255 €/t; alfalfa en balas de 1.ª 280 €/t",
+      "fecha": "16 nov 2026",
+      "fuente": "Agronews Castilla y León",
+      "url": "https://www.agronewscastillayleon.com/?p=204433"
+    },
+    {
+      "producto": "Futuros: trigo Euronext (dic) / maíz Euronext (mar) / maíz Chicago (dic) / trigo Chicago (dic)",
+      "valor": "241,50 €/t / 266,50 €/t / 4,34 $/bu / 5,6975 $/bu",
+      "variacion": "+1,25 / −1,25 / −0,25 c / −7,25 c; el 25 nov la harina de soja de Chicago subió un 2,4 % por compras de China",
+      "fecha": "24 nov 2026 (cierre)",
+      "fuente": "Réussir",
+      "url": "https://www.reussir.fr/articles/marche-des-cereales-du-24-novembre-2026-le-prix-du-ble-recule-chicago-le-prix-du-mais"
+    },
+    {
+      "producto": "Harina de soja 47 %, Barcelona",
+      "valor": "sin actualización hoy",
+      "variacion": "último dato: 430 €/t",
+      "fecha": "3 nov 2026",
+      "fuente": "3tres3",
+      "url": "https://www.3tres3.com/precios-materias-primas/harina-soja-47-origen-espana-barcelona_1-soj"
+    },
+    {
+      "producto": "Gasóleo B (agrícola), media España",
+      "valor": "1,610 €/l",
+      "variacion": "−0,9 céntimos; Álava 1,657, Bizkaia 1,700, Gipuzkoa 1,700 y Navarra 1,547 €/l",
+      "fecha": "26 nov 2026",
+      "fuente": "Precios del Campo (MITECO)",
+      "url": "https://preciosdelcampo.es/gasoleo-agricola/"
+    },
+    {
+      "producto": "Petróleo Brent",
+      "valor": "94,61 USD/barril",
+      "variacion": "+3,21 $ (+3,5 %) tras el ataque reivindicado por los hutíes contra Ras Tanura",
+      "fecha": "25 nov 2026 (cierre)",
+      "fuente": "Nation Thailand",
+      "url": "https://nationthailand.com/news/world/40073934"
+    },
+    {
+      "producto": "Euríbor 12 meses",
+      "valor": "3,351 %",
+      "variacion": "−0,025 frente al 24 nov",
+      "fecha": "25 nov 2026",
+      "fuente": "HelpMyCash",
+      "url": "https://www.helpmycash.com/hipotecas/euribor-actual/"
+    },
+    {
+      "producto": "Euro / dólar (cambio de referencia BCE)",
+      "valor": "1,0935 USD",
+      "variacion": "frente a 1,0963 el 24 nov",
+      "fecha": "25 nov 2026",
+      "fuente": "Banco Central Europeo",
+      "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/index.en.html"
+    },
+    {
+      "producto": "Urea / UAN (media mensual)",
+      "valor": "957,5 / 1.464,7 USD/t N",
+      "variacion": "urea −2,9 % mensual (+3,4 % interanual); UAN +4,5 % mensual (+24 % interanual)",
+      "fecha": "octubre 2026 (publicado el 17 nov)",
+      "fuente": "Agrodigital (AMIS/CRU)",
+      "url": "https://www.agrodigital.com/2026/11/17/precios-fertilizantes/"
+    }
+  ],
+  "secciones": [
+    {
+      "id": "sanidad",
+      "titulo": "Sanidad animal",
+      "items": [
+        {
+          "titular": "Sin alertas nuevas en el País Vasco ni en Navarra",
+          "ambito": "local",
+          "resumen": "No hay focos nuevos de lengua azul, dermatosis nodular, EHE ni gripe aviar en la zona en las últimas 72 horas, ni restricciones nuevas de movimiento.",
+          "detalle": "Lo último registrado en la zona es anterior: gripe aviar y enfermedad de Newcastle en aves silvestres de Portugalete (6–9 de noviembre) y virus Shamonda en una granja de vacuno de Gipuzkoa (26 de octubre). En España tampoco hay focos nuevos de lengua azul ni de dermatosis nodular desde el 18 de noviembre. Con las temperaturas bajando, la actividad del vector cae, pero conviene seguir notificando cualquier sospecha (fiebre, cojeras, lesiones en morro o pezones, abortos).",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-19",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/?p=204400"
+        },
+        {
+          "titular": "Francia sube a riesgo «alto» de gripe aviar, con focos en Landas y Gironda",
+          "ambito": "UE",
+          "resumen": "Desde el 20 de noviembre toda Francia está en riesgo alto de influenza aviar de alta patogenicidad; hay focos recientes en Landas y Gironda, cerca de Iparralde.",
+          "detalle": "El decreto obliga a confinar las aves en toda la Francia metropolitana. Desde finales de octubre hay tres focos en pequeñas explotaciones y corrales domésticos (Seine-Maritime, Gironda y Landas). Desde el 1 de agosto, 24 países europeos han detectado el virus, sobre todo en aves silvestres. Portugal confirmó además el 19 de noviembre un foco en una granja de reproductoras de Tomar (Santarém). Para el vacuno de la zona, buen momento para recordar bioseguridad: evitar el acceso de aves al pienso, silos y bebederos.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-22",
+          "fuente": "Agronews Castilla y León",
+          "url": "https://www.agronewscastillayleon.com/francia-confinamiento-aves-gripe-aviar-2026"
+        },
+        {
+          "titular": "H5N1 en vacuno de leche (actualización): la OMS notifica la primera muerte humana tras contacto con vacas",
+          "ambito": "mundo",
+          "resumen": "Ha muerto un trabajador de una granja lechera de Yakima (Washington), el primer fallecimiento en el mundo tras exposición a vacuno lechero infectado. Además, el virus ha llegado a una granja de un condado nuevo, Grant.",
+          "detalle": "La OMS lo comunicó el 24 de noviembre: era uno de los tres adultos infectados en granjas lecheras de Yakima. EE. UU. acumula 75 casos humanos de H5 desde 2024, sin contagio entre personas; el riesgo para la población general sigue siendo bajo. El virus está ya en vacuno de 22 estados, y según la secuenciación el de Grant llegó desde Idaho con movimientos de ganado. Las asociaciones de los estados piden al USDA un marco de vacunación de emergencia para las vacas. En Europa no hay casos en vacuno.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-24",
+          "fuente": "El Financiero (EFE)",
+          "url": "https://elfinanciero.com.mx/mundo/2026/11/24/gripe-aviar-en-eu-reportan-primera-muerte-por-contacto-con-gando-lechero"
+        },
+        {
+          "titular": "Antibióticos veterinarios: −53 % en Europa desde 2011, pero +5,1 % en 2024",
+          "ambito": "UE",
+          "resumen": "Las ventas de antibióticos veterinarios han bajado a la mitad en una década, pero repuntaron en 2024 según el último informe ESUAvet de la EMA.",
+          "detalle": "La subida fue del 5,1 % en animales de producción frente a 2023. Los antibióticos de categoría B («Restringir») suponen el 6 % de las ventas y las categorías C y D el 94 %. La UE quiere reducir a la mitad las ventas en ganadería para 2030, respecto a 2018. El próximo informe se espera en diciembre de 2026. En España, el uso por encima de la referencia nacional aumenta el número de visitas zoosanitarias obligatorias (RD 346/2025).",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/11/25/antibioticos-veterinarios-ventas-europa/"
+        },
+        {
+          "titular": "El Tribunal General de la UE dice que Bruselas incumplió su promesa sobre las jaulas, que incluía a los terneros",
+          "ambito": "UE",
+          "resumen": "El tribunal da la razón a 170 organizaciones de protección animal: la Comisión no presentó antes de finales de 2023 la propuesta para acabar con las jaulas.",
+          "detalle": "El origen es la iniciativa ciudadana «End the Cage Age» (casi 1,4 millones de firmas). La Estrategia Ganadera de julio de 2026 prevé una propuesta para gallinas ponedoras el 9 de diciembre y otra para cerdos en 2027, pero nada sobre terneros. La Comisión tiene dos meses para recurrir. Puede reabrir el debate sobre las jaulas individuales de terneros. Solo lo publica Moncloa.com, sin el número de asunto ni el texto de la sentencia.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/25/prohibicion-jaulas-ue-tribunal-general-3474300"
+        }
+      ]
+    },
+    {
+      "id": "ganadero",
+      "titulo": "Sector ganadero",
+      "items": [
+        {
+          "titular": "Contratos de diciembre: en Galicia las subidas se quedan en 1–2 céntimos",
+          "ambito": "España",
+          "resumen": "Las granjas gallegas esperaban al menos 2–3 c/l, pero la mayoría de los contratos de cuatro meses que empiezan el 1 de diciembre se cierran con subidas de 1–2 c/l.",
+          "detalle": "Actualización de lo de la semana pasada. Entrepinares da +2 c/l y Lactalis +1,5. Capsa da +1 c/l más primas por volumen, así que en la práctica se acerca a Lactalis. Leite Río da +4 c a algunas granjas pequeñas y +1 c a las grandes, e Inleit +1 c con contrato de nueve meses. Según el Sindicato Labrego, unas 900 granjas gallegas no llegarán a 39 c/l de precio base, y ya se ha anunciado una subida del pienso para enero. Son industrias que también compran leche en el norte, así que es buena referencia para las granjas de la zona que aún no hayan firmado.",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Campo Galego",
+          "url": "https://www.campogalego.es/la-inestabilidad-y-la-incertidumbre-recobran-protagonismo-en-la-contratacion-de-la-leche/"
+        },
+        {
+          "titular": "Granjas de vacuno: declaración anual de emisiones obligatoria desde 2027",
+          "ambito": "España",
+          "resumen": "El RD 1004/2026 obliga a las granjas de vacuno inscritas en el Registro de Mejores Técnicas Disponibles (MTD) a declarar cada año, aunque no haya cambios. La primera declaración, con datos de 2026, vence antes del 1 de marzo de 2027.",
+          "detalle": "Se publicó en el BOE el 20 de noviembre y entra en vigor el 2 de enero de 2027. Hasta ahora solo había que declarar cuando había cambios (titular, granja nueva…). El registro recoge emisiones de amoniaco, metano y óxido nitroso y el uso de recursos. Las granjas sometidas a la ley IPPC rellenan todos los apartados obligatorios; las demás, solo los cinco primeros: zona de descanso, producción de leche o carne, alimentación y recría, entre otros. Energía, agua, pastoreo y alojamiento de invierno son voluntarios. Se actualizan también las sanciones. La autoridad competente es la comunidad autónoma.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-24",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/11/24/declaracion-anual-emisiones-granjas-vacuno/"
+        },
+        {
+          "titular": "Leche importada en Galicia (actualización): 82 actas de inspección y desnatada a precio de derribo",
+          "ambito": "España",
+          "resumen": "Además de la leche cruda a 10 c/l, la Xunta ha encontrado entera importada a 25 c/l y desnatada muy barata. Su plan de control ha levantado 82 actas.",
+          "detalle": "La leche viene de Portugal, Francia, Países Bajos e Italia. Para la desnatada las fuentes no coinciden: eDairy News da 16 c/l y otro medio 6 c/l. eDairy News aclara que son operaciones aisladas, no la media de las importaciones. La Xunta revisó todos los contratos firmados en primavera: 67 actas por los contratos y 15 por materia prima y etiquetado. Hay expedientes sancionadores abiertos, pero todavía no son sanciones firmes. Galicia pide endurecer el paquete lácteo y la Ley de la Cadena.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "eDairy News",
+          "url": "https://es.edairynews.com/galicia-denuncia-importaciones-de-leche/"
+        },
+        {
+          "titular": "CME estrena los futuros europeos de mantequilla y leche en polvo y sustituirá a EEX",
+          "ambito": "UE",
+          "resumen": "El primer día, el 23 de noviembre, se negociaron 126 contratos de futuros europeos de mantequilla y leche desnatada en polvo en CME Group, que asumirá el negocio lácteo de EEX.",
+          "detalle": "Hay futuros y opciones de mantequilla, leche desnatada en polvo, lactosuero y leche líquida, que se liquidan en dinero (sin entrega), con 20 meses de vencimientos desde diciembre de 2026. EEX cerrará su negocio lácteo y sus índices pasarán a CME antes de que acabe 2027. Es una referencia útil para seguir hacia dónde va el precio de la leche en Europa.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-24",
+          "fuente": "Securities.io",
+          "url": "https://www.securities.io/cme-group-european-dairy-futures-trade-126-contracts-on-debut/"
+        }
+      ]
+    },
+    {
+      "id": "agrario",
+      "titulo": "Agrario",
+      "items": [
+        {
+          "titular": "El temporal deja rachas de 143 km/h y más de 60 l/m² en Bizkaia; el tiempo mejora desde el viernes",
+          "ambito": "local",
+          "resumen": "La alerta naranja por lluvia persistente en la vertiente cantábrica terminó esta mañana a las 9:00. Desde el viernes ganan terreno las altas presiones y el tiempo se estabiliza para el fin de semana.",
+          "detalle": "Rachas máximas: Matxitxako 143 km/h, Aralar 112, Bilbao 100 y Laguardia 85. Lluvia del miércoles: Berriatua 67 l/m², Pasaia 51 y Forua 47. Cayeron árboles en Getxo, Santurtzi, Sondika y Durango. La cota de nieve bajó a 1.000–1.200 m y hoy sube a 1.300–1.500 m. En el Pirineo navarro hubo aviso amarillo por nieve hasta primera hora de hoy. Euskalmet no prevé avisos para viernes ni sábado: buen momento para revisar daños en cubiertas, plásticos de silo y caminos.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "Radio Nervión",
+          "url": "https://www.radionervion.com/2026/11/25/el-temporal-deja-rachas-de-143-km-h-y-arboles-caidos-en-bizkaia/"
+        },
+        {
+          "titular": "El cereal sigue subiendo: Binéfar repite subidas y la harina de soja tira en Chicago",
+          "ambito": "España",
+          "resumen": "En la sesión del 25 de noviembre, Binéfar vuelve a subir cebada, trigo pienso y alfalfa; en Chicago la harina de soja subió un 2,4 % por compras de China.",
+          "detalle": "Las cuantías de Binéfar aún no se han publicado. Salamanca subió el 23 de noviembre 3 €/t el trigo (237) y la cebada (233) y 2 €/t el maíz (243). En Chicago, la harina de soja acumula más de 40 $ de subida en tres semanas, tras la venta de 132.000 t de soja a China. En Euronext, el trigo de diciembre cerró el 24 de noviembre en 241,50 €/t. Los fabricantes de pienso están cambiando maíz por cebada y trigo. La paja también sube (Binéfar 80–85 €/t, +10).",
+          "soloLargo": false,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Ferias y Mercados",
+          "url": "https://www.feriasymercados.net/index.php/lonja/index/1"
+        },
+        {
+          "titular": "Ayuda asociada a la vaca de leche 2026: 173 €/animal en el primer tramo; se paga desde el 1 de diciembre",
+          "ambito": "España",
+          "resumen": "Los importes provisionales del FEGA son 173,00 €/animal en el tramo 1 y 86,50 en el tramo 2 (zonas de montaña: 198,95 y 99,48). El primer pago, de hasta el 90 %, empieza el 1 de diciembre.",
+          "detalle": "El presupuesto es de 122 millones de euros. El 1 de diciembre empieza a pagarse hasta el 90 % de las ayudas asociadas ganaderas de la campaña 2026, y el resto llegará cuando se fijen los importes definitivos. En la zona, muchas granjas están en montaña y pueden cobrar el importe más alto.",
+          "soloLargo": true,
+          "afectaMiZona": true,
+          "fecha": "2026-11-16",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/11/16/fega-importes-provisionales-ayudas-ganaderas-2026/"
+        },
+        {
+          "titular": "Navarra amplía hasta el 22 de diciembre el plazo de las ayudas a inversiones agrarias con objetivo ambiental",
+          "ambito": "local",
+          "resumen": "El plazo de estas ayudas a inversiones en explotaciones (Resolución 312E/2026) terminaba el 30 de noviembre y se amplía hasta el 22 de diciembre.",
+          "detalle": "Da tres semanas más para preparar las solicitudes de inversiones con fines ambientales (por ejemplo, manejo de purines o eficiencia energética, según las bases). Conviene recordarlo a las granjas navarras que estuvieran pensando en invertir.",
+          "soloLargo": true,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "The Officer",
+          "url": "https://theofficer.es/navarra-amplia-hasta-el-22-de-diciembre-el-plazo-de-ayudas-a-inversiones-agrarias/"
+        }
+      ]
+    },
+    {
+      "id": "geopolitica",
+      "titulo": "Geopolítica",
+      "items": [
+        {
+          "titular": "Cumbre del presupuesto de la UE: Sánchez no va y Macron votará por España",
+          "ambito": "UE",
+          "resumen": "Pedro Sánchez no irá al Consejo Europeo de hoy y mañana, donde se negocia el presupuesto 2028-2034 y con él la PAC, porque está en campaña para las elecciones del 29 de noviembre.",
+          "detalle": "El presupuesto necesita unanimidad. Macron votará en nombre de España, pero con un voto delegado no se puede negociar en las reuniones restringidas. España está en el grupo que defiende la cohesión y la PAC frente a los «frugales» (Países Bajos, Austria, Dinamarca y Suecia). En la cumbre también se tratarán un préstamo de 45.000 millones a Ucrania y la candidatura de Pablo Hernández de Cos a la presidencia del BCE. Costa quiere cerrar el acuerdo en el Consejo de los días 17 y 18 de diciembre.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "Agroinformación (Efeagro)",
+          "url": "https://agroinformacion.com/sanchez-no-ira-esta-semana-por-las-elecciones-a-la-cumbre-de-la-ue-donde-se-debatira-el-presupuesto-europeo-y-la-futura-financiacion-de-la-pac/"
+        },
+        {
+          "titular": "Copa-Cogeca se manifiesta hoy en Bruselas: la PAC perdería casi un 15 %",
+          "ambito": "UE",
+          "resumen": "Las organizaciones agrarias europeas mantienen la marcha de hoy a las 14:00 en la Plaza de Luxemburgo. Dicen que el borrador de Costa no evita el recorte de la PAC.",
+          "detalle": "El borrador deja la PAC 2028-2034 en 293.600 millones a precios corrientes, más un mínimo del 10 % de los planes nacionales (unos 45.000 millones) reservado a la agricultura. Copa-Cogeca calcula un recorte nominal de casi el 15 %, y la reserva de crisis agraria bajaría casi 2.000 millones. Habría un tope obligatorio a las ayudas a partir de 300.000 € por explotación, con reducciones desde 100.000 €. COAG cifra la pérdida para España en 877,5 millones al año.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "eComercio Agrario",
+          "url": "https://ecomercioagrario.com/copa-y-cogeca-mantienen-la-protesta-en-bruselas-ante-los-recortes-de-la-pac/"
+        },
+        {
+          "titular": "EE. UU. anuncia aranceles por «sobrecapacidad» a la UE y otros países; Bruselas exige respetar el tope del 15 %",
+          "ambito": "mundo",
+          "resumen": "Actualización: Washington ya ha anunciado las conclusiones preliminares de su investigación (sección 301) y propone aranceles a China, la UE y otros países. La Comisión dice que Europa no es el origen del problema.",
+          "detalle": "Según Eunews, los aranceles propuestos van del 20 al 40 %, pero no se ha publicado el tipo para la UE ni la fecha de entrada en vigor. El portavoz Olof Gill recuerda que el acuerdo UE-EE. UU. fija un máximo del 15 % con todos los gravámenes incluidos. EE. UU. también propone más aranceles al azúcar brasileño fuera de cupo. Para el sector lácteo europeo, la incógnita es si afectará a quesos y mantequilla.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Eunews",
+          "url": "https://www.eunews.it/en/2026/11/25/threats-of-new-tariffs-from-the-us-the-commission-responds-overcapacity-is-affecting-us-we-are-not-the-cause/"
+        },
+        {
+          "titular": "Elecciones generales el domingo 29: qué dicen los programas sobre el campo",
+          "ambito": "España",
+          "resumen": "Agrodigital compara los programas con las demandas de Unión de Uniones: al menos 520.000 millones para la PAC, cláusulas espejo, Ley de la Cadena y relevo generacional.",
+          "detalle": "Unión de Uniones también pide al menos un 6 % de la PAC para jóvenes y una Ley de Integración Ganadera. Podemos propone una moratoria de macrogranjas y el IVA reducido de la luz para ganaderías pequeñas y medianas. El resultado marcará la posición española en el cierre del presupuesto europeo de diciembre.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "Agrodigital",
+          "url": "https://www.agrodigital.com/2026/11/25/programas-electorales-union-uniones/"
+        }
+      ]
+    },
+    {
+      "id": "rentabilidad",
+      "titulo": "Rentabilidad",
+      "items": [
+        {
+          "titular": "El Brent salta un 3,5 %, hasta 94,61 $, tras un ataque hutí reivindicado contra una refinería saudí",
+          "ambito": "mundo",
+          "resumen": "El petróleo cerró el 25 de noviembre a 94,61 $/barril (+3,21 $). El gasóleo agrícola todavía no lo refleja: hoy baja a 1,610 €/l de media y a 1,547 en Navarra.",
+          "detalle": "Los hutíes de Yemen dicen haber atacado la refinería de Ras Tanura (Arabia Saudí); el daño real no está claro. Además, el 24 de noviembre se detuvo un portacontenedores cerca de Ormuz. La OPEP+ se reúne el 29 de noviembre. En sentido contrario, la AIE prevé excedente de petróleo este trimestre. Gasóleo B hoy: Álava 1,657, Bizkaia 1,700, Gipuzkoa 1,700 €/l. Si la subida del crudo se mantiene, el gasóleo podría dejar de bajar en unos días: puede ser buen momento para llenar depósitos.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "Nation Thailand",
+          "url": "https://nationthailand.com/news/world/40073934"
+        },
+        {
+          "titular": "El arancel de carbono de la UE (CBAM) encarece los fertilizantes un 15 % este año, según Copa-Cogeca",
+          "ambito": "UE",
+          "resumen": "Copa-Cogeca pide una compensación permanente para los agricultores antes del 30 de noviembre, cuando se cierra la revisión del CBAM.",
+          "detalle": "También piden mantener la posibilidad de suspender el CBAM para fertilizantes en caso de crisis; ni la suspensión ni la compensación están aprobadas. Rabobank prevé que en 2030 la urea importada cueste un 45 % más. La urea promedió 957,5 $/t N en octubre (−2,9 % mensual) y la solución UAN 1.464,7 $/t N (+24 % interanual). Afecta al coste de las praderas y del maíz forrajero de 2027.",
+          "soloLargo": false,
+          "afectaMiZona": true,
+          "fecha": "2026-11-25",
+          "fuente": "Moncloa.com",
+          "url": "https://www.moncloa.com/2026/11/25/cbam-fertilizantes-copa-cogeca-3474651"
+        },
+        {
+          "titular": "El euríbor baja a 3,351 % y se aleja del máximo del año",
+          "ambito": "UE",
+          "resumen": "El euríbor a 12 meses cayó 0,025 puntos el 25 de noviembre; la media provisional de noviembre ronda el 3,31 %.",
+          "detalle": "El máximo del año es 3,379 % (25 de septiembre). Aun con esta bajada, las hipotecas y préstamos para inversiones en granja que se revisen ahora saldrán algo más caros que hace un año.",
+          "soloLargo": true,
+          "afectaMiZona": false,
+          "fecha": "2026-11-25",
+          "fuente": "HelpMyCash",
+          "url": "https://www.helpmycash.com/hipotecas/euribor-actual/"
+        }
+      ]
+    }
+  ],
+  "anguloComercial": [
+    "Contratos de leche: con subidas de solo 1–2 c/l, el margen está en los sólidos. Propón ajustes de ración para subir grasa y proteína y aprovechar las primas por décima, y ofrece un cálculo de coste de alimentación por litro antes de la subida del pienso que se anuncia para enero.",
+    "Después del temporal: revisa con cada granja daños en cubiertas y plásticos de silo, entradas de agua en el ensilado (riesgo de mohos y micotoxinas) y la ración de terneros con el frío.",
+    "Papeleo que viene: recuerda la nueva declaración anual de emisiones (antes del 1 de marzo de 2027), en la que alimentación y recría son apartados obligatorios. Puedes ofrecer ayuda con los datos de ración y producción.",
+    "Bioseguridad: con riesgo alto de gripe aviar en Francia y el caso mortal de H5N1 en EE. UU., aconseja impedir el acceso de aves al pienso, silos y bebederos."
+  ],
+  "agenda": [
+    {
+      "fecha": "2026-11-26",
+      "evento": "Marcha de Copa-Cogeca contra los recortes de la PAC (14:00, Plaza de Luxemburgo)",
+      "lugar": "Bruselas",
+      "url": "https://ecomercioagrario.com/copa-y-cogeca-mantienen-la-protesta-en-bruselas-ante-los-recortes-de-la-pac/"
+    },
+    {
+      "fecha": "2026-11-26/27",
+      "evento": "Consejo Europeo sobre el presupuesto 2028-2034 (España delega su voto en Francia); nuevo Consejo el 17–18 de diciembre",
+      "lugar": "Bruselas",
+      "url": "https://agroinformacion.com/sanchez-no-ira-esta-semana-por-las-elecciones-a-la-cumbre-de-la-ue-donde-se-debatira-el-presupuesto-europeo-y-la-futura-financiacion-de-la-pac/"
+    },
+    {
+      "fecha": "2026-11-27",
+      "evento": "Conecta Leche (MSD Animal Health y Vaca Pinta), desde las 11:30",
+      "lugar": "Vic (Barcelona)",
+      "url": "https://vacapinta.com/es/noticias/conecta-leche-llegara-a-cataluna-el-27-de-noviembr.html"
+    },
+    {
+      "fecha": "2026-11-28/29",
+      "evento": "Feria de ganado de San Andrés (concurso morfológico de Jaca Navarra el domingo)",
+      "lugar": "Estella-Lizarra (Navarra)",
+      "url": "https://navarra.okdiario.com/navarra/sociedad/estella-recupera-gran-cita-ganado-ferias-san-andres-suma-planes-toda-familia-calles/20261119171541668311.html"
+    },
+    {
+      "fecha": "2026-11-28",
+      "evento": "Exposición de animales",
+      "lugar": "Aulesti (Bizkaia)",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Elecciones generales y reunión de la OPEP+",
+      "lugar": "España / Viena",
+      "url": "https://www.agrodigital.com/2026/11/25/programas-electorales-union-uniones/"
+    },
+    {
+      "fecha": "2026-11-29",
+      "evento": "Ferias de Ormaiztegi, Zeberio y San Andrés de Bilbao (Ametzola)",
+      "lugar": "Gipuzkoa y Bizkaia",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-11-30",
+      "evento": "Feria de San Andrés y concurso de queso Idiazabal (Eibar); feria de Azkoitia",
+      "lugar": "Eibar y Azkoitia (Gipuzkoa)",
+      "url": "https://www.quesoidiazabal.eus/datos/agenda/archivo12/calendario_de_ferias_y_concursos_2026.pdf"
+    },
+    {
+      "fecha": "hasta el 30 nov",
+      "evento": "Firma de los contratos de leche que empiezan el 1 de diciembre; cierre de la revisión del CBAM en la UE",
+      "lugar": "España / UE",
+      "url": "https://www.campogalego.es/la-inestabilidad-y-la-incertidumbre-recobran-protagonismo-en-la-contratacion-de-la-leche/"
+    },
+    {
+      "fecha": "hacia el 1 dic",
+      "evento": "Propuesta provisional de las ayudas extraordinarias vascas (36 €/vaca de leche de más de 24 meses); después, 10 días hábiles para aceptar o alegar",
+      "lugar": "País Vasco",
+      "url": "https://www.euskadi.eus/bopv2/datos/2026/11/2604727a.pdf"
+    },
+    {
+      "fecha": "2026-12-01",
+      "evento": "Subasta Global Dairy Trade (evento 417) e inicio del pago de las ayudas asociadas ganaderas 2026 (vaca de leche: 173 €/animal en el tramo 1, hasta el 90 %)",
+      "lugar": "En línea / España",
+      "url": "https://www.agrodigital.com/2026/11/16/fega-importes-provisionales-ayudas-ganaderas-2026/"
+    },
+    {
+      "fecha": "2026-12-03",
+      "evento": "Primer Consejo Comercial UE-Mercosur",
+      "lugar": "—",
+      "url": "https://www.noticiasagropecuarias.com/2026/11/23/mercosur-ue-los-primeros-6-meses-del-acuerdo-mostraron-avances-comerciales-y-diferencias-por-los-cupos-de-carne/"
+    },
+    {
+      "fecha": "2026-12-04/08",
+      "evento": "Feria de Durango",
+      "lugar": "Durango (Bizkaia)",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-12-05",
+      "evento": "Exposición de ganado en Mendaro; ferias de Gernika, Oiartzun y Mundaka",
+      "lugar": "Gipuzkoa y Bizkaia",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-12-06",
+      "evento": "Feria de San Andrés y la Inmaculada de Gordexola, con frisonas (corrige la fecha del 5 de diciembre que dimos ayer); ferias de Atxondo, Izurtza, Plentzia, Altzo y Errezil",
+      "lugar": "Bizkaia y Gipuzkoa",
+      "url": "https://www.euskadi.eus/contenidos/informacion/ferias_locales2026/es_agripes/adjuntos/Ferias_locales_2026.pdf"
+    },
+    {
+      "fecha": "2026-12-09",
+      "evento": "La Comisión Europea prevé presentar la propuesta sobre jaulas para gallinas ponedoras",
+      "lugar": "Bruselas",
+      "url": "https://www.moncloa.com/2026/11/25/prohibicion-jaulas-ue-tribunal-general-3474300"
+    },
+    {
+      "fecha": "hasta el 22 dic",
+      "evento": "Ayudas de Navarra a inversiones agrarias con objetivo ambiental (plazo ampliado, antes 30 nov)",
+      "lugar": "Navarra",
+      "url": "https://theofficer.es/navarra-amplia-hasta-el-22-de-diciembre-el-plazo-de-ayudas-a-inversiones-agrarias/"
+    }
+  ]
+}
